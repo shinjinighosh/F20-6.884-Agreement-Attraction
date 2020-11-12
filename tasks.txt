@@ -1,0 +1,17 @@
+Data Generation
+
+- need dependency parsed and pos-tagged data
+- idea: run a dependency parser/pos tagger over wikipedia data, translate entire sentence, then
+mix and match PP/NP/CP/VPs
+
+Start with a sentence with POS tags.
+Predict Number:
+Data: sentence up to but not including the verb
+Label: pos of verb (VBZ or VBP); binary classification
+Is Grammatical:
+Data: sentences, half the time (randomly) change inflection of verb (sing to plural or vice versa)
+Label: grammatical or not (i.e. whether inflection changed); binary classification
+
+Models will have to have been trained on both languages (unsure if we should do it with monolingual examples, and then test codeswitching only in test, or if we should train on cs examples. Perhaps both?)
+
+Test on language model and also on model trained specifically for the 2 tasks.
