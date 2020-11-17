@@ -22,7 +22,7 @@ output_filename = os.path.join(input_filename[:-4] + "_trans.json")
 translator = Translator()
 translated_dict = {}
 
-print(input_filename, output_filename)
+print("Reading from", input_filename, "and writing to", output_filename)
 
 with open(input_filename) as csvfile:
     reader = csv.DictReader(csvfile)
@@ -34,7 +34,8 @@ with open(input_filename) as csvfile:
         elif "that" in full_sentence:
             NP, TP = full_sentence.split("that")
             complementizer = "that"
-        CP = complementizer + " " + TP
+        CP = complementizer + TP
+        print(NP, CP)
         if NP not in translated_dict:
             NP_translated = translator.translate(NP, dest='fr', src='en').text
             translated_dict[NP] = NP_translated
@@ -43,6 +44,11 @@ with open(input_filename) as csvfile:
             translated_dict[CP] = CP_translated
     csvfile.close()
 
+translated_dict["was"] = translator.translate("was", dest='fr', src='en').text
+translated_dict["were"] = translator.translate("were", dest='fr', src='en').text
+
 with open(output_filename, 'w') as output_file:
     json.dump(translated_dict, output_file)
     output_file.close()
+
+print("Finished translation")
