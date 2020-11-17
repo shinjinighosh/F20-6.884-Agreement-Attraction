@@ -24,6 +24,9 @@ translated_dict = {}
 
 print("Reading from", input_filename, "and writing to", output_filename)
 
+print("test")
+print(translator.translate("The waitress ", dest='fr', src='en').text)
+
 with open(input_filename) as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
@@ -34,14 +37,17 @@ with open(input_filename) as csvfile:
         elif "that" in full_sentence:
             NP, TP = full_sentence.split("that")
             complementizer = "that"
-        CP = complementizer + TP
+        CP = complementizer + " "+ TP
         print(NP, CP)
         if NP not in translated_dict:
             NP_translated = translator.translate(NP, dest='fr', src='en').text
             translated_dict[NP] = NP_translated
+            print(NP_translated)
         if CP not in translated_dict:
             CP_translated = translator.translate(CP, dest='fr', src='en').text
             translated_dict[CP] = CP_translated
+            print(CP_translated)
+
     csvfile.close()
 
 translated_dict["was"] = translator.translate("was", dest='fr', src='en').text
