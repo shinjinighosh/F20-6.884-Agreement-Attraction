@@ -1,0 +1,1537 @@
+item,condition,sentence,target,alternative
+ParkerAn_0_OBLIQUE_S,OBLIQUE_S,The waitress  sat near the girl unsurprisingly,was,were
+ParkerAn_0_OBLIQUE_S,OBLIQUE_S,The waitress  sat near the girl unsurprisingly,eétait,eétaient
+ParkerAn_0_OBLIQUE_S,OBLIQUE_S,The waitress qui s'est assis près de la fille sans surprise,was,were
+ParkerAn_0_OBLIQUE_S,OBLIQUE_S,The waitress qui s'est assis près de la fille sans surprise,eétait,eétaient
+ParkerAn_0_OBLIQUE_S,OBLIQUE_S,La serveuse sat near the girl unsurprisingly,was,were
+ParkerAn_0_OBLIQUE_S,OBLIQUE_S,La serveuse sat near the girl unsurprisingly,eétait,eétaient
+ParkerAn_0_OBLIQUE_S,OBLIQUE_S,La serveusequi s'est assis près de la fille sans surprise,was,were
+ParkerAn_0_OBLIQUE_S,OBLIQUE_S,La serveusequi s'est assis près de la fille sans surprise,eétait,eétaient
+ParkerAn_0_CORE_S,CORE_S,The waitress  sat  the girl unsurprisingly,was,were
+ParkerAn_0_CORE_S,CORE_S,The waitress  sat  the girl unsurprisingly,eétait,eétaient
+ParkerAn_0_CORE_S,CORE_S,The waitress qui a assis la fille sans surprise,was,were
+ParkerAn_0_CORE_S,CORE_S,The waitress qui a assis la fille sans surprise,eétait,eétaient
+ParkerAn_0_CORE_S,CORE_S,La serveuse sat  the girl unsurprisingly,was,were
+ParkerAn_0_CORE_S,CORE_S,La serveuse sat  the girl unsurprisingly,eétait,eétaient
+ParkerAn_0_CORE_S,CORE_S,La serveusequi a assis la fille sans surprise,was,were
+ParkerAn_0_CORE_S,CORE_S,La serveusequi a assis la fille sans surprise,eétait,eétaient
+ParkerAn_0_OBLIQUE_P,OBLIQUE_P,The waitress  sat near the girls unsurprisingly,was,were
+ParkerAn_0_OBLIQUE_P,OBLIQUE_P,The waitress  sat near the girls unsurprisingly,eétait,eétaient
+ParkerAn_0_OBLIQUE_P,OBLIQUE_P,The waitress qui s'est assis près des filles sans surprise,was,were
+ParkerAn_0_OBLIQUE_P,OBLIQUE_P,The waitress qui s'est assis près des filles sans surprise,eétait,eétaient
+ParkerAn_0_OBLIQUE_P,OBLIQUE_P,La serveuse sat near the girls unsurprisingly,was,were
+ParkerAn_0_OBLIQUE_P,OBLIQUE_P,La serveuse sat near the girls unsurprisingly,eétait,eétaient
+ParkerAn_0_OBLIQUE_P,OBLIQUE_P,La serveusequi s'est assis près des filles sans surprise,was,were
+ParkerAn_0_OBLIQUE_P,OBLIQUE_P,La serveusequi s'est assis près des filles sans surprise,eétait,eétaient
+ParkerAn_0_CORE_P,CORE_P,The waitress  sat  the girls unsurprisingly,was,were
+ParkerAn_0_CORE_P,CORE_P,The waitress  sat  the girls unsurprisingly,eétait,eétaient
+ParkerAn_0_CORE_P,CORE_P,The waitress qui a assis les filles sans surprise,was,were
+ParkerAn_0_CORE_P,CORE_P,The waitress qui a assis les filles sans surprise,eétait,eétaient
+ParkerAn_0_CORE_P,CORE_P,La serveuse sat  the girls unsurprisingly,was,were
+ParkerAn_0_CORE_P,CORE_P,La serveuse sat  the girls unsurprisingly,eétait,eétaient
+ParkerAn_0_CORE_P,CORE_P,La serveusequi a assis les filles sans surprise,was,were
+ParkerAn_0_CORE_P,CORE_P,La serveusequi a assis les filles sans surprise,eétait,eétaient
+ParkerAn_1_OBLIQUE_S,OBLIQUE_S,The dog  dug in the hole unfortunately,was,were
+ParkerAn_1_OBLIQUE_S,OBLIQUE_S,The dog  dug in the hole unfortunately,eétait,eétaient
+ParkerAn_1_OBLIQUE_S,OBLIQUE_S,The dog qui a creusé dans le trou malheureusement,was,were
+ParkerAn_1_OBLIQUE_S,OBLIQUE_S,The dog qui a creusé dans le trou malheureusement,eétait,eétaient
+ParkerAn_1_OBLIQUE_S,OBLIQUE_S,Le chien dug in the hole unfortunately,was,were
+ParkerAn_1_OBLIQUE_S,OBLIQUE_S,Le chien dug in the hole unfortunately,eétait,eétaient
+ParkerAn_1_OBLIQUE_S,OBLIQUE_S,Le chienqui a creusé dans le trou malheureusement,was,were
+ParkerAn_1_OBLIQUE_S,OBLIQUE_S,Le chienqui a creusé dans le trou malheureusement,eétait,eétaient
+ParkerAn_1_CORE_S,CORE_S,The dog  dug  the hole unfortunately,was,were
+ParkerAn_1_CORE_S,CORE_S,The dog  dug  the hole unfortunately,eétait,eétaient
+ParkerAn_1_CORE_S,CORE_S,The dog qui a creusé le trou malheureusement,was,were
+ParkerAn_1_CORE_S,CORE_S,The dog qui a creusé le trou malheureusement,eétait,eétaient
+ParkerAn_1_CORE_S,CORE_S,Le chien dug  the hole unfortunately,was,were
+ParkerAn_1_CORE_S,CORE_S,Le chien dug  the hole unfortunately,eétait,eétaient
+ParkerAn_1_CORE_S,CORE_S,Le chienqui a creusé le trou malheureusement,was,were
+ParkerAn_1_CORE_S,CORE_S,Le chienqui a creusé le trou malheureusement,eétait,eétaient
+ParkerAn_1_OBLIQUE_P,OBLIQUE_P,The dog  dug in the holes unfortunately,was,were
+ParkerAn_1_OBLIQUE_P,OBLIQUE_P,The dog  dug in the holes unfortunately,eétait,eétaient
+ParkerAn_1_OBLIQUE_P,OBLIQUE_P,The dog qui a creusé dans les trous malheureusement,was,were
+ParkerAn_1_OBLIQUE_P,OBLIQUE_P,The dog qui a creusé dans les trous malheureusement,eétait,eétaient
+ParkerAn_1_OBLIQUE_P,OBLIQUE_P,Le chien dug in the holes unfortunately,was,were
+ParkerAn_1_OBLIQUE_P,OBLIQUE_P,Le chien dug in the holes unfortunately,eétait,eétaient
+ParkerAn_1_OBLIQUE_P,OBLIQUE_P,Le chienqui a creusé dans les trous malheureusement,was,were
+ParkerAn_1_OBLIQUE_P,OBLIQUE_P,Le chienqui a creusé dans les trous malheureusement,eétait,eétaient
+ParkerAn_1_CORE_P,CORE_P,The dog  dug  the holes unfortunately,was,were
+ParkerAn_1_CORE_P,CORE_P,The dog  dug  the holes unfortunately,eétait,eétaient
+ParkerAn_1_CORE_P,CORE_P,The dog qui a creusé les trous malheureusement,was,were
+ParkerAn_1_CORE_P,CORE_P,The dog qui a creusé les trous malheureusement,eétait,eétaient
+ParkerAn_1_CORE_P,CORE_P,Le chien dug  the holes unfortunately,was,were
+ParkerAn_1_CORE_P,CORE_P,Le chien dug  the holes unfortunately,eétait,eétaient
+ParkerAn_1_CORE_P,CORE_P,Le chienqui a creusé les trous malheureusement,was,were
+ParkerAn_1_CORE_P,CORE_P,Le chienqui a creusé les trous malheureusement,eétait,eétaient
+ParkerAn_2_OBLIQUE_S,OBLIQUE_S,The boy  played in the game apparently,was,were
+ParkerAn_2_OBLIQUE_S,OBLIQUE_S,The boy  played in the game apparently,eétait,eétaient
+ParkerAn_2_OBLIQUE_S,OBLIQUE_S,The boy qui a joué dans le jeu apparemment,was,were
+ParkerAn_2_OBLIQUE_S,OBLIQUE_S,The boy qui a joué dans le jeu apparemment,eétait,eétaient
+ParkerAn_2_OBLIQUE_S,OBLIQUE_S,Le garçon played in the game apparently,was,were
+ParkerAn_2_OBLIQUE_S,OBLIQUE_S,Le garçon played in the game apparently,eétait,eétaient
+ParkerAn_2_OBLIQUE_S,OBLIQUE_S,Le garçonqui a joué dans le jeu apparemment,was,were
+ParkerAn_2_OBLIQUE_S,OBLIQUE_S,Le garçonqui a joué dans le jeu apparemment,eétait,eétaient
+ParkerAn_2_CORE_S,CORE_S,The boy  played  the game apparently,was,were
+ParkerAn_2_CORE_S,CORE_S,The boy  played  the game apparently,eétait,eétaient
+ParkerAn_2_CORE_S,CORE_S,The boy qui a joué le jeu apparemment,was,were
+ParkerAn_2_CORE_S,CORE_S,The boy qui a joué le jeu apparemment,eétait,eétaient
+ParkerAn_2_CORE_S,CORE_S,Le garçon played  the game apparently,was,were
+ParkerAn_2_CORE_S,CORE_S,Le garçon played  the game apparently,eétait,eétaient
+ParkerAn_2_CORE_S,CORE_S,Le garçonqui a joué le jeu apparemment,was,were
+ParkerAn_2_CORE_S,CORE_S,Le garçonqui a joué le jeu apparemment,eétait,eétaient
+ParkerAn_2_OBLIQUE_P,OBLIQUE_P,The boy  played in the games apparently,was,were
+ParkerAn_2_OBLIQUE_P,OBLIQUE_P,The boy  played in the games apparently,eétait,eétaient
+ParkerAn_2_OBLIQUE_P,OBLIQUE_P,The boy qui a joué dans les jeux apparemment,was,were
+ParkerAn_2_OBLIQUE_P,OBLIQUE_P,The boy qui a joué dans les jeux apparemment,eétait,eétaient
+ParkerAn_2_OBLIQUE_P,OBLIQUE_P,Le garçon played in the games apparently,was,were
+ParkerAn_2_OBLIQUE_P,OBLIQUE_P,Le garçon played in the games apparently,eétait,eétaient
+ParkerAn_2_OBLIQUE_P,OBLIQUE_P,Le garçonqui a joué dans les jeux apparemment,was,were
+ParkerAn_2_OBLIQUE_P,OBLIQUE_P,Le garçonqui a joué dans les jeux apparemment,eétait,eétaient
+ParkerAn_2_CORE_P,CORE_P,The boy  played  the games apparently,was,were
+ParkerAn_2_CORE_P,CORE_P,The boy  played  the games apparently,eétait,eétaient
+ParkerAn_2_CORE_P,CORE_P,The boy qui a joué aux jeux apparemment,was,were
+ParkerAn_2_CORE_P,CORE_P,The boy qui a joué aux jeux apparemment,eétait,eétaient
+ParkerAn_2_CORE_P,CORE_P,Le garçon played  the games apparently,was,were
+ParkerAn_2_CORE_P,CORE_P,Le garçon played  the games apparently,eétait,eétaient
+ParkerAn_2_CORE_P,CORE_P,Le garçonqui a joué aux jeux apparemment,was,were
+ParkerAn_2_CORE_P,CORE_P,Le garçonqui a joué aux jeux apparemment,eétait,eétaient
+ParkerAn_3_OBLIQUE_S,OBLIQUE_S,The mom  drove with the kid unsurprisingly,was,were
+ParkerAn_3_OBLIQUE_S,OBLIQUE_S,The mom  drove with the kid unsurprisingly,eétait,eétaient
+ParkerAn_3_OBLIQUE_S,OBLIQUE_S,The mom qui a conduit avec l'enfant sans surprise,was,were
+ParkerAn_3_OBLIQUE_S,OBLIQUE_S,The mom qui a conduit avec l'enfant sans surprise,eétait,eétaient
+ParkerAn_3_OBLIQUE_S,OBLIQUE_S,La mère drove with the kid unsurprisingly,was,were
+ParkerAn_3_OBLIQUE_S,OBLIQUE_S,La mère drove with the kid unsurprisingly,eétait,eétaient
+ParkerAn_3_OBLIQUE_S,OBLIQUE_S,La mèrequi a conduit avec l'enfant sans surprise,was,were
+ParkerAn_3_OBLIQUE_S,OBLIQUE_S,La mèrequi a conduit avec l'enfant sans surprise,eétait,eétaient
+ParkerAn_3_CORE_S,CORE_S,The mom  drove  the kid unsurprisingly,was,were
+ParkerAn_3_CORE_S,CORE_S,The mom  drove  the kid unsurprisingly,eétait,eétaient
+ParkerAn_3_CORE_S,CORE_S,The mom qui a conduit l'enfant sans surprise,was,were
+ParkerAn_3_CORE_S,CORE_S,The mom qui a conduit l'enfant sans surprise,eétait,eétaient
+ParkerAn_3_CORE_S,CORE_S,La mère drove  the kid unsurprisingly,was,were
+ParkerAn_3_CORE_S,CORE_S,La mère drove  the kid unsurprisingly,eétait,eétaient
+ParkerAn_3_CORE_S,CORE_S,La mèrequi a conduit l'enfant sans surprise,was,were
+ParkerAn_3_CORE_S,CORE_S,La mèrequi a conduit l'enfant sans surprise,eétait,eétaient
+ParkerAn_3_OBLIQUE_P,OBLIQUE_P,The mom  drove with the kids unsurprisingly,was,were
+ParkerAn_3_OBLIQUE_P,OBLIQUE_P,The mom  drove with the kids unsurprisingly,eétait,eétaient
+ParkerAn_3_OBLIQUE_P,OBLIQUE_P,The mom qui a conduit avec les enfants sans surprise,was,were
+ParkerAn_3_OBLIQUE_P,OBLIQUE_P,The mom qui a conduit avec les enfants sans surprise,eétait,eétaient
+ParkerAn_3_OBLIQUE_P,OBLIQUE_P,La mère drove with the kids unsurprisingly,was,were
+ParkerAn_3_OBLIQUE_P,OBLIQUE_P,La mère drove with the kids unsurprisingly,eétait,eétaient
+ParkerAn_3_OBLIQUE_P,OBLIQUE_P,La mèrequi a conduit avec les enfants sans surprise,was,were
+ParkerAn_3_OBLIQUE_P,OBLIQUE_P,La mèrequi a conduit avec les enfants sans surprise,eétait,eétaient
+ParkerAn_3_CORE_P,CORE_P,The mom  drove  the kids unsurprisingly,was,were
+ParkerAn_3_CORE_P,CORE_P,The mom  drove  the kids unsurprisingly,eétait,eétaient
+ParkerAn_3_CORE_P,CORE_P,The mom qui a conduit les enfants sans surprise,was,were
+ParkerAn_3_CORE_P,CORE_P,The mom qui a conduit les enfants sans surprise,eétait,eétaient
+ParkerAn_3_CORE_P,CORE_P,La mère drove  the kids unsurprisingly,was,were
+ParkerAn_3_CORE_P,CORE_P,La mère drove  the kids unsurprisingly,eétait,eétaient
+ParkerAn_3_CORE_P,CORE_P,La mèrequi a conduit les enfants sans surprise,was,were
+ParkerAn_3_CORE_P,CORE_P,La mèrequi a conduit les enfants sans surprise,eétait,eétaient
+ParkerAn_4_OBLIQUE_S,OBLIQUE_S,The kid  hid behind the toy definitely,was,were
+ParkerAn_4_OBLIQUE_S,OBLIQUE_S,The kid  hid behind the toy definitely,eétait,eétaient
+ParkerAn_4_OBLIQUE_S,OBLIQUE_S,The kid qui s'est caché derrière le jouet définitivement,was,were
+ParkerAn_4_OBLIQUE_S,OBLIQUE_S,The kid qui s'est caché derrière le jouet définitivement,eétait,eétaient
+ParkerAn_4_OBLIQUE_S,OBLIQUE_S,L'enfant hid behind the toy definitely,was,were
+ParkerAn_4_OBLIQUE_S,OBLIQUE_S,L'enfant hid behind the toy definitely,eétait,eétaient
+ParkerAn_4_OBLIQUE_S,OBLIQUE_S,L'enfantqui s'est caché derrière le jouet définitivement,was,were
+ParkerAn_4_OBLIQUE_S,OBLIQUE_S,L'enfantqui s'est caché derrière le jouet définitivement,eétait,eétaient
+ParkerAn_4_CORE_S,CORE_S,The kid  hid  the toy definitely,was,were
+ParkerAn_4_CORE_S,CORE_S,The kid  hid  the toy definitely,eétait,eétaient
+ParkerAn_4_CORE_S,CORE_S,The kid qui a définitivement caché le jouet,was,were
+ParkerAn_4_CORE_S,CORE_S,The kid qui a définitivement caché le jouet,eétait,eétaient
+ParkerAn_4_CORE_S,CORE_S,L'enfant hid  the toy definitely,was,were
+ParkerAn_4_CORE_S,CORE_S,L'enfant hid  the toy definitely,eétait,eétaient
+ParkerAn_4_CORE_S,CORE_S,L'enfantqui a définitivement caché le jouet,was,were
+ParkerAn_4_CORE_S,CORE_S,L'enfantqui a définitivement caché le jouet,eétait,eétaient
+ParkerAn_4_OBLIQUE_P,OBLIQUE_P,The kid  hid behind the toys definitely,was,were
+ParkerAn_4_OBLIQUE_P,OBLIQUE_P,The kid  hid behind the toys definitely,eétait,eétaient
+ParkerAn_4_OBLIQUE_P,OBLIQUE_P,The kid qui s'est caché derrière les jouets définitivement,was,were
+ParkerAn_4_OBLIQUE_P,OBLIQUE_P,The kid qui s'est caché derrière les jouets définitivement,eétait,eétaient
+ParkerAn_4_OBLIQUE_P,OBLIQUE_P,L'enfant hid behind the toys definitely,was,were
+ParkerAn_4_OBLIQUE_P,OBLIQUE_P,L'enfant hid behind the toys definitely,eétait,eétaient
+ParkerAn_4_OBLIQUE_P,OBLIQUE_P,L'enfantqui s'est caché derrière les jouets définitivement,was,were
+ParkerAn_4_OBLIQUE_P,OBLIQUE_P,L'enfantqui s'est caché derrière les jouets définitivement,eétait,eétaient
+ParkerAn_4_CORE_P,CORE_P,The kid  hid  the toys definitely,was,were
+ParkerAn_4_CORE_P,CORE_P,The kid  hid  the toys definitely,eétait,eétaient
+ParkerAn_4_CORE_P,CORE_P,The kid qui a définitivement caché les jouets,was,were
+ParkerAn_4_CORE_P,CORE_P,The kid qui a définitivement caché les jouets,eétait,eétaient
+ParkerAn_4_CORE_P,CORE_P,L'enfant hid  the toys definitely,was,were
+ParkerAn_4_CORE_P,CORE_P,L'enfant hid  the toys definitely,eétait,eétaient
+ParkerAn_4_CORE_P,CORE_P,L'enfantqui a définitivement caché les jouets,was,were
+ParkerAn_4_CORE_P,CORE_P,L'enfantqui a définitivement caché les jouets,eétait,eétaient
+ParkerAn_5_OBLIQUE_S,OBLIQUE_S,The policeman  patrolled through the neighborhood evidently,was,were
+ParkerAn_5_OBLIQUE_S,OBLIQUE_S,The policeman  patrolled through the neighborhood evidently,eétait,eétaient
+ParkerAn_5_OBLIQUE_S,OBLIQUE_S,The policeman qui a patrouillé dans le quartier évidemment,was,were
+ParkerAn_5_OBLIQUE_S,OBLIQUE_S,The policeman qui a patrouillé dans le quartier évidemment,eétait,eétaient
+ParkerAn_5_OBLIQUE_S,OBLIQUE_S,Le policier patrolled through the neighborhood evidently,was,were
+ParkerAn_5_OBLIQUE_S,OBLIQUE_S,Le policier patrolled through the neighborhood evidently,eétait,eétaient
+ParkerAn_5_OBLIQUE_S,OBLIQUE_S,Le policierqui a patrouillé dans le quartier évidemment,was,were
+ParkerAn_5_OBLIQUE_S,OBLIQUE_S,Le policierqui a patrouillé dans le quartier évidemment,eétait,eétaient
+ParkerAn_5_CORE_S,CORE_S,The policeman  patrolled  the neighborhood evidently,was,were
+ParkerAn_5_CORE_S,CORE_S,The policeman  patrolled  the neighborhood evidently,eétait,eétaient
+ParkerAn_5_CORE_S,CORE_S,The policeman qui patrouillait évidemment dans le quartier,was,were
+ParkerAn_5_CORE_S,CORE_S,The policeman qui patrouillait évidemment dans le quartier,eétait,eétaient
+ParkerAn_5_CORE_S,CORE_S,Le policier patrolled  the neighborhood evidently,was,were
+ParkerAn_5_CORE_S,CORE_S,Le policier patrolled  the neighborhood evidently,eétait,eétaient
+ParkerAn_5_CORE_S,CORE_S,Le policierqui patrouillait évidemment dans le quartier,was,were
+ParkerAn_5_CORE_S,CORE_S,Le policierqui patrouillait évidemment dans le quartier,eétait,eétaient
+ParkerAn_5_OBLIQUE_P,OBLIQUE_P,The policeman  patrolled through the neighborhoods evidently,was,were
+ParkerAn_5_OBLIQUE_P,OBLIQUE_P,The policeman  patrolled through the neighborhoods evidently,eétait,eétaient
+ParkerAn_5_OBLIQUE_P,OBLIQUE_P,The policeman qui patrouillait dans les quartiers de toute évidence,was,were
+ParkerAn_5_OBLIQUE_P,OBLIQUE_P,The policeman qui patrouillait dans les quartiers de toute évidence,eétait,eétaient
+ParkerAn_5_OBLIQUE_P,OBLIQUE_P,Le policier patrolled through the neighborhoods evidently,was,were
+ParkerAn_5_OBLIQUE_P,OBLIQUE_P,Le policier patrolled through the neighborhoods evidently,eétait,eétaient
+ParkerAn_5_OBLIQUE_P,OBLIQUE_P,Le policierqui patrouillait dans les quartiers de toute évidence,was,were
+ParkerAn_5_OBLIQUE_P,OBLIQUE_P,Le policierqui patrouillait dans les quartiers de toute évidence,eétait,eétaient
+ParkerAn_5_CORE_P,CORE_P,The policeman  patrolled  the neighborhoods evidently,was,were
+ParkerAn_5_CORE_P,CORE_P,The policeman  patrolled  the neighborhoods evidently,eétait,eétaient
+ParkerAn_5_CORE_P,CORE_P,The policeman qui patrouillait évidemment dans les quartiers,was,were
+ParkerAn_5_CORE_P,CORE_P,The policeman qui patrouillait évidemment dans les quartiers,eétait,eétaient
+ParkerAn_5_CORE_P,CORE_P,Le policier patrolled  the neighborhoods evidently,was,were
+ParkerAn_5_CORE_P,CORE_P,Le policier patrolled  the neighborhoods evidently,eétait,eétaient
+ParkerAn_5_CORE_P,CORE_P,Le policierqui patrouillait évidemment dans les quartiers,was,were
+ParkerAn_5_CORE_P,CORE_P,Le policierqui patrouillait évidemment dans les quartiers,eétait,eétaient
+ParkerAn_6_OBLIQUE_S,OBLIQUE_S,The goat  ate from the can evidently,was,were
+ParkerAn_6_OBLIQUE_S,OBLIQUE_S,The goat  ate from the can evidently,eétait,eétaient
+ParkerAn_6_OBLIQUE_S,OBLIQUE_S,The goat qui a mangé de la boîte évidemment,was,were
+ParkerAn_6_OBLIQUE_S,OBLIQUE_S,The goat qui a mangé de la boîte évidemment,eétait,eétaient
+ParkerAn_6_OBLIQUE_S,OBLIQUE_S,La chèvre ate from the can evidently,was,were
+ParkerAn_6_OBLIQUE_S,OBLIQUE_S,La chèvre ate from the can evidently,eétait,eétaient
+ParkerAn_6_OBLIQUE_S,OBLIQUE_S,La chèvrequi a mangé de la boîte évidemment,was,were
+ParkerAn_6_OBLIQUE_S,OBLIQUE_S,La chèvrequi a mangé de la boîte évidemment,eétait,eétaient
+ParkerAn_6_CORE_S,CORE_S,The goat  ate  the can evidently,was,were
+ParkerAn_6_CORE_S,CORE_S,The goat  ate  the can evidently,eétait,eétaient
+ParkerAn_6_CORE_S,CORE_S,The goat qui a mangé la canette évidemment,was,were
+ParkerAn_6_CORE_S,CORE_S,The goat qui a mangé la canette évidemment,eétait,eétaient
+ParkerAn_6_CORE_S,CORE_S,La chèvre ate  the can evidently,was,were
+ParkerAn_6_CORE_S,CORE_S,La chèvre ate  the can evidently,eétait,eétaient
+ParkerAn_6_CORE_S,CORE_S,La chèvrequi a mangé la canette évidemment,was,were
+ParkerAn_6_CORE_S,CORE_S,La chèvrequi a mangé la canette évidemment,eétait,eétaient
+ParkerAn_6_OBLIQUE_P,OBLIQUE_P,The goat  ate from the cans evidently,was,were
+ParkerAn_6_OBLIQUE_P,OBLIQUE_P,The goat  ate from the cans evidently,eétait,eétaient
+ParkerAn_6_OBLIQUE_P,OBLIQUE_P,The goat qui a mangé des canettes de toute évidence,was,were
+ParkerAn_6_OBLIQUE_P,OBLIQUE_P,The goat qui a mangé des canettes de toute évidence,eétait,eétaient
+ParkerAn_6_OBLIQUE_P,OBLIQUE_P,La chèvre ate from the cans evidently,was,were
+ParkerAn_6_OBLIQUE_P,OBLIQUE_P,La chèvre ate from the cans evidently,eétait,eétaient
+ParkerAn_6_OBLIQUE_P,OBLIQUE_P,La chèvrequi a mangé des canettes de toute évidence,was,were
+ParkerAn_6_OBLIQUE_P,OBLIQUE_P,La chèvrequi a mangé des canettes de toute évidence,eétait,eétaient
+ParkerAn_6_CORE_P,CORE_P,The goat  ate  the cans evidently,was,were
+ParkerAn_6_CORE_P,CORE_P,The goat  ate  the cans evidently,eétait,eétaient
+ParkerAn_6_CORE_P,CORE_P,The goat qui a mangé les canettes de toute évidence,was,were
+ParkerAn_6_CORE_P,CORE_P,The goat qui a mangé les canettes de toute évidence,eétait,eétaient
+ParkerAn_6_CORE_P,CORE_P,La chèvre ate  the cans evidently,was,were
+ParkerAn_6_CORE_P,CORE_P,La chèvre ate  the cans evidently,eétait,eétaient
+ParkerAn_6_CORE_P,CORE_P,La chèvrequi a mangé les canettes de toute évidence,was,were
+ParkerAn_6_CORE_P,CORE_P,La chèvrequi a mangé les canettes de toute évidence,eétait,eétaient
+ParkerAn_7_OBLIQUE_S,OBLIQUE_S,The scientist  prepared for the experiment suddenly,was,were
+ParkerAn_7_OBLIQUE_S,OBLIQUE_S,The scientist  prepared for the experiment suddenly,eétait,eétaient
+ParkerAn_7_OBLIQUE_S,OBLIQUE_S,The scientist qui s'est préparé soudainement à l'expérience,was,were
+ParkerAn_7_OBLIQUE_S,OBLIQUE_S,The scientist qui s'est préparé soudainement à l'expérience,eétait,eétaient
+ParkerAn_7_OBLIQUE_S,OBLIQUE_S,Le scientifique prepared for the experiment suddenly,was,were
+ParkerAn_7_OBLIQUE_S,OBLIQUE_S,Le scientifique prepared for the experiment suddenly,eétait,eétaient
+ParkerAn_7_OBLIQUE_S,OBLIQUE_S,Le scientifiquequi s'est préparé soudainement à l'expérience,was,were
+ParkerAn_7_OBLIQUE_S,OBLIQUE_S,Le scientifiquequi s'est préparé soudainement à l'expérience,eétait,eétaient
+ParkerAn_7_CORE_S,CORE_S,The scientist  prepared  the experiment suddenly,was,were
+ParkerAn_7_CORE_S,CORE_S,The scientist  prepared  the experiment suddenly,eétait,eétaient
+ParkerAn_7_CORE_S,CORE_S,The scientist qui a préparé l'expérience soudainement,was,were
+ParkerAn_7_CORE_S,CORE_S,The scientist qui a préparé l'expérience soudainement,eétait,eétaient
+ParkerAn_7_CORE_S,CORE_S,Le scientifique prepared  the experiment suddenly,was,were
+ParkerAn_7_CORE_S,CORE_S,Le scientifique prepared  the experiment suddenly,eétait,eétaient
+ParkerAn_7_CORE_S,CORE_S,Le scientifiquequi a préparé l'expérience soudainement,was,were
+ParkerAn_7_CORE_S,CORE_S,Le scientifiquequi a préparé l'expérience soudainement,eétait,eétaient
+ParkerAn_7_OBLIQUE_P,OBLIQUE_P,The scientist  prepared for the experiments suddenly,was,were
+ParkerAn_7_OBLIQUE_P,OBLIQUE_P,The scientist  prepared for the experiments suddenly,eétait,eétaient
+ParkerAn_7_OBLIQUE_P,OBLIQUE_P,The scientist qui s'est préparé soudainement aux expériences,was,were
+ParkerAn_7_OBLIQUE_P,OBLIQUE_P,The scientist qui s'est préparé soudainement aux expériences,eétait,eétaient
+ParkerAn_7_OBLIQUE_P,OBLIQUE_P,Le scientifique prepared for the experiments suddenly,was,were
+ParkerAn_7_OBLIQUE_P,OBLIQUE_P,Le scientifique prepared for the experiments suddenly,eétait,eétaient
+ParkerAn_7_OBLIQUE_P,OBLIQUE_P,Le scientifiquequi s'est préparé soudainement aux expériences,was,were
+ParkerAn_7_OBLIQUE_P,OBLIQUE_P,Le scientifiquequi s'est préparé soudainement aux expériences,eétait,eétaient
+ParkerAn_7_CORE_P,CORE_P,The scientist  prepared  the experiments suddenly,was,were
+ParkerAn_7_CORE_P,CORE_P,The scientist  prepared  the experiments suddenly,eétait,eétaient
+ParkerAn_7_CORE_P,CORE_P,The scientist qui a préparé les expériences soudainement,was,were
+ParkerAn_7_CORE_P,CORE_P,The scientist qui a préparé les expériences soudainement,eétait,eétaient
+ParkerAn_7_CORE_P,CORE_P,Le scientifique prepared  the experiments suddenly,was,were
+ParkerAn_7_CORE_P,CORE_P,Le scientifique prepared  the experiments suddenly,eétait,eétaient
+ParkerAn_7_CORE_P,CORE_P,Le scientifiquequi a préparé les expériences soudainement,was,were
+ParkerAn_7_CORE_P,CORE_P,Le scientifiquequi a préparé les expériences soudainement,eétait,eétaient
+ParkerAn_8_OBLIQUE_S,OBLIQUE_S,The student  wrote to the professor likely,was,were
+ParkerAn_8_OBLIQUE_S,OBLIQUE_S,The student  wrote to the professor likely,eétait,eétaient
+ParkerAn_8_OBLIQUE_S,OBLIQUE_S,The student qui a probablement écrit au professeur,was,were
+ParkerAn_8_OBLIQUE_S,OBLIQUE_S,The student qui a probablement écrit au professeur,eétait,eétaient
+ParkerAn_8_OBLIQUE_S,OBLIQUE_S,L'étudiant wrote to the professor likely,was,were
+ParkerAn_8_OBLIQUE_S,OBLIQUE_S,L'étudiant wrote to the professor likely,eétait,eétaient
+ParkerAn_8_OBLIQUE_S,OBLIQUE_S,L'étudiantqui a probablement écrit au professeur,was,were
+ParkerAn_8_OBLIQUE_S,OBLIQUE_S,L'étudiantqui a probablement écrit au professeur,eétait,eétaient
+ParkerAn_8_CORE_S,CORE_S,The student  wrote  the professor likely,was,were
+ParkerAn_8_CORE_S,CORE_S,The student  wrote  the professor likely,eétait,eétaient
+ParkerAn_8_CORE_S,CORE_S,The student qui a probablement écrit le professeur,was,were
+ParkerAn_8_CORE_S,CORE_S,The student qui a probablement écrit le professeur,eétait,eétaient
+ParkerAn_8_CORE_S,CORE_S,L'étudiant wrote  the professor likely,was,were
+ParkerAn_8_CORE_S,CORE_S,L'étudiant wrote  the professor likely,eétait,eétaient
+ParkerAn_8_CORE_S,CORE_S,L'étudiantqui a probablement écrit le professeur,was,were
+ParkerAn_8_CORE_S,CORE_S,L'étudiantqui a probablement écrit le professeur,eétait,eétaient
+ParkerAn_8_OBLIQUE_P,OBLIQUE_P,The student  wrote to the professors likely,was,were
+ParkerAn_8_OBLIQUE_P,OBLIQUE_P,The student  wrote to the professors likely,eétait,eétaient
+ParkerAn_8_OBLIQUE_P,OBLIQUE_P,The student qui a probablement écrit aux professeurs,was,were
+ParkerAn_8_OBLIQUE_P,OBLIQUE_P,The student qui a probablement écrit aux professeurs,eétait,eétaient
+ParkerAn_8_OBLIQUE_P,OBLIQUE_P,L'étudiant wrote to the professors likely,was,were
+ParkerAn_8_OBLIQUE_P,OBLIQUE_P,L'étudiant wrote to the professors likely,eétait,eétaient
+ParkerAn_8_OBLIQUE_P,OBLIQUE_P,L'étudiantqui a probablement écrit aux professeurs,was,were
+ParkerAn_8_OBLIQUE_P,OBLIQUE_P,L'étudiantqui a probablement écrit aux professeurs,eétait,eétaient
+ParkerAn_8_CORE_P,CORE_P,The student  wrote  the professors likely,was,were
+ParkerAn_8_CORE_P,CORE_P,The student  wrote  the professors likely,eétait,eétaient
+ParkerAn_8_CORE_P,CORE_P,The student qui a probablement écrit aux professeurs,was,were
+ParkerAn_8_CORE_P,CORE_P,The student qui a probablement écrit aux professeurs,eétait,eétaient
+ParkerAn_8_CORE_P,CORE_P,L'étudiant wrote  the professors likely,was,were
+ParkerAn_8_CORE_P,CORE_P,L'étudiant wrote  the professors likely,eétait,eétaient
+ParkerAn_8_CORE_P,CORE_P,L'étudiantqui a probablement écrit aux professeurs,was,were
+ParkerAn_8_CORE_P,CORE_P,L'étudiantqui a probablement écrit aux professeurs,eétait,eétaient
+ParkerAn_9_OBLIQUE_S,OBLIQUE_S,The journalist  read about the report apparently,was,were
+ParkerAn_9_OBLIQUE_S,OBLIQUE_S,The journalist  read about the report apparently,eétait,eétaient
+ParkerAn_9_OBLIQUE_S,OBLIQUE_S,The journalist qui a lu le rapport apparemment,was,were
+ParkerAn_9_OBLIQUE_S,OBLIQUE_S,The journalist qui a lu le rapport apparemment,eétait,eétaient
+ParkerAn_9_OBLIQUE_S,OBLIQUE_S,La journaliste read about the report apparently,was,were
+ParkerAn_9_OBLIQUE_S,OBLIQUE_S,La journaliste read about the report apparently,eétait,eétaient
+ParkerAn_9_OBLIQUE_S,OBLIQUE_S,La journalistequi a lu le rapport apparemment,was,were
+ParkerAn_9_OBLIQUE_S,OBLIQUE_S,La journalistequi a lu le rapport apparemment,eétait,eétaient
+ParkerAn_9_CORE_S,CORE_S,The journalist  read  the report apparently,was,were
+ParkerAn_9_CORE_S,CORE_S,The journalist  read  the report apparently,eétait,eétaient
+ParkerAn_9_CORE_S,CORE_S,The journalist qui a lu le rapport apparemment,was,were
+ParkerAn_9_CORE_S,CORE_S,The journalist qui a lu le rapport apparemment,eétait,eétaient
+ParkerAn_9_CORE_S,CORE_S,La journaliste read  the report apparently,was,were
+ParkerAn_9_CORE_S,CORE_S,La journaliste read  the report apparently,eétait,eétaient
+ParkerAn_9_CORE_S,CORE_S,La journalistequi a lu le rapport apparemment,was,were
+ParkerAn_9_CORE_S,CORE_S,La journalistequi a lu le rapport apparemment,eétait,eétaient
+ParkerAn_9_OBLIQUE_P,OBLIQUE_P,The journalist  read about the reports apparently,was,were
+ParkerAn_9_OBLIQUE_P,OBLIQUE_P,The journalist  read about the reports apparently,eétait,eétaient
+ParkerAn_9_OBLIQUE_P,OBLIQUE_P,The journalist qui a lu les rapports apparemment,was,were
+ParkerAn_9_OBLIQUE_P,OBLIQUE_P,The journalist qui a lu les rapports apparemment,eétait,eétaient
+ParkerAn_9_OBLIQUE_P,OBLIQUE_P,La journaliste read about the reports apparently,was,were
+ParkerAn_9_OBLIQUE_P,OBLIQUE_P,La journaliste read about the reports apparently,eétait,eétaient
+ParkerAn_9_OBLIQUE_P,OBLIQUE_P,La journalistequi a lu les rapports apparemment,was,were
+ParkerAn_9_OBLIQUE_P,OBLIQUE_P,La journalistequi a lu les rapports apparemment,eétait,eétaient
+ParkerAn_9_CORE_P,CORE_P,The journalist  read  the reports apparently,was,were
+ParkerAn_9_CORE_P,CORE_P,The journalist  read  the reports apparently,eétait,eétaient
+ParkerAn_9_CORE_P,CORE_P,The journalist qui a lu les rapports apparemment,was,were
+ParkerAn_9_CORE_P,CORE_P,The journalist qui a lu les rapports apparemment,eétait,eétaient
+ParkerAn_9_CORE_P,CORE_P,La journaliste read  the reports apparently,was,were
+ParkerAn_9_CORE_P,CORE_P,La journaliste read  the reports apparently,eétait,eétaient
+ParkerAn_9_CORE_P,CORE_P,La journalistequi a lu les rapports apparemment,was,were
+ParkerAn_9_CORE_P,CORE_P,La journalistequi a lu les rapports apparemment,eétait,eétaient
+ParkerAn_10_OBLIQUE_S,OBLIQUE_S,The boy  walked toward the dog probably,was,were
+ParkerAn_10_OBLIQUE_S,OBLIQUE_S,The boy  walked toward the dog probably,eétait,eétaient
+ParkerAn_10_OBLIQUE_S,OBLIQUE_S,The boy qui marchait probablement vers le chien,was,were
+ParkerAn_10_OBLIQUE_S,OBLIQUE_S,The boy qui marchait probablement vers le chien,eétait,eétaient
+ParkerAn_10_OBLIQUE_S,OBLIQUE_S,Le garçon walked toward the dog probably,was,were
+ParkerAn_10_OBLIQUE_S,OBLIQUE_S,Le garçon walked toward the dog probably,eétait,eétaient
+ParkerAn_10_OBLIQUE_S,OBLIQUE_S,Le garçonqui marchait probablement vers le chien,was,were
+ParkerAn_10_OBLIQUE_S,OBLIQUE_S,Le garçonqui marchait probablement vers le chien,eétait,eétaient
+ParkerAn_10_CORE_S,CORE_S,The boy  walked  the dog probably,was,were
+ParkerAn_10_CORE_S,CORE_S,The boy  walked  the dog probably,eétait,eétaient
+ParkerAn_10_CORE_S,CORE_S,The boy qui a promu le chien probablement,was,were
+ParkerAn_10_CORE_S,CORE_S,The boy qui a promu le chien probablement,eétait,eétaient
+ParkerAn_10_CORE_S,CORE_S,Le garçon walked  the dog probably,was,were
+ParkerAn_10_CORE_S,CORE_S,Le garçon walked  the dog probably,eétait,eétaient
+ParkerAn_10_CORE_S,CORE_S,Le garçonqui a promu le chien probablement,was,were
+ParkerAn_10_CORE_S,CORE_S,Le garçonqui a promu le chien probablement,eétait,eétaient
+ParkerAn_10_OBLIQUE_P,OBLIQUE_P,The boy  walked toward the dogs probably,was,were
+ParkerAn_10_OBLIQUE_P,OBLIQUE_P,The boy  walked toward the dogs probably,eétait,eétaient
+ParkerAn_10_OBLIQUE_P,OBLIQUE_P,The boy qui marchait probablement vers les chiens,was,were
+ParkerAn_10_OBLIQUE_P,OBLIQUE_P,The boy qui marchait probablement vers les chiens,eétait,eétaient
+ParkerAn_10_OBLIQUE_P,OBLIQUE_P,Le garçon walked toward the dogs probably,was,were
+ParkerAn_10_OBLIQUE_P,OBLIQUE_P,Le garçon walked toward the dogs probably,eétait,eétaient
+ParkerAn_10_OBLIQUE_P,OBLIQUE_P,Le garçonqui marchait probablement vers les chiens,was,were
+ParkerAn_10_OBLIQUE_P,OBLIQUE_P,Le garçonqui marchait probablement vers les chiens,eétait,eétaient
+ParkerAn_10_CORE_P,CORE_P,The boy  walked  the dogs probably,was,were
+ParkerAn_10_CORE_P,CORE_P,The boy  walked  the dogs probably,eétait,eétaient
+ParkerAn_10_CORE_P,CORE_P,The boy qui a promu les chiens probablement,was,were
+ParkerAn_10_CORE_P,CORE_P,The boy qui a promu les chiens probablement,eétait,eétaient
+ParkerAn_10_CORE_P,CORE_P,Le garçon walked  the dogs probably,was,were
+ParkerAn_10_CORE_P,CORE_P,Le garçon walked  the dogs probably,eétait,eétaient
+ParkerAn_10_CORE_P,CORE_P,Le garçonqui a promu les chiens probablement,was,were
+ParkerAn_10_CORE_P,CORE_P,Le garçonqui a promu les chiens probablement,eétait,eétaient
+ParkerAn_11_OBLIQUE_S,OBLIQUE_S,The woman  walked by the dog clearly,was,were
+ParkerAn_11_OBLIQUE_S,OBLIQUE_S,The woman  walked by the dog clearly,eétait,eétaient
+ParkerAn_11_OBLIQUE_S,OBLIQUE_S,The woman qui marchait clairement à côté du chien,was,were
+ParkerAn_11_OBLIQUE_S,OBLIQUE_S,The woman qui marchait clairement à côté du chien,eétait,eétaient
+ParkerAn_11_OBLIQUE_S,OBLIQUE_S,La femme walked by the dog clearly,was,were
+ParkerAn_11_OBLIQUE_S,OBLIQUE_S,La femme walked by the dog clearly,eétait,eétaient
+ParkerAn_11_OBLIQUE_S,OBLIQUE_S,La femmequi marchait clairement à côté du chien,was,were
+ParkerAn_11_OBLIQUE_S,OBLIQUE_S,La femmequi marchait clairement à côté du chien,eétait,eétaient
+ParkerAn_11_CORE_S,CORE_S,The woman  walked  the dog clearly,was,were
+ParkerAn_11_CORE_S,CORE_S,The woman  walked  the dog clearly,eétait,eétaient
+ParkerAn_11_CORE_S,CORE_S,The woman qui a marché clairement le chien,was,were
+ParkerAn_11_CORE_S,CORE_S,The woman qui a marché clairement le chien,eétait,eétaient
+ParkerAn_11_CORE_S,CORE_S,La femme walked  the dog clearly,was,were
+ParkerAn_11_CORE_S,CORE_S,La femme walked  the dog clearly,eétait,eétaient
+ParkerAn_11_CORE_S,CORE_S,La femmequi a marché clairement le chien,was,were
+ParkerAn_11_CORE_S,CORE_S,La femmequi a marché clairement le chien,eétait,eétaient
+ParkerAn_11_OBLIQUE_P,OBLIQUE_P,The woman  walked by the dogs clearly,was,were
+ParkerAn_11_OBLIQUE_P,OBLIQUE_P,The woman  walked by the dogs clearly,eétait,eétaient
+ParkerAn_11_OBLIQUE_P,OBLIQUE_P,The woman qui marchait clairement à côté des chiens,was,were
+ParkerAn_11_OBLIQUE_P,OBLIQUE_P,The woman qui marchait clairement à côté des chiens,eétait,eétaient
+ParkerAn_11_OBLIQUE_P,OBLIQUE_P,La femme walked by the dogs clearly,was,were
+ParkerAn_11_OBLIQUE_P,OBLIQUE_P,La femme walked by the dogs clearly,eétait,eétaient
+ParkerAn_11_OBLIQUE_P,OBLIQUE_P,La femmequi marchait clairement à côté des chiens,was,were
+ParkerAn_11_OBLIQUE_P,OBLIQUE_P,La femmequi marchait clairement à côté des chiens,eétait,eétaient
+ParkerAn_11_CORE_P,CORE_P,The woman  walked  the dogs clearly,was,were
+ParkerAn_11_CORE_P,CORE_P,The woman  walked  the dogs clearly,eétait,eétaient
+ParkerAn_11_CORE_P,CORE_P,The woman qui promenait clairement les chiens,was,were
+ParkerAn_11_CORE_P,CORE_P,The woman qui promenait clairement les chiens,eétait,eétaient
+ParkerAn_11_CORE_P,CORE_P,La femme walked  the dogs clearly,was,were
+ParkerAn_11_CORE_P,CORE_P,La femme walked  the dogs clearly,eétait,eétaient
+ParkerAn_11_CORE_P,CORE_P,La femmequi promenait clairement les chiens,was,were
+ParkerAn_11_CORE_P,CORE_P,La femmequi promenait clairement les chiens,eétait,eétaient
+ParkerAn_12_OBLIQUE_S,OBLIQUE_S,The nurse  called for the doctor unsurprisingly,was,were
+ParkerAn_12_OBLIQUE_S,OBLIQUE_S,The nurse  called for the doctor unsurprisingly,eétait,eétaient
+ParkerAn_12_OBLIQUE_S,OBLIQUE_S,The nurse qui a appelé le médecin sans surprise,was,were
+ParkerAn_12_OBLIQUE_S,OBLIQUE_S,The nurse qui a appelé le médecin sans surprise,eétait,eétaient
+ParkerAn_12_OBLIQUE_S,OBLIQUE_S,L'infirmière called for the doctor unsurprisingly,was,were
+ParkerAn_12_OBLIQUE_S,OBLIQUE_S,L'infirmière called for the doctor unsurprisingly,eétait,eétaient
+ParkerAn_12_OBLIQUE_S,OBLIQUE_S,L'infirmièrequi a appelé le médecin sans surprise,was,were
+ParkerAn_12_OBLIQUE_S,OBLIQUE_S,L'infirmièrequi a appelé le médecin sans surprise,eétait,eétaient
+ParkerAn_12_CORE_S,CORE_S,The nurse  called  the doctor unsurprisingly,was,were
+ParkerAn_12_CORE_S,CORE_S,The nurse  called  the doctor unsurprisingly,eétait,eétaient
+ParkerAn_12_CORE_S,CORE_S,The nurse qui a appelé le médecin sans surprise,was,were
+ParkerAn_12_CORE_S,CORE_S,The nurse qui a appelé le médecin sans surprise,eétait,eétaient
+ParkerAn_12_CORE_S,CORE_S,L'infirmière called  the doctor unsurprisingly,was,were
+ParkerAn_12_CORE_S,CORE_S,L'infirmière called  the doctor unsurprisingly,eétait,eétaient
+ParkerAn_12_CORE_S,CORE_S,L'infirmièrequi a appelé le médecin sans surprise,was,were
+ParkerAn_12_CORE_S,CORE_S,L'infirmièrequi a appelé le médecin sans surprise,eétait,eétaient
+ParkerAn_12_OBLIQUE_P,OBLIQUE_P,The nurse  called for the doctors unsurprisingly,was,were
+ParkerAn_12_OBLIQUE_P,OBLIQUE_P,The nurse  called for the doctors unsurprisingly,eétait,eétaient
+ParkerAn_12_OBLIQUE_P,OBLIQUE_P,The nurse qui a appelé les médecins sans surprise,was,were
+ParkerAn_12_OBLIQUE_P,OBLIQUE_P,The nurse qui a appelé les médecins sans surprise,eétait,eétaient
+ParkerAn_12_OBLIQUE_P,OBLIQUE_P,L'infirmière called for the doctors unsurprisingly,was,were
+ParkerAn_12_OBLIQUE_P,OBLIQUE_P,L'infirmière called for the doctors unsurprisingly,eétait,eétaient
+ParkerAn_12_OBLIQUE_P,OBLIQUE_P,L'infirmièrequi a appelé les médecins sans surprise,was,were
+ParkerAn_12_OBLIQUE_P,OBLIQUE_P,L'infirmièrequi a appelé les médecins sans surprise,eétait,eétaient
+ParkerAn_12_CORE_P,CORE_P,The nurse  called  the doctors unsurprisingly,was,were
+ParkerAn_12_CORE_P,CORE_P,The nurse  called  the doctors unsurprisingly,eétait,eétaient
+ParkerAn_12_CORE_P,CORE_P,The nurse qui a appelé les médecins sans surprise,was,were
+ParkerAn_12_CORE_P,CORE_P,The nurse qui a appelé les médecins sans surprise,eétait,eétaient
+ParkerAn_12_CORE_P,CORE_P,L'infirmière called  the doctors unsurprisingly,was,were
+ParkerAn_12_CORE_P,CORE_P,L'infirmière called  the doctors unsurprisingly,eétait,eétaient
+ParkerAn_12_CORE_P,CORE_P,L'infirmièrequi a appelé les médecins sans surprise,was,were
+ParkerAn_12_CORE_P,CORE_P,L'infirmièrequi a appelé les médecins sans surprise,eétait,eétaient
+ParkerAn_13_OBLIQUE_S,OBLIQUE_S,The director  called for the assistant suddenly,was,were
+ParkerAn_13_OBLIQUE_S,OBLIQUE_S,The director  called for the assistant suddenly,eétait,eétaient
+ParkerAn_13_OBLIQUE_S,OBLIQUE_S,The director qui a soudainement appelé l'assistant,was,were
+ParkerAn_13_OBLIQUE_S,OBLIQUE_S,The director qui a soudainement appelé l'assistant,eétait,eétaient
+ParkerAn_13_OBLIQUE_S,OBLIQUE_S,Le réalisateur called for the assistant suddenly,was,were
+ParkerAn_13_OBLIQUE_S,OBLIQUE_S,Le réalisateur called for the assistant suddenly,eétait,eétaient
+ParkerAn_13_OBLIQUE_S,OBLIQUE_S,Le réalisateurqui a soudainement appelé l'assistant,was,were
+ParkerAn_13_OBLIQUE_S,OBLIQUE_S,Le réalisateurqui a soudainement appelé l'assistant,eétait,eétaient
+ParkerAn_13_CORE_S,CORE_S,The director  called  the assistant suddenly,was,were
+ParkerAn_13_CORE_S,CORE_S,The director  called  the assistant suddenly,eétait,eétaient
+ParkerAn_13_CORE_S,CORE_S,The director qui a appelé l'assistant soudainement,was,were
+ParkerAn_13_CORE_S,CORE_S,The director qui a appelé l'assistant soudainement,eétait,eétaient
+ParkerAn_13_CORE_S,CORE_S,Le réalisateur called  the assistant suddenly,was,were
+ParkerAn_13_CORE_S,CORE_S,Le réalisateur called  the assistant suddenly,eétait,eétaient
+ParkerAn_13_CORE_S,CORE_S,Le réalisateurqui a appelé l'assistant soudainement,was,were
+ParkerAn_13_CORE_S,CORE_S,Le réalisateurqui a appelé l'assistant soudainement,eétait,eétaient
+ParkerAn_13_OBLIQUE_P,OBLIQUE_P,The director  called for the assistants suddenly,was,were
+ParkerAn_13_OBLIQUE_P,OBLIQUE_P,The director  called for the assistants suddenly,eétait,eétaient
+ParkerAn_13_OBLIQUE_P,OBLIQUE_P,The director qui a soudainement appelé les assistants,was,were
+ParkerAn_13_OBLIQUE_P,OBLIQUE_P,The director qui a soudainement appelé les assistants,eétait,eétaient
+ParkerAn_13_OBLIQUE_P,OBLIQUE_P,Le réalisateur called for the assistants suddenly,was,were
+ParkerAn_13_OBLIQUE_P,OBLIQUE_P,Le réalisateur called for the assistants suddenly,eétait,eétaient
+ParkerAn_13_OBLIQUE_P,OBLIQUE_P,Le réalisateurqui a soudainement appelé les assistants,was,were
+ParkerAn_13_OBLIQUE_P,OBLIQUE_P,Le réalisateurqui a soudainement appelé les assistants,eétait,eétaient
+ParkerAn_13_CORE_P,CORE_P,The director  called  the assistants suddenly,was,were
+ParkerAn_13_CORE_P,CORE_P,The director  called  the assistants suddenly,eétait,eétaient
+ParkerAn_13_CORE_P,CORE_P,The director qui a appelé les assistants soudainement,was,were
+ParkerAn_13_CORE_P,CORE_P,The director qui a appelé les assistants soudainement,eétait,eétaient
+ParkerAn_13_CORE_P,CORE_P,Le réalisateur called  the assistants suddenly,was,were
+ParkerAn_13_CORE_P,CORE_P,Le réalisateur called  the assistants suddenly,eétait,eétaient
+ParkerAn_13_CORE_P,CORE_P,Le réalisateurqui a appelé les assistants soudainement,was,were
+ParkerAn_13_CORE_P,CORE_P,Le réalisateurqui a appelé les assistants soudainement,eétait,eétaient
+ParkerAn_14_OBLIQUE_S,OBLIQUE_S,The artist  painted by the house certainly,was,were
+ParkerAn_14_OBLIQUE_S,OBLIQUE_S,The artist  painted by the house certainly,eétait,eétaient
+ParkerAn_14_OBLIQUE_S,OBLIQUE_S,The artist qui a peint par la maison certainement,was,were
+ParkerAn_14_OBLIQUE_S,OBLIQUE_S,The artist qui a peint par la maison certainement,eétait,eétaient
+ParkerAn_14_OBLIQUE_S,OBLIQUE_S,L'artiste painted by the house certainly,was,were
+ParkerAn_14_OBLIQUE_S,OBLIQUE_S,L'artiste painted by the house certainly,eétait,eétaient
+ParkerAn_14_OBLIQUE_S,OBLIQUE_S,L'artistequi a peint par la maison certainement,was,were
+ParkerAn_14_OBLIQUE_S,OBLIQUE_S,L'artistequi a peint par la maison certainement,eétait,eétaient
+ParkerAn_14_CORE_S,CORE_S,The artist  painted  the house certainly,was,were
+ParkerAn_14_CORE_S,CORE_S,The artist  painted  the house certainly,eétait,eétaient
+ParkerAn_14_CORE_S,CORE_S,The artist qui a certainement peint la maison,was,were
+ParkerAn_14_CORE_S,CORE_S,The artist qui a certainement peint la maison,eétait,eétaient
+ParkerAn_14_CORE_S,CORE_S,L'artiste painted  the house certainly,was,were
+ParkerAn_14_CORE_S,CORE_S,L'artiste painted  the house certainly,eétait,eétaient
+ParkerAn_14_CORE_S,CORE_S,L'artistequi a certainement peint la maison,was,were
+ParkerAn_14_CORE_S,CORE_S,L'artistequi a certainement peint la maison,eétait,eétaient
+ParkerAn_14_OBLIQUE_P,OBLIQUE_P,The artist  painted by the houses certainly,was,were
+ParkerAn_14_OBLIQUE_P,OBLIQUE_P,The artist  painted by the houses certainly,eétait,eétaient
+ParkerAn_14_OBLIQUE_P,OBLIQUE_P,The artist qui a peint par les maisons certainement,was,were
+ParkerAn_14_OBLIQUE_P,OBLIQUE_P,The artist qui a peint par les maisons certainement,eétait,eétaient
+ParkerAn_14_OBLIQUE_P,OBLIQUE_P,L'artiste painted by the houses certainly,was,were
+ParkerAn_14_OBLIQUE_P,OBLIQUE_P,L'artiste painted by the houses certainly,eétait,eétaient
+ParkerAn_14_OBLIQUE_P,OBLIQUE_P,L'artistequi a peint par les maisons certainement,was,were
+ParkerAn_14_OBLIQUE_P,OBLIQUE_P,L'artistequi a peint par les maisons certainement,eétait,eétaient
+ParkerAn_14_CORE_P,CORE_P,The artist  painted  the houses certainly,was,were
+ParkerAn_14_CORE_P,CORE_P,The artist  painted  the houses certainly,eétait,eétaient
+ParkerAn_14_CORE_P,CORE_P,The artist qui a certainement peint les maisons,was,were
+ParkerAn_14_CORE_P,CORE_P,The artist qui a certainement peint les maisons,eétait,eétaient
+ParkerAn_14_CORE_P,CORE_P,L'artiste painted  the houses certainly,was,were
+ParkerAn_14_CORE_P,CORE_P,L'artiste painted  the houses certainly,eétait,eétaient
+ParkerAn_14_CORE_P,CORE_P,L'artistequi a certainement peint les maisons,was,were
+ParkerAn_14_CORE_P,CORE_P,L'artistequi a certainement peint les maisons,eétait,eétaient
+ParkerAn_15_OBLIQUE_S,OBLIQUE_S,The director  called for the actor certainly,was,were
+ParkerAn_15_OBLIQUE_S,OBLIQUE_S,The director  called for the actor certainly,eétait,eétaient
+ParkerAn_15_OBLIQUE_S,OBLIQUE_S,The director qui a appelé certainement l'acteur,was,were
+ParkerAn_15_OBLIQUE_S,OBLIQUE_S,The director qui a appelé certainement l'acteur,eétait,eétaient
+ParkerAn_15_OBLIQUE_S,OBLIQUE_S,Le réalisateur called for the actor certainly,was,were
+ParkerAn_15_OBLIQUE_S,OBLIQUE_S,Le réalisateur called for the actor certainly,eétait,eétaient
+ParkerAn_15_OBLIQUE_S,OBLIQUE_S,Le réalisateurqui a appelé certainement l'acteur,was,were
+ParkerAn_15_OBLIQUE_S,OBLIQUE_S,Le réalisateurqui a appelé certainement l'acteur,eétait,eétaient
+ParkerAn_15_CORE_S,CORE_S,The director  called  the actor certainly,was,were
+ParkerAn_15_CORE_S,CORE_S,The director  called  the actor certainly,eétait,eétaient
+ParkerAn_15_CORE_S,CORE_S,The director qui a appelé l'acteur certainement,was,were
+ParkerAn_15_CORE_S,CORE_S,The director qui a appelé l'acteur certainement,eétait,eétaient
+ParkerAn_15_CORE_S,CORE_S,Le réalisateur called  the actor certainly,was,were
+ParkerAn_15_CORE_S,CORE_S,Le réalisateur called  the actor certainly,eétait,eétaient
+ParkerAn_15_CORE_S,CORE_S,Le réalisateurqui a appelé l'acteur certainement,was,were
+ParkerAn_15_CORE_S,CORE_S,Le réalisateurqui a appelé l'acteur certainement,eétait,eétaient
+ParkerAn_15_OBLIQUE_P,OBLIQUE_P,The director  called for the actors certainly,was,were
+ParkerAn_15_OBLIQUE_P,OBLIQUE_P,The director  called for the actors certainly,eétait,eétaient
+ParkerAn_15_OBLIQUE_P,OBLIQUE_P,The director qui a appelé les acteurs certainement,was,were
+ParkerAn_15_OBLIQUE_P,OBLIQUE_P,The director qui a appelé les acteurs certainement,eétait,eétaient
+ParkerAn_15_OBLIQUE_P,OBLIQUE_P,Le réalisateur called for the actors certainly,was,were
+ParkerAn_15_OBLIQUE_P,OBLIQUE_P,Le réalisateur called for the actors certainly,eétait,eétaient
+ParkerAn_15_OBLIQUE_P,OBLIQUE_P,Le réalisateurqui a appelé les acteurs certainement,was,were
+ParkerAn_15_OBLIQUE_P,OBLIQUE_P,Le réalisateurqui a appelé les acteurs certainement,eétait,eétaient
+ParkerAn_15_CORE_P,CORE_P,The director  called  the actors certainly,was,were
+ParkerAn_15_CORE_P,CORE_P,The director  called  the actors certainly,eétait,eétaient
+ParkerAn_15_CORE_P,CORE_P,The director qui a appelé les acteurs certainement,was,were
+ParkerAn_15_CORE_P,CORE_P,The director qui a appelé les acteurs certainement,eétait,eétaient
+ParkerAn_15_CORE_P,CORE_P,Le réalisateur called  the actors certainly,was,were
+ParkerAn_15_CORE_P,CORE_P,Le réalisateur called  the actors certainly,eétait,eétaient
+ParkerAn_15_CORE_P,CORE_P,Le réalisateurqui a appelé les acteurs certainement,was,were
+ParkerAn_15_CORE_P,CORE_P,Le réalisateurqui a appelé les acteurs certainement,eétait,eétaient
+ParkerAn_16_OBLIQUE_S,OBLIQUE_S,The thief  stole from the box obviously,was,were
+ParkerAn_16_OBLIQUE_S,OBLIQUE_S,The thief  stole from the box obviously,eétait,eétaient
+ParkerAn_16_OBLIQUE_S,OBLIQUE_S,The thief qui a volé de la boîte évidemment,was,were
+ParkerAn_16_OBLIQUE_S,OBLIQUE_S,The thief qui a volé de la boîte évidemment,eétait,eétaient
+ParkerAn_16_OBLIQUE_S,OBLIQUE_S,Le voleur stole from the box obviously,was,were
+ParkerAn_16_OBLIQUE_S,OBLIQUE_S,Le voleur stole from the box obviously,eétait,eétaient
+ParkerAn_16_OBLIQUE_S,OBLIQUE_S,Le voleurqui a volé de la boîte évidemment,was,were
+ParkerAn_16_OBLIQUE_S,OBLIQUE_S,Le voleurqui a volé de la boîte évidemment,eétait,eétaient
+ParkerAn_16_CORE_S,CORE_S,The thief  stole  the box obviously,was,were
+ParkerAn_16_CORE_S,CORE_S,The thief  stole  the box obviously,eétait,eétaient
+ParkerAn_16_CORE_S,CORE_S,The thief qui a volé la boîte de toute évidence,was,were
+ParkerAn_16_CORE_S,CORE_S,The thief qui a volé la boîte de toute évidence,eétait,eétaient
+ParkerAn_16_CORE_S,CORE_S,Le voleur stole  the box obviously,was,were
+ParkerAn_16_CORE_S,CORE_S,Le voleur stole  the box obviously,eétait,eétaient
+ParkerAn_16_CORE_S,CORE_S,Le voleurqui a volé la boîte de toute évidence,was,were
+ParkerAn_16_CORE_S,CORE_S,Le voleurqui a volé la boîte de toute évidence,eétait,eétaient
+ParkerAn_16_OBLIQUE_P,OBLIQUE_P,The thief  stole from the boxes obviously,was,were
+ParkerAn_16_OBLIQUE_P,OBLIQUE_P,The thief  stole from the boxes obviously,eétait,eétaient
+ParkerAn_16_OBLIQUE_P,OBLIQUE_P,The thief qui a volé dans les boîtes de toute évidence,was,were
+ParkerAn_16_OBLIQUE_P,OBLIQUE_P,The thief qui a volé dans les boîtes de toute évidence,eétait,eétaient
+ParkerAn_16_OBLIQUE_P,OBLIQUE_P,Le voleur stole from the boxes obviously,was,were
+ParkerAn_16_OBLIQUE_P,OBLIQUE_P,Le voleur stole from the boxes obviously,eétait,eétaient
+ParkerAn_16_OBLIQUE_P,OBLIQUE_P,Le voleurqui a volé dans les boîtes de toute évidence,was,were
+ParkerAn_16_OBLIQUE_P,OBLIQUE_P,Le voleurqui a volé dans les boîtes de toute évidence,eétait,eétaient
+ParkerAn_16_CORE_P,CORE_P,The thief  stole  the boxes obviously,was,were
+ParkerAn_16_CORE_P,CORE_P,The thief  stole  the boxes obviously,eétait,eétaient
+ParkerAn_16_CORE_P,CORE_P,The thief qui a volé les boîtes de toute évidence,was,were
+ParkerAn_16_CORE_P,CORE_P,The thief qui a volé les boîtes de toute évidence,eétait,eétaient
+ParkerAn_16_CORE_P,CORE_P,Le voleur stole  the boxes obviously,was,were
+ParkerAn_16_CORE_P,CORE_P,Le voleur stole  the boxes obviously,eétait,eétaient
+ParkerAn_16_CORE_P,CORE_P,Le voleurqui a volé les boîtes de toute évidence,was,were
+ParkerAn_16_CORE_P,CORE_P,Le voleurqui a volé les boîtes de toute évidence,eétait,eétaient
+ParkerAn_17_OBLIQUE_S,OBLIQUE_S,The author  read about the book apparently,was,were
+ParkerAn_17_OBLIQUE_S,OBLIQUE_S,The author  read about the book apparently,eétait,eétaient
+ParkerAn_17_OBLIQUE_S,OBLIQUE_S,The author qui a apparemment lu le livre,was,were
+ParkerAn_17_OBLIQUE_S,OBLIQUE_S,The author qui a apparemment lu le livre,eétait,eétaient
+ParkerAn_17_OBLIQUE_S,OBLIQUE_S,L'auteur read about the book apparently,was,were
+ParkerAn_17_OBLIQUE_S,OBLIQUE_S,L'auteur read about the book apparently,eétait,eétaient
+ParkerAn_17_OBLIQUE_S,OBLIQUE_S,L'auteurqui a apparemment lu le livre,was,were
+ParkerAn_17_OBLIQUE_S,OBLIQUE_S,L'auteurqui a apparemment lu le livre,eétait,eétaient
+ParkerAn_17_CORE_S,CORE_S,The author  read  the book apparently,was,were
+ParkerAn_17_CORE_S,CORE_S,The author  read  the book apparently,eétait,eétaient
+ParkerAn_17_CORE_S,CORE_S,The author qui a lu le livre apparemment,was,were
+ParkerAn_17_CORE_S,CORE_S,The author qui a lu le livre apparemment,eétait,eétaient
+ParkerAn_17_CORE_S,CORE_S,L'auteur read  the book apparently,was,were
+ParkerAn_17_CORE_S,CORE_S,L'auteur read  the book apparently,eétait,eétaient
+ParkerAn_17_CORE_S,CORE_S,L'auteurqui a lu le livre apparemment,was,were
+ParkerAn_17_CORE_S,CORE_S,L'auteurqui a lu le livre apparemment,eétait,eétaient
+ParkerAn_17_OBLIQUE_P,OBLIQUE_P,The author  read about the books apparently,was,were
+ParkerAn_17_OBLIQUE_P,OBLIQUE_P,The author  read about the books apparently,eétait,eétaient
+ParkerAn_17_OBLIQUE_P,OBLIQUE_P,The author qui a lu les livres apparemment,was,were
+ParkerAn_17_OBLIQUE_P,OBLIQUE_P,The author qui a lu les livres apparemment,eétait,eétaient
+ParkerAn_17_OBLIQUE_P,OBLIQUE_P,L'auteur read about the books apparently,was,were
+ParkerAn_17_OBLIQUE_P,OBLIQUE_P,L'auteur read about the books apparently,eétait,eétaient
+ParkerAn_17_OBLIQUE_P,OBLIQUE_P,L'auteurqui a lu les livres apparemment,was,were
+ParkerAn_17_OBLIQUE_P,OBLIQUE_P,L'auteurqui a lu les livres apparemment,eétait,eétaient
+ParkerAn_17_CORE_P,CORE_P,The author  read  the books apparently,was,were
+ParkerAn_17_CORE_P,CORE_P,The author  read  the books apparently,eétait,eétaient
+ParkerAn_17_CORE_P,CORE_P,The author qui a lu les livres apparemment,was,were
+ParkerAn_17_CORE_P,CORE_P,The author qui a lu les livres apparemment,eétait,eétaient
+ParkerAn_17_CORE_P,CORE_P,L'auteur read  the books apparently,was,were
+ParkerAn_17_CORE_P,CORE_P,L'auteur read  the books apparently,eétait,eétaient
+ParkerAn_17_CORE_P,CORE_P,L'auteurqui a lu les livres apparemment,was,were
+ParkerAn_17_CORE_P,CORE_P,L'auteurqui a lu les livres apparemment,eétait,eétaient
+ParkerAn_18_OBLIQUE_S,OBLIQUE_S,The soldier  fought against the terrorist likely,was,were
+ParkerAn_18_OBLIQUE_S,OBLIQUE_S,The soldier  fought against the terrorist likely,eétait,eétaient
+ParkerAn_18_OBLIQUE_S,OBLIQUE_S,The soldier qui a probablement combattu le terroriste,was,were
+ParkerAn_18_OBLIQUE_S,OBLIQUE_S,The soldier qui a probablement combattu le terroriste,eétait,eétaient
+ParkerAn_18_OBLIQUE_S,OBLIQUE_S,Le soldat fought against the terrorist likely,was,were
+ParkerAn_18_OBLIQUE_S,OBLIQUE_S,Le soldat fought against the terrorist likely,eétait,eétaient
+ParkerAn_18_OBLIQUE_S,OBLIQUE_S,Le soldatqui a probablement combattu le terroriste,was,were
+ParkerAn_18_OBLIQUE_S,OBLIQUE_S,Le soldatqui a probablement combattu le terroriste,eétait,eétaient
+ParkerAn_18_CORE_S,CORE_S,The soldier  fought  the terrorist likely,was,were
+ParkerAn_18_CORE_S,CORE_S,The soldier  fought  the terrorist likely,eétait,eétaient
+ParkerAn_18_CORE_S,CORE_S,The soldier qui a probablement combattu le terroriste,was,were
+ParkerAn_18_CORE_S,CORE_S,The soldier qui a probablement combattu le terroriste,eétait,eétaient
+ParkerAn_18_CORE_S,CORE_S,Le soldat fought  the terrorist likely,was,were
+ParkerAn_18_CORE_S,CORE_S,Le soldat fought  the terrorist likely,eétait,eétaient
+ParkerAn_18_CORE_S,CORE_S,Le soldatqui a probablement combattu le terroriste,was,were
+ParkerAn_18_CORE_S,CORE_S,Le soldatqui a probablement combattu le terroriste,eétait,eétaient
+ParkerAn_18_OBLIQUE_P,OBLIQUE_P,The soldier  fought against the terrorists likely,was,were
+ParkerAn_18_OBLIQUE_P,OBLIQUE_P,The soldier  fought against the terrorists likely,eétait,eétaient
+ParkerAn_18_OBLIQUE_P,OBLIQUE_P,The soldier qui s'est battu contre les terroristes probablement,was,were
+ParkerAn_18_OBLIQUE_P,OBLIQUE_P,The soldier qui s'est battu contre les terroristes probablement,eétait,eétaient
+ParkerAn_18_OBLIQUE_P,OBLIQUE_P,Le soldat fought against the terrorists likely,was,were
+ParkerAn_18_OBLIQUE_P,OBLIQUE_P,Le soldat fought against the terrorists likely,eétait,eétaient
+ParkerAn_18_OBLIQUE_P,OBLIQUE_P,Le soldatqui s'est battu contre les terroristes probablement,was,were
+ParkerAn_18_OBLIQUE_P,OBLIQUE_P,Le soldatqui s'est battu contre les terroristes probablement,eétait,eétaient
+ParkerAn_18_CORE_P,CORE_P,The soldier  fought  the terrorists likely,was,were
+ParkerAn_18_CORE_P,CORE_P,The soldier  fought  the terrorists likely,eétait,eétaient
+ParkerAn_18_CORE_P,CORE_P,The soldier qui a probablement combattu les terroristes,was,were
+ParkerAn_18_CORE_P,CORE_P,The soldier qui a probablement combattu les terroristes,eétait,eétaient
+ParkerAn_18_CORE_P,CORE_P,Le soldat fought  the terrorists likely,was,were
+ParkerAn_18_CORE_P,CORE_P,Le soldat fought  the terrorists likely,eétait,eétaient
+ParkerAn_18_CORE_P,CORE_P,Le soldatqui a probablement combattu les terroristes,was,were
+ParkerAn_18_CORE_P,CORE_P,Le soldatqui a probablement combattu les terroristes,eétait,eétaient
+ParkerAn_19_OBLIQUE_S,OBLIQUE_S,The millionaire  drove past the car allegedly,was,were
+ParkerAn_19_OBLIQUE_S,OBLIQUE_S,The millionaire  drove past the car allegedly,eétait,eétaient
+ParkerAn_19_OBLIQUE_S,OBLIQUE_S,The millionaire qui est passé devant la voiture prétendument,was,were
+ParkerAn_19_OBLIQUE_S,OBLIQUE_S,The millionaire qui est passé devant la voiture prétendument,eétait,eétaient
+ParkerAn_19_OBLIQUE_S,OBLIQUE_S,Le millionnaire drove past the car allegedly,was,were
+ParkerAn_19_OBLIQUE_S,OBLIQUE_S,Le millionnaire drove past the car allegedly,eétait,eétaient
+ParkerAn_19_OBLIQUE_S,OBLIQUE_S,Le millionnairequi est passé devant la voiture prétendument,was,were
+ParkerAn_19_OBLIQUE_S,OBLIQUE_S,Le millionnairequi est passé devant la voiture prétendument,eétait,eétaient
+ParkerAn_19_CORE_S,CORE_S,The millionaire  drove  the car allegedly,was,were
+ParkerAn_19_CORE_S,CORE_S,The millionaire  drove  the car allegedly,eétait,eétaient
+ParkerAn_19_CORE_S,CORE_S,The millionaire qui aurait conduit la voiture,was,were
+ParkerAn_19_CORE_S,CORE_S,The millionaire qui aurait conduit la voiture,eétait,eétaient
+ParkerAn_19_CORE_S,CORE_S,Le millionnaire drove  the car allegedly,was,were
+ParkerAn_19_CORE_S,CORE_S,Le millionnaire drove  the car allegedly,eétait,eétaient
+ParkerAn_19_CORE_S,CORE_S,Le millionnairequi aurait conduit la voiture,was,were
+ParkerAn_19_CORE_S,CORE_S,Le millionnairequi aurait conduit la voiture,eétait,eétaient
+ParkerAn_19_OBLIQUE_P,OBLIQUE_P,The millionaire  drove past the cars allegedly,was,were
+ParkerAn_19_OBLIQUE_P,OBLIQUE_P,The millionaire  drove past the cars allegedly,eétait,eétaient
+ParkerAn_19_OBLIQUE_P,OBLIQUE_P,The millionaire qui est passé devant les voitures prétendument,was,were
+ParkerAn_19_OBLIQUE_P,OBLIQUE_P,The millionaire qui est passé devant les voitures prétendument,eétait,eétaient
+ParkerAn_19_OBLIQUE_P,OBLIQUE_P,Le millionnaire drove past the cars allegedly,was,were
+ParkerAn_19_OBLIQUE_P,OBLIQUE_P,Le millionnaire drove past the cars allegedly,eétait,eétaient
+ParkerAn_19_OBLIQUE_P,OBLIQUE_P,Le millionnairequi est passé devant les voitures prétendument,was,were
+ParkerAn_19_OBLIQUE_P,OBLIQUE_P,Le millionnairequi est passé devant les voitures prétendument,eétait,eétaient
+ParkerAn_19_CORE_P,CORE_P,The millionaire  drove  the cars allegedly,was,were
+ParkerAn_19_CORE_P,CORE_P,The millionaire  drove  the cars allegedly,eétait,eétaient
+ParkerAn_19_CORE_P,CORE_P,The millionaire qui conduisait les voitures prétendument,was,were
+ParkerAn_19_CORE_P,CORE_P,The millionaire qui conduisait les voitures prétendument,eétait,eétaient
+ParkerAn_19_CORE_P,CORE_P,Le millionnaire drove  the cars allegedly,was,were
+ParkerAn_19_CORE_P,CORE_P,Le millionnaire drove  the cars allegedly,eétait,eétaient
+ParkerAn_19_CORE_P,CORE_P,Le millionnairequi conduisait les voitures prétendument,was,were
+ParkerAn_19_CORE_P,CORE_P,Le millionnairequi conduisait les voitures prétendument,eétait,eétaient
+ParkerAn_20_OBLIQUE_S,OBLIQUE_S,The librarian  read about the book certainly,was,were
+ParkerAn_20_OBLIQUE_S,OBLIQUE_S,The librarian  read about the book certainly,eétait,eétaient
+ParkerAn_20_OBLIQUE_S,OBLIQUE_S,The librarian qui a certainement lu le livre,was,were
+ParkerAn_20_OBLIQUE_S,OBLIQUE_S,The librarian qui a certainement lu le livre,eétait,eétaient
+ParkerAn_20_OBLIQUE_S,OBLIQUE_S,Le bibliothécaire read about the book certainly,was,were
+ParkerAn_20_OBLIQUE_S,OBLIQUE_S,Le bibliothécaire read about the book certainly,eétait,eétaient
+ParkerAn_20_OBLIQUE_S,OBLIQUE_S,Le bibliothécairequi a certainement lu le livre,was,were
+ParkerAn_20_OBLIQUE_S,OBLIQUE_S,Le bibliothécairequi a certainement lu le livre,eétait,eétaient
+ParkerAn_20_CORE_S,CORE_S,The librarian  read  the book certainly,was,were
+ParkerAn_20_CORE_S,CORE_S,The librarian  read  the book certainly,eétait,eétaient
+ParkerAn_20_CORE_S,CORE_S,The librarian qui a certainement lu le livre,was,were
+ParkerAn_20_CORE_S,CORE_S,The librarian qui a certainement lu le livre,eétait,eétaient
+ParkerAn_20_CORE_S,CORE_S,Le bibliothécaire read  the book certainly,was,were
+ParkerAn_20_CORE_S,CORE_S,Le bibliothécaire read  the book certainly,eétait,eétaient
+ParkerAn_20_CORE_S,CORE_S,Le bibliothécairequi a certainement lu le livre,was,were
+ParkerAn_20_CORE_S,CORE_S,Le bibliothécairequi a certainement lu le livre,eétait,eétaient
+ParkerAn_20_OBLIQUE_P,OBLIQUE_P,The librarian  read about the books certainly,was,were
+ParkerAn_20_OBLIQUE_P,OBLIQUE_P,The librarian  read about the books certainly,eétait,eétaient
+ParkerAn_20_OBLIQUE_P,OBLIQUE_P,The librarian qui lisent certainement les livres,was,were
+ParkerAn_20_OBLIQUE_P,OBLIQUE_P,The librarian qui lisent certainement les livres,eétait,eétaient
+ParkerAn_20_OBLIQUE_P,OBLIQUE_P,Le bibliothécaire read about the books certainly,was,were
+ParkerAn_20_OBLIQUE_P,OBLIQUE_P,Le bibliothécaire read about the books certainly,eétait,eétaient
+ParkerAn_20_OBLIQUE_P,OBLIQUE_P,Le bibliothécairequi lisent certainement les livres,was,were
+ParkerAn_20_OBLIQUE_P,OBLIQUE_P,Le bibliothécairequi lisent certainement les livres,eétait,eétaient
+ParkerAn_20_CORE_P,CORE_P,The librarian  read  the books certainly,was,were
+ParkerAn_20_CORE_P,CORE_P,The librarian  read  the books certainly,eétait,eétaient
+ParkerAn_20_CORE_P,CORE_P,The librarian qui a certainement lu les livres,was,were
+ParkerAn_20_CORE_P,CORE_P,The librarian qui a certainement lu les livres,eétait,eétaient
+ParkerAn_20_CORE_P,CORE_P,Le bibliothécaire read  the books certainly,was,were
+ParkerAn_20_CORE_P,CORE_P,Le bibliothécaire read  the books certainly,eétait,eétaient
+ParkerAn_20_CORE_P,CORE_P,Le bibliothécairequi a certainement lu les livres,was,were
+ParkerAn_20_CORE_P,CORE_P,Le bibliothécairequi a certainement lu les livres,eétait,eétaient
+ParkerAn_21_OBLIQUE_S,OBLIQUE_S,The chef  prepared for the meal evidently,was,were
+ParkerAn_21_OBLIQUE_S,OBLIQUE_S,The chef  prepared for the meal evidently,eétait,eétaient
+ParkerAn_21_OBLIQUE_S,OBLIQUE_S,The chef qui a préparé le repas de toute évidence,was,were
+ParkerAn_21_OBLIQUE_S,OBLIQUE_S,The chef qui a préparé le repas de toute évidence,eétait,eétaient
+ParkerAn_21_OBLIQUE_S,OBLIQUE_S,Le chef prepared for the meal evidently,was,were
+ParkerAn_21_OBLIQUE_S,OBLIQUE_S,Le chef prepared for the meal evidently,eétait,eétaient
+ParkerAn_21_OBLIQUE_S,OBLIQUE_S,Le chefqui a préparé le repas de toute évidence,was,were
+ParkerAn_21_OBLIQUE_S,OBLIQUE_S,Le chefqui a préparé le repas de toute évidence,eétait,eétaient
+ParkerAn_21_CORE_S,CORE_S,The chef  prepared  the meal evidently,was,were
+ParkerAn_21_CORE_S,CORE_S,The chef  prepared  the meal evidently,eétait,eétaient
+ParkerAn_21_CORE_S,CORE_S,The chef qui a préparé le repas évidemment,was,were
+ParkerAn_21_CORE_S,CORE_S,The chef qui a préparé le repas évidemment,eétait,eétaient
+ParkerAn_21_CORE_S,CORE_S,Le chef prepared  the meal evidently,was,were
+ParkerAn_21_CORE_S,CORE_S,Le chef prepared  the meal evidently,eétait,eétaient
+ParkerAn_21_CORE_S,CORE_S,Le chefqui a préparé le repas évidemment,was,were
+ParkerAn_21_CORE_S,CORE_S,Le chefqui a préparé le repas évidemment,eétait,eétaient
+ParkerAn_21_OBLIQUE_P,OBLIQUE_P,The chef  prepared for the meals evidently,was,were
+ParkerAn_21_OBLIQUE_P,OBLIQUE_P,The chef  prepared for the meals evidently,eétait,eétaient
+ParkerAn_21_OBLIQUE_P,OBLIQUE_P,The chef qui a préparé les repas de toute évidence,was,were
+ParkerAn_21_OBLIQUE_P,OBLIQUE_P,The chef qui a préparé les repas de toute évidence,eétait,eétaient
+ParkerAn_21_OBLIQUE_P,OBLIQUE_P,Le chef prepared for the meals evidently,was,were
+ParkerAn_21_OBLIQUE_P,OBLIQUE_P,Le chef prepared for the meals evidently,eétait,eétaient
+ParkerAn_21_OBLIQUE_P,OBLIQUE_P,Le chefqui a préparé les repas de toute évidence,was,were
+ParkerAn_21_OBLIQUE_P,OBLIQUE_P,Le chefqui a préparé les repas de toute évidence,eétait,eétaient
+ParkerAn_21_CORE_P,CORE_P,The chef  prepared  the meals evidently,was,were
+ParkerAn_21_CORE_P,CORE_P,The chef  prepared  the meals evidently,eétait,eétaient
+ParkerAn_21_CORE_P,CORE_P,The chef qui a préparé les repas évidemment,was,were
+ParkerAn_21_CORE_P,CORE_P,The chef qui a préparé les repas évidemment,eétait,eétaient
+ParkerAn_21_CORE_P,CORE_P,Le chef prepared  the meals evidently,was,were
+ParkerAn_21_CORE_P,CORE_P,Le chef prepared  the meals evidently,eétait,eétaient
+ParkerAn_21_CORE_P,CORE_P,Le chefqui a préparé les repas évidemment,was,were
+ParkerAn_21_CORE_P,CORE_P,Le chefqui a préparé les repas évidemment,eétait,eétaient
+ParkerAn_22_OBLIQUE_S,OBLIQUE_S,The gardener  cut around the hedge financially,was,were
+ParkerAn_22_OBLIQUE_S,OBLIQUE_S,The gardener  cut around the hedge financially,eétait,eétaient
+ParkerAn_22_OBLIQUE_S,OBLIQUE_S,The gardener qui contournent financièrement la haie,was,were
+ParkerAn_22_OBLIQUE_S,OBLIQUE_S,The gardener qui contournent financièrement la haie,eétait,eétaient
+ParkerAn_22_OBLIQUE_S,OBLIQUE_S,Le jardinier cut around the hedge financially,was,were
+ParkerAn_22_OBLIQUE_S,OBLIQUE_S,Le jardinier cut around the hedge financially,eétait,eétaient
+ParkerAn_22_OBLIQUE_S,OBLIQUE_S,Le jardinierqui contournent financièrement la haie,was,were
+ParkerAn_22_OBLIQUE_S,OBLIQUE_S,Le jardinierqui contournent financièrement la haie,eétait,eétaient
+ParkerAn_22_CORE_S,CORE_S,The gardener  cut  the hedge financially,was,were
+ParkerAn_22_CORE_S,CORE_S,The gardener  cut  the hedge financially,eétait,eétaient
+ParkerAn_22_CORE_S,CORE_S,The gardener qui a coupé la couverture financièrement,was,were
+ParkerAn_22_CORE_S,CORE_S,The gardener qui a coupé la couverture financièrement,eétait,eétaient
+ParkerAn_22_CORE_S,CORE_S,Le jardinier cut  the hedge financially,was,were
+ParkerAn_22_CORE_S,CORE_S,Le jardinier cut  the hedge financially,eétait,eétaient
+ParkerAn_22_CORE_S,CORE_S,Le jardinierqui a coupé la couverture financièrement,was,were
+ParkerAn_22_CORE_S,CORE_S,Le jardinierqui a coupé la couverture financièrement,eétait,eétaient
+ParkerAn_22_OBLIQUE_P,OBLIQUE_P,The gardener  cut around the hedges financially,was,were
+ParkerAn_22_OBLIQUE_P,OBLIQUE_P,The gardener  cut around the hedges financially,eétait,eétaient
+ParkerAn_22_OBLIQUE_P,OBLIQUE_P,The gardener qui contournent financièrement les haies,was,were
+ParkerAn_22_OBLIQUE_P,OBLIQUE_P,The gardener qui contournent financièrement les haies,eétait,eétaient
+ParkerAn_22_OBLIQUE_P,OBLIQUE_P,Le jardinier cut around the hedges financially,was,were
+ParkerAn_22_OBLIQUE_P,OBLIQUE_P,Le jardinier cut around the hedges financially,eétait,eétaient
+ParkerAn_22_OBLIQUE_P,OBLIQUE_P,Le jardinierqui contournent financièrement les haies,was,were
+ParkerAn_22_OBLIQUE_P,OBLIQUE_P,Le jardinierqui contournent financièrement les haies,eétait,eétaient
+ParkerAn_22_CORE_P,CORE_P,The gardener  cut  the hedges financially,was,were
+ParkerAn_22_CORE_P,CORE_P,The gardener  cut  the hedges financially,eétait,eétaient
+ParkerAn_22_CORE_P,CORE_P,The gardener qui a coupé les haies financièrement,was,were
+ParkerAn_22_CORE_P,CORE_P,The gardener qui a coupé les haies financièrement,eétait,eétaient
+ParkerAn_22_CORE_P,CORE_P,Le jardinier cut  the hedges financially,was,were
+ParkerAn_22_CORE_P,CORE_P,Le jardinier cut  the hedges financially,eétait,eétaient
+ParkerAn_22_CORE_P,CORE_P,Le jardinierqui a coupé les haies financièrement,was,were
+ParkerAn_22_CORE_P,CORE_P,Le jardinierqui a coupé les haies financièrement,eétait,eétaient
+ParkerAn_23_OBLIQUE_S,OBLIQUE_S,The athlete  kicked near the referee obviously,was,were
+ParkerAn_23_OBLIQUE_S,OBLIQUE_S,The athlete  kicked near the referee obviously,eétait,eétaient
+ParkerAn_23_OBLIQUE_S,OBLIQUE_S,The athlete qui a donné un coup de pied près de l'arbitre évidemment,was,were
+ParkerAn_23_OBLIQUE_S,OBLIQUE_S,The athlete qui a donné un coup de pied près de l'arbitre évidemment,eétait,eétaient
+ParkerAn_23_OBLIQUE_S,OBLIQUE_S,L'athlète kicked near the referee obviously,was,were
+ParkerAn_23_OBLIQUE_S,OBLIQUE_S,L'athlète kicked near the referee obviously,eétait,eétaient
+ParkerAn_23_OBLIQUE_S,OBLIQUE_S,L'athlètequi a donné un coup de pied près de l'arbitre évidemment,was,were
+ParkerAn_23_OBLIQUE_S,OBLIQUE_S,L'athlètequi a donné un coup de pied près de l'arbitre évidemment,eétait,eétaient
+ParkerAn_23_CORE_S,CORE_S,The athlete  kicked  the referee obviously,was,were
+ParkerAn_23_CORE_S,CORE_S,The athlete  kicked  the referee obviously,eétait,eétaient
+ParkerAn_23_CORE_S,CORE_S,The athlete qui a frappé l'arbitre de toute évidence,was,were
+ParkerAn_23_CORE_S,CORE_S,The athlete qui a frappé l'arbitre de toute évidence,eétait,eétaient
+ParkerAn_23_CORE_S,CORE_S,L'athlète kicked  the referee obviously,was,were
+ParkerAn_23_CORE_S,CORE_S,L'athlète kicked  the referee obviously,eétait,eétaient
+ParkerAn_23_CORE_S,CORE_S,L'athlètequi a frappé l'arbitre de toute évidence,was,were
+ParkerAn_23_CORE_S,CORE_S,L'athlètequi a frappé l'arbitre de toute évidence,eétait,eétaient
+ParkerAn_23_OBLIQUE_P,OBLIQUE_P,The athlete  kicked near the referees obviously,was,were
+ParkerAn_23_OBLIQUE_P,OBLIQUE_P,The athlete  kicked near the referees obviously,eétait,eétaient
+ParkerAn_23_OBLIQUE_P,OBLIQUE_P,The athlete qui a donné un coup de pied près des arbitres évidemment,was,were
+ParkerAn_23_OBLIQUE_P,OBLIQUE_P,The athlete qui a donné un coup de pied près des arbitres évidemment,eétait,eétaient
+ParkerAn_23_OBLIQUE_P,OBLIQUE_P,L'athlète kicked near the referees obviously,was,were
+ParkerAn_23_OBLIQUE_P,OBLIQUE_P,L'athlète kicked near the referees obviously,eétait,eétaient
+ParkerAn_23_OBLIQUE_P,OBLIQUE_P,L'athlètequi a donné un coup de pied près des arbitres évidemment,was,were
+ParkerAn_23_OBLIQUE_P,OBLIQUE_P,L'athlètequi a donné un coup de pied près des arbitres évidemment,eétait,eétaient
+ParkerAn_23_CORE_P,CORE_P,The athlete  kicked  the referees obviously,was,were
+ParkerAn_23_CORE_P,CORE_P,The athlete  kicked  the referees obviously,eétait,eétaient
+ParkerAn_23_CORE_P,CORE_P,The athlete qui a frappé les arbitres de toute évidence,was,were
+ParkerAn_23_CORE_P,CORE_P,The athlete qui a frappé les arbitres de toute évidence,eétait,eétaient
+ParkerAn_23_CORE_P,CORE_P,L'athlète kicked  the referees obviously,was,were
+ParkerAn_23_CORE_P,CORE_P,L'athlète kicked  the referees obviously,eétait,eétaient
+ParkerAn_23_CORE_P,CORE_P,L'athlètequi a frappé les arbitres de toute évidence,was,were
+ParkerAn_23_CORE_P,CORE_P,L'athlètequi a frappé les arbitres de toute évidence,eétait,eétaient
+ParkerAn_24_OBLIQUE_S,OBLIQUE_S,The artist  painted in the garden apparently,was,were
+ParkerAn_24_OBLIQUE_S,OBLIQUE_S,The artist  painted in the garden apparently,eétait,eétaient
+ParkerAn_24_OBLIQUE_S,OBLIQUE_S,The artist qui a peint dans le jardin apparemment,was,were
+ParkerAn_24_OBLIQUE_S,OBLIQUE_S,The artist qui a peint dans le jardin apparemment,eétait,eétaient
+ParkerAn_24_OBLIQUE_S,OBLIQUE_S,L'artiste painted in the garden apparently,was,were
+ParkerAn_24_OBLIQUE_S,OBLIQUE_S,L'artiste painted in the garden apparently,eétait,eétaient
+ParkerAn_24_OBLIQUE_S,OBLIQUE_S,L'artistequi a peint dans le jardin apparemment,was,were
+ParkerAn_24_OBLIQUE_S,OBLIQUE_S,L'artistequi a peint dans le jardin apparemment,eétait,eétaient
+ParkerAn_24_CORE_S,CORE_S,The artist  painted  the garden apparently,was,were
+ParkerAn_24_CORE_S,CORE_S,The artist  painted  the garden apparently,eétait,eétaient
+ParkerAn_24_CORE_S,CORE_S,The artist qui a peint le jardin apparemment,was,were
+ParkerAn_24_CORE_S,CORE_S,The artist qui a peint le jardin apparemment,eétait,eétaient
+ParkerAn_24_CORE_S,CORE_S,L'artiste painted  the garden apparently,was,were
+ParkerAn_24_CORE_S,CORE_S,L'artiste painted  the garden apparently,eétait,eétaient
+ParkerAn_24_CORE_S,CORE_S,L'artistequi a peint le jardin apparemment,was,were
+ParkerAn_24_CORE_S,CORE_S,L'artistequi a peint le jardin apparemment,eétait,eétaient
+ParkerAn_24_OBLIQUE_P,OBLIQUE_P,The artist  painted in the gardens apparently,was,were
+ParkerAn_24_OBLIQUE_P,OBLIQUE_P,The artist  painted in the gardens apparently,eétait,eétaient
+ParkerAn_24_OBLIQUE_P,OBLIQUE_P,The artist qui a peint dans les jardins apparemment,was,were
+ParkerAn_24_OBLIQUE_P,OBLIQUE_P,The artist qui a peint dans les jardins apparemment,eétait,eétaient
+ParkerAn_24_OBLIQUE_P,OBLIQUE_P,L'artiste painted in the gardens apparently,was,were
+ParkerAn_24_OBLIQUE_P,OBLIQUE_P,L'artiste painted in the gardens apparently,eétait,eétaient
+ParkerAn_24_OBLIQUE_P,OBLIQUE_P,L'artistequi a peint dans les jardins apparemment,was,were
+ParkerAn_24_OBLIQUE_P,OBLIQUE_P,L'artistequi a peint dans les jardins apparemment,eétait,eétaient
+ParkerAn_24_CORE_P,CORE_P,The artist  painted  the gardens apparently,was,were
+ParkerAn_24_CORE_P,CORE_P,The artist  painted  the gardens apparently,eétait,eétaient
+ParkerAn_24_CORE_P,CORE_P,The artist qui a peint les jardins apparemment,was,were
+ParkerAn_24_CORE_P,CORE_P,The artist qui a peint les jardins apparemment,eétait,eétaient
+ParkerAn_24_CORE_P,CORE_P,L'artiste painted  the gardens apparently,was,were
+ParkerAn_24_CORE_P,CORE_P,L'artiste painted  the gardens apparently,eétait,eétaient
+ParkerAn_24_CORE_P,CORE_P,L'artistequi a peint les jardins apparemment,was,were
+ParkerAn_24_CORE_P,CORE_P,L'artistequi a peint les jardins apparemment,eétait,eétaient
+ParkerAn_25_OBLIQUE_S,OBLIQUE_S,The teacher  called for the student obviously,was,were
+ParkerAn_25_OBLIQUE_S,OBLIQUE_S,The teacher  called for the student obviously,eétait,eétaient
+ParkerAn_25_OBLIQUE_S,OBLIQUE_S,The teacher qui a appelé l'étudiant évidemment,was,were
+ParkerAn_25_OBLIQUE_S,OBLIQUE_S,The teacher qui a appelé l'étudiant évidemment,eétait,eétaient
+ParkerAn_25_OBLIQUE_S,OBLIQUE_S,L'enseignant called for the student obviously,was,were
+ParkerAn_25_OBLIQUE_S,OBLIQUE_S,L'enseignant called for the student obviously,eétait,eétaient
+ParkerAn_25_OBLIQUE_S,OBLIQUE_S,L'enseignantqui a appelé l'étudiant évidemment,was,were
+ParkerAn_25_OBLIQUE_S,OBLIQUE_S,L'enseignantqui a appelé l'étudiant évidemment,eétait,eétaient
+ParkerAn_25_CORE_S,CORE_S,The teacher  called  the student obviously,was,were
+ParkerAn_25_CORE_S,CORE_S,The teacher  called  the student obviously,eétait,eétaient
+ParkerAn_25_CORE_S,CORE_S,The teacher qui a appelé l'élève de toute évidence,was,were
+ParkerAn_25_CORE_S,CORE_S,The teacher qui a appelé l'élève de toute évidence,eétait,eétaient
+ParkerAn_25_CORE_S,CORE_S,L'enseignant called  the student obviously,was,were
+ParkerAn_25_CORE_S,CORE_S,L'enseignant called  the student obviously,eétait,eétaient
+ParkerAn_25_CORE_S,CORE_S,L'enseignantqui a appelé l'élève de toute évidence,was,were
+ParkerAn_25_CORE_S,CORE_S,L'enseignantqui a appelé l'élève de toute évidence,eétait,eétaient
+ParkerAn_25_OBLIQUE_P,OBLIQUE_P,The teacher  called for the students obviously,was,were
+ParkerAn_25_OBLIQUE_P,OBLIQUE_P,The teacher  called for the students obviously,eétait,eétaient
+ParkerAn_25_OBLIQUE_P,OBLIQUE_P,The teacher qui a appelé les étudiants évidemment,was,were
+ParkerAn_25_OBLIQUE_P,OBLIQUE_P,The teacher qui a appelé les étudiants évidemment,eétait,eétaient
+ParkerAn_25_OBLIQUE_P,OBLIQUE_P,L'enseignant called for the students obviously,was,were
+ParkerAn_25_OBLIQUE_P,OBLIQUE_P,L'enseignant called for the students obviously,eétait,eétaient
+ParkerAn_25_OBLIQUE_P,OBLIQUE_P,L'enseignantqui a appelé les étudiants évidemment,was,were
+ParkerAn_25_OBLIQUE_P,OBLIQUE_P,L'enseignantqui a appelé les étudiants évidemment,eétait,eétaient
+ParkerAn_25_CORE_P,CORE_P,The teacher  called  the students obviously,was,were
+ParkerAn_25_CORE_P,CORE_P,The teacher  called  the students obviously,eétait,eétaient
+ParkerAn_25_CORE_P,CORE_P,The teacher qui a appelé les étudiants évidemment,was,were
+ParkerAn_25_CORE_P,CORE_P,The teacher qui a appelé les étudiants évidemment,eétait,eétaient
+ParkerAn_25_CORE_P,CORE_P,L'enseignant called  the students obviously,was,were
+ParkerAn_25_CORE_P,CORE_P,L'enseignant called  the students obviously,eétait,eétaient
+ParkerAn_25_CORE_P,CORE_P,L'enseignantqui a appelé les étudiants évidemment,was,were
+ParkerAn_25_CORE_P,CORE_P,L'enseignantqui a appelé les étudiants évidemment,eétait,eétaient
+ParkerAn_26_OBLIQUE_S,OBLIQUE_S,The chef  cooked with the onion obviously,was,were
+ParkerAn_26_OBLIQUE_S,OBLIQUE_S,The chef  cooked with the onion obviously,eétait,eétaient
+ParkerAn_26_OBLIQUE_S,OBLIQUE_S,The chef qui cuisinait avec l'oignon évidemment,was,were
+ParkerAn_26_OBLIQUE_S,OBLIQUE_S,The chef qui cuisinait avec l'oignon évidemment,eétait,eétaient
+ParkerAn_26_OBLIQUE_S,OBLIQUE_S,Le chef cooked with the onion obviously,was,were
+ParkerAn_26_OBLIQUE_S,OBLIQUE_S,Le chef cooked with the onion obviously,eétait,eétaient
+ParkerAn_26_OBLIQUE_S,OBLIQUE_S,Le chefqui cuisinait avec l'oignon évidemment,was,were
+ParkerAn_26_OBLIQUE_S,OBLIQUE_S,Le chefqui cuisinait avec l'oignon évidemment,eétait,eétaient
+ParkerAn_26_CORE_S,CORE_S,The chef  cooked  the onion obviously,was,were
+ParkerAn_26_CORE_S,CORE_S,The chef  cooked  the onion obviously,eétait,eétaient
+ParkerAn_26_CORE_S,CORE_S,The chef qui a cuit l'oignon évidemment,was,were
+ParkerAn_26_CORE_S,CORE_S,The chef qui a cuit l'oignon évidemment,eétait,eétaient
+ParkerAn_26_CORE_S,CORE_S,Le chef cooked  the onion obviously,was,were
+ParkerAn_26_CORE_S,CORE_S,Le chef cooked  the onion obviously,eétait,eétaient
+ParkerAn_26_CORE_S,CORE_S,Le chefqui a cuit l'oignon évidemment,was,were
+ParkerAn_26_CORE_S,CORE_S,Le chefqui a cuit l'oignon évidemment,eétait,eétaient
+ParkerAn_26_OBLIQUE_P,OBLIQUE_P,The chef  cooked with the onions obviously,was,were
+ParkerAn_26_OBLIQUE_P,OBLIQUE_P,The chef  cooked with the onions obviously,eétait,eétaient
+ParkerAn_26_OBLIQUE_P,OBLIQUE_P,The chef qui cuisinait avec les oignons évidemment,was,were
+ParkerAn_26_OBLIQUE_P,OBLIQUE_P,The chef qui cuisinait avec les oignons évidemment,eétait,eétaient
+ParkerAn_26_OBLIQUE_P,OBLIQUE_P,Le chef cooked with the onions obviously,was,were
+ParkerAn_26_OBLIQUE_P,OBLIQUE_P,Le chef cooked with the onions obviously,eétait,eétaient
+ParkerAn_26_OBLIQUE_P,OBLIQUE_P,Le chefqui cuisinait avec les oignons évidemment,was,were
+ParkerAn_26_OBLIQUE_P,OBLIQUE_P,Le chefqui cuisinait avec les oignons évidemment,eétait,eétaient
+ParkerAn_26_CORE_P,CORE_P,The chef  cooked  the onions obviously,was,were
+ParkerAn_26_CORE_P,CORE_P,The chef  cooked  the onions obviously,eétait,eétaient
+ParkerAn_26_CORE_P,CORE_P,The chef qui a cuit les oignons évidemment,was,were
+ParkerAn_26_CORE_P,CORE_P,The chef qui a cuit les oignons évidemment,eétait,eétaient
+ParkerAn_26_CORE_P,CORE_P,Le chef cooked  the onions obviously,was,were
+ParkerAn_26_CORE_P,CORE_P,Le chef cooked  the onions obviously,eétait,eétaient
+ParkerAn_26_CORE_P,CORE_P,Le chefqui a cuit les oignons évidemment,was,were
+ParkerAn_26_CORE_P,CORE_P,Le chefqui a cuit les oignons évidemment,eétait,eétaient
+ParkerAn_27_OBLIQUE_S,OBLIQUE_S,The host  sat near the guest certainly,was,were
+ParkerAn_27_OBLIQUE_S,OBLIQUE_S,The host  sat near the guest certainly,eétait,eétaient
+ParkerAn_27_OBLIQUE_S,OBLIQUE_S,The host qui s'est assis près de l'invité certainement,was,were
+ParkerAn_27_OBLIQUE_S,OBLIQUE_S,The host qui s'est assis près de l'invité certainement,eétait,eétaient
+ParkerAn_27_OBLIQUE_S,OBLIQUE_S,L'hôte sat near the guest certainly,was,were
+ParkerAn_27_OBLIQUE_S,OBLIQUE_S,L'hôte sat near the guest certainly,eétait,eétaient
+ParkerAn_27_OBLIQUE_S,OBLIQUE_S,L'hôtequi s'est assis près de l'invité certainement,was,were
+ParkerAn_27_OBLIQUE_S,OBLIQUE_S,L'hôtequi s'est assis près de l'invité certainement,eétait,eétaient
+ParkerAn_27_CORE_S,CORE_S,The host  sat  the guest certainly,was,were
+ParkerAn_27_CORE_S,CORE_S,The host  sat  the guest certainly,eétait,eétaient
+ParkerAn_27_CORE_S,CORE_S,The host qui a assis l'invité certainement,was,were
+ParkerAn_27_CORE_S,CORE_S,The host qui a assis l'invité certainement,eétait,eétaient
+ParkerAn_27_CORE_S,CORE_S,L'hôte sat  the guest certainly,was,were
+ParkerAn_27_CORE_S,CORE_S,L'hôte sat  the guest certainly,eétait,eétaient
+ParkerAn_27_CORE_S,CORE_S,L'hôtequi a assis l'invité certainement,was,were
+ParkerAn_27_CORE_S,CORE_S,L'hôtequi a assis l'invité certainement,eétait,eétaient
+ParkerAn_27_OBLIQUE_P,OBLIQUE_P,The host  sat near the guests certainly,was,were
+ParkerAn_27_OBLIQUE_P,OBLIQUE_P,The host  sat near the guests certainly,eétait,eétaient
+ParkerAn_27_OBLIQUE_P,OBLIQUE_P,The host qui s'est assis près des invités certainement,was,were
+ParkerAn_27_OBLIQUE_P,OBLIQUE_P,The host qui s'est assis près des invités certainement,eétait,eétaient
+ParkerAn_27_OBLIQUE_P,OBLIQUE_P,L'hôte sat near the guests certainly,was,were
+ParkerAn_27_OBLIQUE_P,OBLIQUE_P,L'hôte sat near the guests certainly,eétait,eétaient
+ParkerAn_27_OBLIQUE_P,OBLIQUE_P,L'hôtequi s'est assis près des invités certainement,was,were
+ParkerAn_27_OBLIQUE_P,OBLIQUE_P,L'hôtequi s'est assis près des invités certainement,eétait,eétaient
+ParkerAn_27_CORE_P,CORE_P,The host  sat  the guests certainly,was,were
+ParkerAn_27_CORE_P,CORE_P,The host  sat  the guests certainly,eétait,eétaient
+ParkerAn_27_CORE_P,CORE_P,The host qui a assis les invités certainement,was,were
+ParkerAn_27_CORE_P,CORE_P,The host qui a assis les invités certainement,eétait,eétaient
+ParkerAn_27_CORE_P,CORE_P,L'hôte sat  the guests certainly,was,were
+ParkerAn_27_CORE_P,CORE_P,L'hôte sat  the guests certainly,eétait,eétaient
+ParkerAn_27_CORE_P,CORE_P,L'hôtequi a assis les invités certainement,was,were
+ParkerAn_27_CORE_P,CORE_P,L'hôtequi a assis les invités certainement,eétait,eétaient
+ParkerAn_28_OBLIQUE_S,OBLIQUE_S,The stewardess  sat behind the passenger certainly,was,were
+ParkerAn_28_OBLIQUE_S,OBLIQUE_S,The stewardess  sat behind the passenger certainly,eétait,eétaient
+ParkerAn_28_OBLIQUE_S,OBLIQUE_S,The stewardess qui s'assit certainement derrière le passager,was,were
+ParkerAn_28_OBLIQUE_S,OBLIQUE_S,The stewardess qui s'assit certainement derrière le passager,eétait,eétaient
+ParkerAn_28_OBLIQUE_S,OBLIQUE_S,L'hôtesse sat behind the passenger certainly,was,were
+ParkerAn_28_OBLIQUE_S,OBLIQUE_S,L'hôtesse sat behind the passenger certainly,eétait,eétaient
+ParkerAn_28_OBLIQUE_S,OBLIQUE_S,L'hôtessequi s'assit certainement derrière le passager,was,were
+ParkerAn_28_OBLIQUE_S,OBLIQUE_S,L'hôtessequi s'assit certainement derrière le passager,eétait,eétaient
+ParkerAn_28_CORE_S,CORE_S,The stewardess  sat  the passenger certainly,was,were
+ParkerAn_28_CORE_S,CORE_S,The stewardess  sat  the passenger certainly,eétait,eétaient
+ParkerAn_28_CORE_S,CORE_S,The stewardess qui a assis le passager certainement,was,were
+ParkerAn_28_CORE_S,CORE_S,The stewardess qui a assis le passager certainement,eétait,eétaient
+ParkerAn_28_CORE_S,CORE_S,L'hôtesse sat  the passenger certainly,was,were
+ParkerAn_28_CORE_S,CORE_S,L'hôtesse sat  the passenger certainly,eétait,eétaient
+ParkerAn_28_CORE_S,CORE_S,L'hôtessequi a assis le passager certainement,was,were
+ParkerAn_28_CORE_S,CORE_S,L'hôtessequi a assis le passager certainement,eétait,eétaient
+ParkerAn_28_OBLIQUE_P,OBLIQUE_P,The stewardess  sat behind the passengers certainly,was,were
+ParkerAn_28_OBLIQUE_P,OBLIQUE_P,The stewardess  sat behind the passengers certainly,eétait,eétaient
+ParkerAn_28_OBLIQUE_P,OBLIQUE_P,The stewardess qui s'est assis derrière les passagers certainement,was,were
+ParkerAn_28_OBLIQUE_P,OBLIQUE_P,The stewardess qui s'est assis derrière les passagers certainement,eétait,eétaient
+ParkerAn_28_OBLIQUE_P,OBLIQUE_P,L'hôtesse sat behind the passengers certainly,was,were
+ParkerAn_28_OBLIQUE_P,OBLIQUE_P,L'hôtesse sat behind the passengers certainly,eétait,eétaient
+ParkerAn_28_OBLIQUE_P,OBLIQUE_P,L'hôtessequi s'est assis derrière les passagers certainement,was,were
+ParkerAn_28_OBLIQUE_P,OBLIQUE_P,L'hôtessequi s'est assis derrière les passagers certainement,eétait,eétaient
+ParkerAn_28_CORE_P,CORE_P,The stewardess  sat  the passengers certainly,was,were
+ParkerAn_28_CORE_P,CORE_P,The stewardess  sat  the passengers certainly,eétait,eétaient
+ParkerAn_28_CORE_P,CORE_P,The stewardess qui a assis les passagers certainement,was,were
+ParkerAn_28_CORE_P,CORE_P,The stewardess qui a assis les passagers certainement,eétait,eétaient
+ParkerAn_28_CORE_P,CORE_P,L'hôtesse sat  the passengers certainly,was,were
+ParkerAn_28_CORE_P,CORE_P,L'hôtesse sat  the passengers certainly,eétait,eétaient
+ParkerAn_28_CORE_P,CORE_P,L'hôtessequi a assis les passagers certainement,was,were
+ParkerAn_28_CORE_P,CORE_P,L'hôtessequi a assis les passagers certainement,eétait,eétaient
+ParkerAn_29_OBLIQUE_S,OBLIQUE_S,The driver  crossed over the bridge luckily,was,were
+ParkerAn_29_OBLIQUE_S,OBLIQUE_S,The driver  crossed over the bridge luckily,eétait,eétaient
+ParkerAn_29_OBLIQUE_S,OBLIQUE_S,The driver qui a traversé le pont heureusement,was,were
+ParkerAn_29_OBLIQUE_S,OBLIQUE_S,The driver qui a traversé le pont heureusement,eétait,eétaient
+ParkerAn_29_OBLIQUE_S,OBLIQUE_S,Le conducteur crossed over the bridge luckily,was,were
+ParkerAn_29_OBLIQUE_S,OBLIQUE_S,Le conducteur crossed over the bridge luckily,eétait,eétaient
+ParkerAn_29_OBLIQUE_S,OBLIQUE_S,Le conducteurqui a traversé le pont heureusement,was,were
+ParkerAn_29_OBLIQUE_S,OBLIQUE_S,Le conducteurqui a traversé le pont heureusement,eétait,eétaient
+ParkerAn_29_CORE_S,CORE_S,The driver  crossed  the bridge luckily,was,were
+ParkerAn_29_CORE_S,CORE_S,The driver  crossed  the bridge luckily,eétait,eétaient
+ParkerAn_29_CORE_S,CORE_S,The driver qui a traversé le pont heureusement,was,were
+ParkerAn_29_CORE_S,CORE_S,The driver qui a traversé le pont heureusement,eétait,eétaient
+ParkerAn_29_CORE_S,CORE_S,Le conducteur crossed  the bridge luckily,was,were
+ParkerAn_29_CORE_S,CORE_S,Le conducteur crossed  the bridge luckily,eétait,eétaient
+ParkerAn_29_CORE_S,CORE_S,Le conducteurqui a traversé le pont heureusement,was,were
+ParkerAn_29_CORE_S,CORE_S,Le conducteurqui a traversé le pont heureusement,eétait,eétaient
+ParkerAn_29_OBLIQUE_P,OBLIQUE_P,The driver  crossed over the bridges luckily,was,were
+ParkerAn_29_OBLIQUE_P,OBLIQUE_P,The driver  crossed over the bridges luckily,eétait,eétaient
+ParkerAn_29_OBLIQUE_P,OBLIQUE_P,The driver qui a traversé les ponts heureusement,was,were
+ParkerAn_29_OBLIQUE_P,OBLIQUE_P,The driver qui a traversé les ponts heureusement,eétait,eétaient
+ParkerAn_29_OBLIQUE_P,OBLIQUE_P,Le conducteur crossed over the bridges luckily,was,were
+ParkerAn_29_OBLIQUE_P,OBLIQUE_P,Le conducteur crossed over the bridges luckily,eétait,eétaient
+ParkerAn_29_OBLIQUE_P,OBLIQUE_P,Le conducteurqui a traversé les ponts heureusement,was,were
+ParkerAn_29_OBLIQUE_P,OBLIQUE_P,Le conducteurqui a traversé les ponts heureusement,eétait,eétaient
+ParkerAn_29_CORE_P,CORE_P,The driver  crossed  the bridges luckily,was,were
+ParkerAn_29_CORE_P,CORE_P,The driver  crossed  the bridges luckily,eétait,eétaient
+ParkerAn_29_CORE_P,CORE_P,The driver qui a traversé les ponts heureusement,was,were
+ParkerAn_29_CORE_P,CORE_P,The driver qui a traversé les ponts heureusement,eétait,eétaient
+ParkerAn_29_CORE_P,CORE_P,Le conducteur crossed  the bridges luckily,was,were
+ParkerAn_29_CORE_P,CORE_P,Le conducteur crossed  the bridges luckily,eétait,eétaient
+ParkerAn_29_CORE_P,CORE_P,Le conducteurqui a traversé les ponts heureusement,was,were
+ParkerAn_29_CORE_P,CORE_P,Le conducteurqui a traversé les ponts heureusement,eétait,eétaient
+ParkerAn_30_OBLIQUE_S,OBLIQUE_S,The professor  wrote on the test certainly,was,were
+ParkerAn_30_OBLIQUE_S,OBLIQUE_S,The professor  wrote on the test certainly,eétait,eétaient
+ParkerAn_30_OBLIQUE_S,OBLIQUE_S,The professor qui a certainement écrit sur le test,was,were
+ParkerAn_30_OBLIQUE_S,OBLIQUE_S,The professor qui a certainement écrit sur le test,eétait,eétaient
+ParkerAn_30_OBLIQUE_S,OBLIQUE_S,Le professeur wrote on the test certainly,was,were
+ParkerAn_30_OBLIQUE_S,OBLIQUE_S,Le professeur wrote on the test certainly,eétait,eétaient
+ParkerAn_30_OBLIQUE_S,OBLIQUE_S,Le professeurqui a certainement écrit sur le test,was,were
+ParkerAn_30_OBLIQUE_S,OBLIQUE_S,Le professeurqui a certainement écrit sur le test,eétait,eétaient
+ParkerAn_30_CORE_S,CORE_S,The professor  wrote  the test certainly,was,were
+ParkerAn_30_CORE_S,CORE_S,The professor  wrote  the test certainly,eétait,eétaient
+ParkerAn_30_CORE_S,CORE_S,The professor qui a certainement écrit le test,was,were
+ParkerAn_30_CORE_S,CORE_S,The professor qui a certainement écrit le test,eétait,eétaient
+ParkerAn_30_CORE_S,CORE_S,Le professeur wrote  the test certainly,was,were
+ParkerAn_30_CORE_S,CORE_S,Le professeur wrote  the test certainly,eétait,eétaient
+ParkerAn_30_CORE_S,CORE_S,Le professeurqui a certainement écrit le test,was,were
+ParkerAn_30_CORE_S,CORE_S,Le professeurqui a certainement écrit le test,eétait,eétaient
+ParkerAn_30_OBLIQUE_P,OBLIQUE_P,The professor  wrote on the tests certainly,was,were
+ParkerAn_30_OBLIQUE_P,OBLIQUE_P,The professor  wrote on the tests certainly,eétait,eétaient
+ParkerAn_30_OBLIQUE_P,OBLIQUE_P,The professor qui a certainement écrit sur les tests,was,were
+ParkerAn_30_OBLIQUE_P,OBLIQUE_P,The professor qui a certainement écrit sur les tests,eétait,eétaient
+ParkerAn_30_OBLIQUE_P,OBLIQUE_P,Le professeur wrote on the tests certainly,was,were
+ParkerAn_30_OBLIQUE_P,OBLIQUE_P,Le professeur wrote on the tests certainly,eétait,eétaient
+ParkerAn_30_OBLIQUE_P,OBLIQUE_P,Le professeurqui a certainement écrit sur les tests,was,were
+ParkerAn_30_OBLIQUE_P,OBLIQUE_P,Le professeurqui a certainement écrit sur les tests,eétait,eétaient
+ParkerAn_30_CORE_P,CORE_P,The professor  wrote  the tests certainly,was,were
+ParkerAn_30_CORE_P,CORE_P,The professor  wrote  the tests certainly,eétait,eétaient
+ParkerAn_30_CORE_P,CORE_P,The professor qui a certainement écrit les tests,was,were
+ParkerAn_30_CORE_P,CORE_P,The professor qui a certainement écrit les tests,eétait,eétaient
+ParkerAn_30_CORE_P,CORE_P,Le professeur wrote  the tests certainly,was,were
+ParkerAn_30_CORE_P,CORE_P,Le professeur wrote  the tests certainly,eétait,eétaient
+ParkerAn_30_CORE_P,CORE_P,Le professeurqui a certainement écrit les tests,was,were
+ParkerAn_30_CORE_P,CORE_P,Le professeurqui a certainement écrit les tests,eétait,eétaient
+ParkerAn_31_OBLIQUE_S,OBLIQUE_S,The journalist  wrote about the article obviously,was,were
+ParkerAn_31_OBLIQUE_S,OBLIQUE_S,The journalist  wrote about the article obviously,eétait,eétaient
+ParkerAn_31_OBLIQUE_S,OBLIQUE_S,The journalist qui a écrit sur l'article de toute évidence,was,were
+ParkerAn_31_OBLIQUE_S,OBLIQUE_S,The journalist qui a écrit sur l'article de toute évidence,eétait,eétaient
+ParkerAn_31_OBLIQUE_S,OBLIQUE_S,La journaliste wrote about the article obviously,was,were
+ParkerAn_31_OBLIQUE_S,OBLIQUE_S,La journaliste wrote about the article obviously,eétait,eétaient
+ParkerAn_31_OBLIQUE_S,OBLIQUE_S,La journalistequi a écrit sur l'article de toute évidence,was,were
+ParkerAn_31_OBLIQUE_S,OBLIQUE_S,La journalistequi a écrit sur l'article de toute évidence,eétait,eétaient
+ParkerAn_31_CORE_S,CORE_S,The journalist  wrote  the article obviously,was,were
+ParkerAn_31_CORE_S,CORE_S,The journalist  wrote  the article obviously,eétait,eétaient
+ParkerAn_31_CORE_S,CORE_S,The journalist qui a écrit l'article de toute évidence,was,were
+ParkerAn_31_CORE_S,CORE_S,The journalist qui a écrit l'article de toute évidence,eétait,eétaient
+ParkerAn_31_CORE_S,CORE_S,La journaliste wrote  the article obviously,was,were
+ParkerAn_31_CORE_S,CORE_S,La journaliste wrote  the article obviously,eétait,eétaient
+ParkerAn_31_CORE_S,CORE_S,La journalistequi a écrit l'article de toute évidence,was,were
+ParkerAn_31_CORE_S,CORE_S,La journalistequi a écrit l'article de toute évidence,eétait,eétaient
+ParkerAn_31_OBLIQUE_P,OBLIQUE_P,The journalist  wrote about the articles obviously,was,were
+ParkerAn_31_OBLIQUE_P,OBLIQUE_P,The journalist  wrote about the articles obviously,eétait,eétaient
+ParkerAn_31_OBLIQUE_P,OBLIQUE_P,The journalist qui a écrit sur les articles évidemment,was,were
+ParkerAn_31_OBLIQUE_P,OBLIQUE_P,The journalist qui a écrit sur les articles évidemment,eétait,eétaient
+ParkerAn_31_OBLIQUE_P,OBLIQUE_P,La journaliste wrote about the articles obviously,was,were
+ParkerAn_31_OBLIQUE_P,OBLIQUE_P,La journaliste wrote about the articles obviously,eétait,eétaient
+ParkerAn_31_OBLIQUE_P,OBLIQUE_P,La journalistequi a écrit sur les articles évidemment,was,were
+ParkerAn_31_OBLIQUE_P,OBLIQUE_P,La journalistequi a écrit sur les articles évidemment,eétait,eétaient
+ParkerAn_31_CORE_P,CORE_P,The journalist  wrote  the articles obviously,was,were
+ParkerAn_31_CORE_P,CORE_P,The journalist  wrote  the articles obviously,eétait,eétaient
+ParkerAn_31_CORE_P,CORE_P,The journalist qui a écrit les articles évidemment,was,were
+ParkerAn_31_CORE_P,CORE_P,The journalist qui a écrit les articles évidemment,eétait,eétaient
+ParkerAn_31_CORE_P,CORE_P,La journaliste wrote  the articles obviously,was,were
+ParkerAn_31_CORE_P,CORE_P,La journaliste wrote  the articles obviously,eétait,eétaient
+ParkerAn_31_CORE_P,CORE_P,La journalistequi a écrit les articles évidemment,was,were
+ParkerAn_31_CORE_P,CORE_P,La journalistequi a écrit les articles évidemment,eétait,eétaient
+ParkerAn_32_OBLIQUE_S,OBLIQUE_S,The robber  broke into the drawer apparently,was,were
+ParkerAn_32_OBLIQUE_S,OBLIQUE_S,The robber  broke into the drawer apparently,eétait,eétaient
+ParkerAn_32_OBLIQUE_S,OBLIQUE_S,The robber qui est apparemment entré par effraction dans le tiroir,was,were
+ParkerAn_32_OBLIQUE_S,OBLIQUE_S,The robber qui est apparemment entré par effraction dans le tiroir,eétait,eétaient
+ParkerAn_32_OBLIQUE_S,OBLIQUE_S,Le voleur broke into the drawer apparently,was,were
+ParkerAn_32_OBLIQUE_S,OBLIQUE_S,Le voleur broke into the drawer apparently,eétait,eétaient
+ParkerAn_32_OBLIQUE_S,OBLIQUE_S,Le voleurqui est apparemment entré par effraction dans le tiroir,was,were
+ParkerAn_32_OBLIQUE_S,OBLIQUE_S,Le voleurqui est apparemment entré par effraction dans le tiroir,eétait,eétaient
+ParkerAn_32_CORE_S,CORE_S,The robber  broke  the drawer apparently,was,were
+ParkerAn_32_CORE_S,CORE_S,The robber  broke  the drawer apparently,eétait,eétaient
+ParkerAn_32_CORE_S,CORE_S,The robber qui a cassé le tiroir apparemment,was,were
+ParkerAn_32_CORE_S,CORE_S,The robber qui a cassé le tiroir apparemment,eétait,eétaient
+ParkerAn_32_CORE_S,CORE_S,Le voleur broke  the drawer apparently,was,were
+ParkerAn_32_CORE_S,CORE_S,Le voleur broke  the drawer apparently,eétait,eétaient
+ParkerAn_32_CORE_S,CORE_S,Le voleurqui a cassé le tiroir apparemment,was,were
+ParkerAn_32_CORE_S,CORE_S,Le voleurqui a cassé le tiroir apparemment,eétait,eétaient
+ParkerAn_32_OBLIQUE_P,OBLIQUE_P,The robber  broke into the drawers apparently,was,were
+ParkerAn_32_OBLIQUE_P,OBLIQUE_P,The robber  broke into the drawers apparently,eétait,eétaient
+ParkerAn_32_OBLIQUE_P,OBLIQUE_P,The robber qui a fait irruption dans les tiroirs apparemment,was,were
+ParkerAn_32_OBLIQUE_P,OBLIQUE_P,The robber qui a fait irruption dans les tiroirs apparemment,eétait,eétaient
+ParkerAn_32_OBLIQUE_P,OBLIQUE_P,Le voleur broke into the drawers apparently,was,were
+ParkerAn_32_OBLIQUE_P,OBLIQUE_P,Le voleur broke into the drawers apparently,eétait,eétaient
+ParkerAn_32_OBLIQUE_P,OBLIQUE_P,Le voleurqui a fait irruption dans les tiroirs apparemment,was,were
+ParkerAn_32_OBLIQUE_P,OBLIQUE_P,Le voleurqui a fait irruption dans les tiroirs apparemment,eétait,eétaient
+ParkerAn_32_CORE_P,CORE_P,The robber  broke  the drawers apparently,was,were
+ParkerAn_32_CORE_P,CORE_P,The robber  broke  the drawers apparently,eétait,eétaient
+ParkerAn_32_CORE_P,CORE_P,The robber qui a cassé les tiroirs apparemment,was,were
+ParkerAn_32_CORE_P,CORE_P,The robber qui a cassé les tiroirs apparemment,eétait,eétaient
+ParkerAn_32_CORE_P,CORE_P,Le voleur broke  the drawers apparently,was,were
+ParkerAn_32_CORE_P,CORE_P,Le voleur broke  the drawers apparently,eétait,eétaient
+ParkerAn_32_CORE_P,CORE_P,Le voleurqui a cassé les tiroirs apparemment,was,were
+ParkerAn_32_CORE_P,CORE_P,Le voleurqui a cassé les tiroirs apparemment,eétait,eétaient
+ParkerAn_33_OBLIQUE_S,OBLIQUE_S,The dog  chewed on the bone probably,was,were
+ParkerAn_33_OBLIQUE_S,OBLIQUE_S,The dog  chewed on the bone probably,eétait,eétaient
+ParkerAn_33_OBLIQUE_S,OBLIQUE_S,The dog qui mordait probablement l'os,was,were
+ParkerAn_33_OBLIQUE_S,OBLIQUE_S,The dog qui mordait probablement l'os,eétait,eétaient
+ParkerAn_33_OBLIQUE_S,OBLIQUE_S,Le chien chewed on the bone probably,was,were
+ParkerAn_33_OBLIQUE_S,OBLIQUE_S,Le chien chewed on the bone probably,eétait,eétaient
+ParkerAn_33_OBLIQUE_S,OBLIQUE_S,Le chienqui mordait probablement l'os,was,were
+ParkerAn_33_OBLIQUE_S,OBLIQUE_S,Le chienqui mordait probablement l'os,eétait,eétaient
+ParkerAn_33_CORE_S,CORE_S,The dog  chewed  the bone probably,was,were
+ParkerAn_33_CORE_S,CORE_S,The dog  chewed  the bone probably,eétait,eétaient
+ParkerAn_33_CORE_S,CORE_S,The dog qui mordait probablement l'os,was,were
+ParkerAn_33_CORE_S,CORE_S,The dog qui mordait probablement l'os,eétait,eétaient
+ParkerAn_33_CORE_S,CORE_S,Le chien chewed  the bone probably,was,were
+ParkerAn_33_CORE_S,CORE_S,Le chien chewed  the bone probably,eétait,eétaient
+ParkerAn_33_CORE_S,CORE_S,Le chienqui mordait probablement l'os,was,were
+ParkerAn_33_CORE_S,CORE_S,Le chienqui mordait probablement l'os,eétait,eétaient
+ParkerAn_33_OBLIQUE_P,OBLIQUE_P,The dog  chewed on the bones probably,was,were
+ParkerAn_33_OBLIQUE_P,OBLIQUE_P,The dog  chewed on the bones probably,eétait,eétaient
+ParkerAn_33_OBLIQUE_P,OBLIQUE_P,The dog qui mordait probablement les os,was,were
+ParkerAn_33_OBLIQUE_P,OBLIQUE_P,The dog qui mordait probablement les os,eétait,eétaient
+ParkerAn_33_OBLIQUE_P,OBLIQUE_P,Le chien chewed on the bones probably,was,were
+ParkerAn_33_OBLIQUE_P,OBLIQUE_P,Le chien chewed on the bones probably,eétait,eétaient
+ParkerAn_33_OBLIQUE_P,OBLIQUE_P,Le chienqui mordait probablement les os,was,were
+ParkerAn_33_OBLIQUE_P,OBLIQUE_P,Le chienqui mordait probablement les os,eétait,eétaient
+ParkerAn_33_CORE_P,CORE_P,The dog  chewed  the bones probably,was,were
+ParkerAn_33_CORE_P,CORE_P,The dog  chewed  the bones probably,eétait,eétaient
+ParkerAn_33_CORE_P,CORE_P,The dog qui mordait probablement les os,was,were
+ParkerAn_33_CORE_P,CORE_P,The dog qui mordait probablement les os,eétait,eétaient
+ParkerAn_33_CORE_P,CORE_P,Le chien chewed  the bones probably,was,were
+ParkerAn_33_CORE_P,CORE_P,Le chien chewed  the bones probably,eétait,eétaient
+ParkerAn_33_CORE_P,CORE_P,Le chienqui mordait probablement les os,was,were
+ParkerAn_33_CORE_P,CORE_P,Le chienqui mordait probablement les os,eétait,eétaient
+ParkerAn_34_OBLIQUE_S,OBLIQUE_S,The coach  trained with the athlete definitely,was,were
+ParkerAn_34_OBLIQUE_S,OBLIQUE_S,The coach  trained with the athlete definitely,eétait,eétaient
+ParkerAn_34_OBLIQUE_S,OBLIQUE_S,The coach qui s'est entraîné avec l'athlète définitivement,was,were
+ParkerAn_34_OBLIQUE_S,OBLIQUE_S,The coach qui s'est entraîné avec l'athlète définitivement,eétait,eétaient
+ParkerAn_34_OBLIQUE_S,OBLIQUE_S,L'entraîneur trained with the athlete definitely,was,were
+ParkerAn_34_OBLIQUE_S,OBLIQUE_S,L'entraîneur trained with the athlete definitely,eétait,eétaient
+ParkerAn_34_OBLIQUE_S,OBLIQUE_S,L'entraîneurqui s'est entraîné avec l'athlète définitivement,was,were
+ParkerAn_34_OBLIQUE_S,OBLIQUE_S,L'entraîneurqui s'est entraîné avec l'athlète définitivement,eétait,eétaient
+ParkerAn_34_CORE_S,CORE_S,The coach  trained  the athlete definitely,was,were
+ParkerAn_34_CORE_S,CORE_S,The coach  trained  the athlete definitely,eétait,eétaient
+ParkerAn_34_CORE_S,CORE_S,The coach qui a définitivement formé l'athlète,was,were
+ParkerAn_34_CORE_S,CORE_S,The coach qui a définitivement formé l'athlète,eétait,eétaient
+ParkerAn_34_CORE_S,CORE_S,L'entraîneur trained  the athlete definitely,was,were
+ParkerAn_34_CORE_S,CORE_S,L'entraîneur trained  the athlete definitely,eétait,eétaient
+ParkerAn_34_CORE_S,CORE_S,L'entraîneurqui a définitivement formé l'athlète,was,were
+ParkerAn_34_CORE_S,CORE_S,L'entraîneurqui a définitivement formé l'athlète,eétait,eétaient
+ParkerAn_34_OBLIQUE_P,OBLIQUE_P,The coach  trained with the athletes definitely,was,were
+ParkerAn_34_OBLIQUE_P,OBLIQUE_P,The coach  trained with the athletes definitely,eétait,eétaient
+ParkerAn_34_OBLIQUE_P,OBLIQUE_P,The coach qui s'est entraîné avec les athlètes définitivement,was,were
+ParkerAn_34_OBLIQUE_P,OBLIQUE_P,The coach qui s'est entraîné avec les athlètes définitivement,eétait,eétaient
+ParkerAn_34_OBLIQUE_P,OBLIQUE_P,L'entraîneur trained with the athletes definitely,was,were
+ParkerAn_34_OBLIQUE_P,OBLIQUE_P,L'entraîneur trained with the athletes definitely,eétait,eétaient
+ParkerAn_34_OBLIQUE_P,OBLIQUE_P,L'entraîneurqui s'est entraîné avec les athlètes définitivement,was,were
+ParkerAn_34_OBLIQUE_P,OBLIQUE_P,L'entraîneurqui s'est entraîné avec les athlètes définitivement,eétait,eétaient
+ParkerAn_34_CORE_P,CORE_P,The coach  trained  the athletes definitely,was,were
+ParkerAn_34_CORE_P,CORE_P,The coach  trained  the athletes definitely,eétait,eétaient
+ParkerAn_34_CORE_P,CORE_P,The coach qui a définitivement formé les athlètes,was,were
+ParkerAn_34_CORE_P,CORE_P,The coach qui a définitivement formé les athlètes,eétait,eétaient
+ParkerAn_34_CORE_P,CORE_P,L'entraîneur trained  the athletes definitely,was,were
+ParkerAn_34_CORE_P,CORE_P,L'entraîneur trained  the athletes definitely,eétait,eétaient
+ParkerAn_34_CORE_P,CORE_P,L'entraîneurqui a définitivement formé les athlètes,was,were
+ParkerAn_34_CORE_P,CORE_P,L'entraîneurqui a définitivement formé les athlètes,eétait,eétaient
+ParkerAn_35_OBLIQUE_S,OBLIQUE_S,The child  walked by the puppy clearly,was,were
+ParkerAn_35_OBLIQUE_S,OBLIQUE_S,The child  walked by the puppy clearly,eétait,eétaient
+ParkerAn_35_OBLIQUE_S,OBLIQUE_S,The child qui marchait clairement à côté du chiot,was,were
+ParkerAn_35_OBLIQUE_S,OBLIQUE_S,The child qui marchait clairement à côté du chiot,eétait,eétaient
+ParkerAn_35_OBLIQUE_S,OBLIQUE_S,L'enfant walked by the puppy clearly,was,were
+ParkerAn_35_OBLIQUE_S,OBLIQUE_S,L'enfant walked by the puppy clearly,eétait,eétaient
+ParkerAn_35_OBLIQUE_S,OBLIQUE_S,L'enfantqui marchait clairement à côté du chiot,was,were
+ParkerAn_35_OBLIQUE_S,OBLIQUE_S,L'enfantqui marchait clairement à côté du chiot,eétait,eétaient
+ParkerAn_35_CORE_S,CORE_S,The child  walked  the puppy clearly,was,were
+ParkerAn_35_CORE_S,CORE_S,The child  walked  the puppy clearly,eétait,eétaient
+ParkerAn_35_CORE_S,CORE_S,The child qui a marché clairement le chiot,was,were
+ParkerAn_35_CORE_S,CORE_S,The child qui a marché clairement le chiot,eétait,eétaient
+ParkerAn_35_CORE_S,CORE_S,L'enfant walked  the puppy clearly,was,were
+ParkerAn_35_CORE_S,CORE_S,L'enfant walked  the puppy clearly,eétait,eétaient
+ParkerAn_35_CORE_S,CORE_S,L'enfantqui a marché clairement le chiot,was,were
+ParkerAn_35_CORE_S,CORE_S,L'enfantqui a marché clairement le chiot,eétait,eétaient
+ParkerAn_35_OBLIQUE_P,OBLIQUE_P,The child  walked by the puppies clearly,was,were
+ParkerAn_35_OBLIQUE_P,OBLIQUE_P,The child  walked by the puppies clearly,eétait,eétaient
+ParkerAn_35_OBLIQUE_P,OBLIQUE_P,The child qui marchait clairement à côté des chiots,was,were
+ParkerAn_35_OBLIQUE_P,OBLIQUE_P,The child qui marchait clairement à côté des chiots,eétait,eétaient
+ParkerAn_35_OBLIQUE_P,OBLIQUE_P,L'enfant walked by the puppies clearly,was,were
+ParkerAn_35_OBLIQUE_P,OBLIQUE_P,L'enfant walked by the puppies clearly,eétait,eétaient
+ParkerAn_35_OBLIQUE_P,OBLIQUE_P,L'enfantqui marchait clairement à côté des chiots,was,were
+ParkerAn_35_OBLIQUE_P,OBLIQUE_P,L'enfantqui marchait clairement à côté des chiots,eétait,eétaient
+ParkerAn_35_CORE_P,CORE_P,The child  walked  the puppies clearly,was,were
+ParkerAn_35_CORE_P,CORE_P,The child  walked  the puppies clearly,eétait,eétaient
+ParkerAn_35_CORE_P,CORE_P,The child qui marchait clairement les chiots,was,were
+ParkerAn_35_CORE_P,CORE_P,The child qui marchait clairement les chiots,eétait,eétaient
+ParkerAn_35_CORE_P,CORE_P,L'enfant walked  the puppies clearly,was,were
+ParkerAn_35_CORE_P,CORE_P,L'enfant walked  the puppies clearly,eétait,eétaient
+ParkerAn_35_CORE_P,CORE_P,L'enfantqui marchait clairement les chiots,was,were
+ParkerAn_35_CORE_P,CORE_P,L'enfantqui marchait clairement les chiots,eétait,eétaient
+ParkerAn_36_OBLIQUE_S,OBLIQUE_S,The nurse  called for the doctor clearly,was,were
+ParkerAn_36_OBLIQUE_S,OBLIQUE_S,The nurse  called for the doctor clearly,eétait,eétaient
+ParkerAn_36_OBLIQUE_S,OBLIQUE_S,The nurse qui a clairement appelé le médecin,was,were
+ParkerAn_36_OBLIQUE_S,OBLIQUE_S,The nurse qui a clairement appelé le médecin,eétait,eétaient
+ParkerAn_36_OBLIQUE_S,OBLIQUE_S,L'infirmière called for the doctor clearly,was,were
+ParkerAn_36_OBLIQUE_S,OBLIQUE_S,L'infirmière called for the doctor clearly,eétait,eétaient
+ParkerAn_36_OBLIQUE_S,OBLIQUE_S,L'infirmièrequi a clairement appelé le médecin,was,were
+ParkerAn_36_OBLIQUE_S,OBLIQUE_S,L'infirmièrequi a clairement appelé le médecin,eétait,eétaient
+ParkerAn_36_CORE_S,CORE_S,The nurse  called  the doctor clearly,was,were
+ParkerAn_36_CORE_S,CORE_S,The nurse  called  the doctor clearly,eétait,eétaient
+ParkerAn_36_CORE_S,CORE_S,The nurse qui a appelé le médecin clairement,was,were
+ParkerAn_36_CORE_S,CORE_S,The nurse qui a appelé le médecin clairement,eétait,eétaient
+ParkerAn_36_CORE_S,CORE_S,L'infirmière called  the doctor clearly,was,were
+ParkerAn_36_CORE_S,CORE_S,L'infirmière called  the doctor clearly,eétait,eétaient
+ParkerAn_36_CORE_S,CORE_S,L'infirmièrequi a appelé le médecin clairement,was,were
+ParkerAn_36_CORE_S,CORE_S,L'infirmièrequi a appelé le médecin clairement,eétait,eétaient
+ParkerAn_36_OBLIQUE_P,OBLIQUE_P,The nurse  called for the doctors clearly,was,were
+ParkerAn_36_OBLIQUE_P,OBLIQUE_P,The nurse  called for the doctors clearly,eétait,eétaient
+ParkerAn_36_OBLIQUE_P,OBLIQUE_P,The nurse qui a clairement appelé les médecins,was,were
+ParkerAn_36_OBLIQUE_P,OBLIQUE_P,The nurse qui a clairement appelé les médecins,eétait,eétaient
+ParkerAn_36_OBLIQUE_P,OBLIQUE_P,L'infirmière called for the doctors clearly,was,were
+ParkerAn_36_OBLIQUE_P,OBLIQUE_P,L'infirmière called for the doctors clearly,eétait,eétaient
+ParkerAn_36_OBLIQUE_P,OBLIQUE_P,L'infirmièrequi a clairement appelé les médecins,was,were
+ParkerAn_36_OBLIQUE_P,OBLIQUE_P,L'infirmièrequi a clairement appelé les médecins,eétait,eétaient
+ParkerAn_36_CORE_P,CORE_P,The nurse  called  the doctors clearly,was,were
+ParkerAn_36_CORE_P,CORE_P,The nurse  called  the doctors clearly,eétait,eétaient
+ParkerAn_36_CORE_P,CORE_P,The nurse qui a appelé clairement les médecins,was,were
+ParkerAn_36_CORE_P,CORE_P,The nurse qui a appelé clairement les médecins,eétait,eétaient
+ParkerAn_36_CORE_P,CORE_P,L'infirmière called  the doctors clearly,was,were
+ParkerAn_36_CORE_P,CORE_P,L'infirmière called  the doctors clearly,eétait,eétaient
+ParkerAn_36_CORE_P,CORE_P,L'infirmièrequi a appelé clairement les médecins,was,were
+ParkerAn_36_CORE_P,CORE_P,L'infirmièrequi a appelé clairement les médecins,eétait,eétaient
+ParkerAn_37_OBLIQUE_S,OBLIQUE_S,The boy  walked by the dog suddenly,was,were
+ParkerAn_37_OBLIQUE_S,OBLIQUE_S,The boy  walked by the dog suddenly,eétait,eétaient
+ParkerAn_37_OBLIQUE_S,OBLIQUE_S,The boy qui marchait soudainement près du chien,was,were
+ParkerAn_37_OBLIQUE_S,OBLIQUE_S,The boy qui marchait soudainement près du chien,eétait,eétaient
+ParkerAn_37_OBLIQUE_S,OBLIQUE_S,Le garçon walked by the dog suddenly,was,were
+ParkerAn_37_OBLIQUE_S,OBLIQUE_S,Le garçon walked by the dog suddenly,eétait,eétaient
+ParkerAn_37_OBLIQUE_S,OBLIQUE_S,Le garçonqui marchait soudainement près du chien,was,were
+ParkerAn_37_OBLIQUE_S,OBLIQUE_S,Le garçonqui marchait soudainement près du chien,eétait,eétaient
+ParkerAn_37_CORE_S,CORE_S,The boy  walked  the dog suddenly,was,were
+ParkerAn_37_CORE_S,CORE_S,The boy  walked  the dog suddenly,eétait,eétaient
+ParkerAn_37_CORE_S,CORE_S,The boy qui a marché le chien soudainement,was,were
+ParkerAn_37_CORE_S,CORE_S,The boy qui a marché le chien soudainement,eétait,eétaient
+ParkerAn_37_CORE_S,CORE_S,Le garçon walked  the dog suddenly,was,were
+ParkerAn_37_CORE_S,CORE_S,Le garçon walked  the dog suddenly,eétait,eétaient
+ParkerAn_37_CORE_S,CORE_S,Le garçonqui a marché le chien soudainement,was,were
+ParkerAn_37_CORE_S,CORE_S,Le garçonqui a marché le chien soudainement,eétait,eétaient
+ParkerAn_37_OBLIQUE_P,OBLIQUE_P,The boy  walked by the dogs suddenly,was,were
+ParkerAn_37_OBLIQUE_P,OBLIQUE_P,The boy  walked by the dogs suddenly,eétait,eétaient
+ParkerAn_37_OBLIQUE_P,OBLIQUE_P,The boy qui a marché par les chiens soudainement,was,were
+ParkerAn_37_OBLIQUE_P,OBLIQUE_P,The boy qui a marché par les chiens soudainement,eétait,eétaient
+ParkerAn_37_OBLIQUE_P,OBLIQUE_P,Le garçon walked by the dogs suddenly,was,were
+ParkerAn_37_OBLIQUE_P,OBLIQUE_P,Le garçon walked by the dogs suddenly,eétait,eétaient
+ParkerAn_37_OBLIQUE_P,OBLIQUE_P,Le garçonqui a marché par les chiens soudainement,was,were
+ParkerAn_37_OBLIQUE_P,OBLIQUE_P,Le garçonqui a marché par les chiens soudainement,eétait,eétaient
+ParkerAn_37_CORE_P,CORE_P,The boy  walked  the dogs suddenly,was,were
+ParkerAn_37_CORE_P,CORE_P,The boy  walked  the dogs suddenly,eétait,eétaient
+ParkerAn_37_CORE_P,CORE_P,The boy qui a promu les chiens soudainement,was,were
+ParkerAn_37_CORE_P,CORE_P,The boy qui a promu les chiens soudainement,eétait,eétaient
+ParkerAn_37_CORE_P,CORE_P,Le garçon walked  the dogs suddenly,was,were
+ParkerAn_37_CORE_P,CORE_P,Le garçon walked  the dogs suddenly,eétait,eétaient
+ParkerAn_37_CORE_P,CORE_P,Le garçonqui a promu les chiens soudainement,was,were
+ParkerAn_37_CORE_P,CORE_P,Le garçonqui a promu les chiens soudainement,eétait,eétaient
+ParkerAn_38_OBLIQUE_S,OBLIQUE_S,The athlete  ran in the race unsurprisingly,was,were
+ParkerAn_38_OBLIQUE_S,OBLIQUE_S,The athlete  ran in the race unsurprisingly,eétait,eétaient
+ParkerAn_38_OBLIQUE_S,OBLIQUE_S,The athlete qui a couru dans la course sans surprise,was,were
+ParkerAn_38_OBLIQUE_S,OBLIQUE_S,The athlete qui a couru dans la course sans surprise,eétait,eétaient
+ParkerAn_38_OBLIQUE_S,OBLIQUE_S,L'athlète ran in the race unsurprisingly,was,were
+ParkerAn_38_OBLIQUE_S,OBLIQUE_S,L'athlète ran in the race unsurprisingly,eétait,eétaient
+ParkerAn_38_OBLIQUE_S,OBLIQUE_S,L'athlètequi a couru dans la course sans surprise,was,were
+ParkerAn_38_OBLIQUE_S,OBLIQUE_S,L'athlètequi a couru dans la course sans surprise,eétait,eétaient
+ParkerAn_38_CORE_S,CORE_S,The athlete  ran  the race unsurprisingly,was,were
+ParkerAn_38_CORE_S,CORE_S,The athlete  ran  the race unsurprisingly,eétait,eétaient
+ParkerAn_38_CORE_S,CORE_S,The athlete qui a couru la course sans surprise,was,were
+ParkerAn_38_CORE_S,CORE_S,The athlete qui a couru la course sans surprise,eétait,eétaient
+ParkerAn_38_CORE_S,CORE_S,L'athlète ran  the race unsurprisingly,was,were
+ParkerAn_38_CORE_S,CORE_S,L'athlète ran  the race unsurprisingly,eétait,eétaient
+ParkerAn_38_CORE_S,CORE_S,L'athlètequi a couru la course sans surprise,was,were
+ParkerAn_38_CORE_S,CORE_S,L'athlètequi a couru la course sans surprise,eétait,eétaient
+ParkerAn_38_OBLIQUE_P,OBLIQUE_P,The athlete  ran in the races unsurprisingly,was,were
+ParkerAn_38_OBLIQUE_P,OBLIQUE_P,The athlete  ran in the races unsurprisingly,eétait,eétaient
+ParkerAn_38_OBLIQUE_P,OBLIQUE_P,The athlete qui a couru dans les courses sans surprise,was,were
+ParkerAn_38_OBLIQUE_P,OBLIQUE_P,The athlete qui a couru dans les courses sans surprise,eétait,eétaient
+ParkerAn_38_OBLIQUE_P,OBLIQUE_P,L'athlète ran in the races unsurprisingly,was,were
+ParkerAn_38_OBLIQUE_P,OBLIQUE_P,L'athlète ran in the races unsurprisingly,eétait,eétaient
+ParkerAn_38_OBLIQUE_P,OBLIQUE_P,L'athlètequi a couru dans les courses sans surprise,was,were
+ParkerAn_38_OBLIQUE_P,OBLIQUE_P,L'athlètequi a couru dans les courses sans surprise,eétait,eétaient
+ParkerAn_38_CORE_P,CORE_P,The athlete  ran  the races unsurprisingly,was,were
+ParkerAn_38_CORE_P,CORE_P,The athlete  ran  the races unsurprisingly,eétait,eétaient
+ParkerAn_38_CORE_P,CORE_P,The athlete qui a couru les courses sans surprise,was,were
+ParkerAn_38_CORE_P,CORE_P,The athlete qui a couru les courses sans surprise,eétait,eétaient
+ParkerAn_38_CORE_P,CORE_P,L'athlète ran  the races unsurprisingly,was,were
+ParkerAn_38_CORE_P,CORE_P,L'athlète ran  the races unsurprisingly,eétait,eétaient
+ParkerAn_38_CORE_P,CORE_P,L'athlètequi a couru les courses sans surprise,was,were
+ParkerAn_38_CORE_P,CORE_P,L'athlètequi a couru les courses sans surprise,eétait,eétaient
+ParkerAn_39_OBLIQUE_S,OBLIQUE_S,The fighter pilot  flew toward the plane definitely,was,were
+ParkerAn_39_OBLIQUE_S,OBLIQUE_S,The fighter pilot  flew toward the plane definitely,eétait,eétaient
+ParkerAn_39_OBLIQUE_S,OBLIQUE_S,The fighter pilot qui a volé vers l'avion définitivement,was,were
+ParkerAn_39_OBLIQUE_S,OBLIQUE_S,The fighter pilot qui a volé vers l'avion définitivement,eétait,eétaient
+ParkerAn_39_OBLIQUE_S,OBLIQUE_S,Le pilote de chasse flew toward the plane definitely,was,were
+ParkerAn_39_OBLIQUE_S,OBLIQUE_S,Le pilote de chasse flew toward the plane definitely,eétait,eétaient
+ParkerAn_39_OBLIQUE_S,OBLIQUE_S,Le pilote de chassequi a volé vers l'avion définitivement,was,were
+ParkerAn_39_OBLIQUE_S,OBLIQUE_S,Le pilote de chassequi a volé vers l'avion définitivement,eétait,eétaient
+ParkerAn_39_CORE_S,CORE_S,The fighter pilot  flew  the plane definitely,was,were
+ParkerAn_39_CORE_S,CORE_S,The fighter pilot  flew  the plane definitely,eétait,eétaient
+ParkerAn_39_CORE_S,CORE_S,The fighter pilot qui a piloté l'avion définitivement,was,were
+ParkerAn_39_CORE_S,CORE_S,The fighter pilot qui a piloté l'avion définitivement,eétait,eétaient
+ParkerAn_39_CORE_S,CORE_S,Le pilote de chasse flew  the plane definitely,was,were
+ParkerAn_39_CORE_S,CORE_S,Le pilote de chasse flew  the plane definitely,eétait,eétaient
+ParkerAn_39_CORE_S,CORE_S,Le pilote de chassequi a piloté l'avion définitivement,was,were
+ParkerAn_39_CORE_S,CORE_S,Le pilote de chassequi a piloté l'avion définitivement,eétait,eétaient
+ParkerAn_39_OBLIQUE_P,OBLIQUE_P,The fighter pilot  flew toward the planes definitely,was,were
+ParkerAn_39_OBLIQUE_P,OBLIQUE_P,The fighter pilot  flew toward the planes definitely,eétait,eétaient
+ParkerAn_39_OBLIQUE_P,OBLIQUE_P,The fighter pilot qui a volé vers les avions définitivement,was,were
+ParkerAn_39_OBLIQUE_P,OBLIQUE_P,The fighter pilot qui a volé vers les avions définitivement,eétait,eétaient
+ParkerAn_39_OBLIQUE_P,OBLIQUE_P,Le pilote de chasse flew toward the planes definitely,was,were
+ParkerAn_39_OBLIQUE_P,OBLIQUE_P,Le pilote de chasse flew toward the planes definitely,eétait,eétaient
+ParkerAn_39_OBLIQUE_P,OBLIQUE_P,Le pilote de chassequi a volé vers les avions définitivement,was,were
+ParkerAn_39_OBLIQUE_P,OBLIQUE_P,Le pilote de chassequi a volé vers les avions définitivement,eétait,eétaient
+ParkerAn_39_CORE_P,CORE_P,The fighter pilot  flew  the planes definitely,was,were
+ParkerAn_39_CORE_P,CORE_P,The fighter pilot  flew  the planes definitely,eétait,eétaient
+ParkerAn_39_CORE_P,CORE_P,The fighter pilot qui a piloté les avions définitivement,was,were
+ParkerAn_39_CORE_P,CORE_P,The fighter pilot qui a piloté les avions définitivement,eétait,eétaient
+ParkerAn_39_CORE_P,CORE_P,Le pilote de chasse flew  the planes definitely,was,were
+ParkerAn_39_CORE_P,CORE_P,Le pilote de chasse flew  the planes definitely,eétait,eétaient
+ParkerAn_39_CORE_P,CORE_P,Le pilote de chassequi a piloté les avions définitivement,was,were
+ParkerAn_39_CORE_P,CORE_P,Le pilote de chassequi a piloté les avions définitivement,eétait,eétaient
+ParkerAn_40_OBLIQUE_S,OBLIQUE_S,The child  drew on the picture apparently,was,were
+ParkerAn_40_OBLIQUE_S,OBLIQUE_S,The child  drew on the picture apparently,eétait,eétaient
+ParkerAn_40_OBLIQUE_S,OBLIQUE_S,The child qui a dessiné sur l'image apparemment,was,were
+ParkerAn_40_OBLIQUE_S,OBLIQUE_S,The child qui a dessiné sur l'image apparemment,eétait,eétaient
+ParkerAn_40_OBLIQUE_S,OBLIQUE_S,L'enfant drew on the picture apparently,was,were
+ParkerAn_40_OBLIQUE_S,OBLIQUE_S,L'enfant drew on the picture apparently,eétait,eétaient
+ParkerAn_40_OBLIQUE_S,OBLIQUE_S,L'enfantqui a dessiné sur l'image apparemment,was,were
+ParkerAn_40_OBLIQUE_S,OBLIQUE_S,L'enfantqui a dessiné sur l'image apparemment,eétait,eétaient
+ParkerAn_40_CORE_S,CORE_S,The child  drew  the picture apparently,was,were
+ParkerAn_40_CORE_S,CORE_S,The child  drew  the picture apparently,eétait,eétaient
+ParkerAn_40_CORE_S,CORE_S,The child qui a dessiné la photo apparemment,was,were
+ParkerAn_40_CORE_S,CORE_S,The child qui a dessiné la photo apparemment,eétait,eétaient
+ParkerAn_40_CORE_S,CORE_S,L'enfant drew  the picture apparently,was,were
+ParkerAn_40_CORE_S,CORE_S,L'enfant drew  the picture apparently,eétait,eétaient
+ParkerAn_40_CORE_S,CORE_S,L'enfantqui a dessiné la photo apparemment,was,were
+ParkerAn_40_CORE_S,CORE_S,L'enfantqui a dessiné la photo apparemment,eétait,eétaient
+ParkerAn_40_OBLIQUE_P,OBLIQUE_P,The child  drew on the pictures apparently,was,were
+ParkerAn_40_OBLIQUE_P,OBLIQUE_P,The child  drew on the pictures apparently,eétait,eétaient
+ParkerAn_40_OBLIQUE_P,OBLIQUE_P,The child qui a dessiné sur les images apparemment,was,were
+ParkerAn_40_OBLIQUE_P,OBLIQUE_P,The child qui a dessiné sur les images apparemment,eétait,eétaient
+ParkerAn_40_OBLIQUE_P,OBLIQUE_P,L'enfant drew on the pictures apparently,was,were
+ParkerAn_40_OBLIQUE_P,OBLIQUE_P,L'enfant drew on the pictures apparently,eétait,eétaient
+ParkerAn_40_OBLIQUE_P,OBLIQUE_P,L'enfantqui a dessiné sur les images apparemment,was,were
+ParkerAn_40_OBLIQUE_P,OBLIQUE_P,L'enfantqui a dessiné sur les images apparemment,eétait,eétaient
+ParkerAn_40_CORE_P,CORE_P,The child  drew  the pictures apparently,was,were
+ParkerAn_40_CORE_P,CORE_P,The child  drew  the pictures apparently,eétait,eétaient
+ParkerAn_40_CORE_P,CORE_P,The child qui a dessiné les images apparemment,was,were
+ParkerAn_40_CORE_P,CORE_P,The child qui a dessiné les images apparemment,eétait,eétaient
+ParkerAn_40_CORE_P,CORE_P,L'enfant drew  the pictures apparently,was,were
+ParkerAn_40_CORE_P,CORE_P,L'enfant drew  the pictures apparently,eétait,eétaient
+ParkerAn_40_CORE_P,CORE_P,L'enfantqui a dessiné les images apparemment,was,were
+ParkerAn_40_CORE_P,CORE_P,L'enfantqui a dessiné les images apparemment,eétait,eétaient
+ParkerAn_41_OBLIQUE_S,OBLIQUE_S,The researcher  wrote about the article clearly,was,were
+ParkerAn_41_OBLIQUE_S,OBLIQUE_S,The researcher  wrote about the article clearly,eétait,eétaient
+ParkerAn_41_OBLIQUE_S,OBLIQUE_S,The researcher qui a écrit clairement sur l'article,was,were
+ParkerAn_41_OBLIQUE_S,OBLIQUE_S,The researcher qui a écrit clairement sur l'article,eétait,eétaient
+ParkerAn_41_OBLIQUE_S,OBLIQUE_S,Le chercheur wrote about the article clearly,was,were
+ParkerAn_41_OBLIQUE_S,OBLIQUE_S,Le chercheur wrote about the article clearly,eétait,eétaient
+ParkerAn_41_OBLIQUE_S,OBLIQUE_S,Le chercheurqui a écrit clairement sur l'article,was,were
+ParkerAn_41_OBLIQUE_S,OBLIQUE_S,Le chercheurqui a écrit clairement sur l'article,eétait,eétaient
+ParkerAn_41_CORE_S,CORE_S,The researcher  wrote  the article clearly,was,were
+ParkerAn_41_CORE_S,CORE_S,The researcher  wrote  the article clearly,eétait,eétaient
+ParkerAn_41_CORE_S,CORE_S,The researcher qui a écrit l'article clairement,was,were
+ParkerAn_41_CORE_S,CORE_S,The researcher qui a écrit l'article clairement,eétait,eétaient
+ParkerAn_41_CORE_S,CORE_S,Le chercheur wrote  the article clearly,was,were
+ParkerAn_41_CORE_S,CORE_S,Le chercheur wrote  the article clearly,eétait,eétaient
+ParkerAn_41_CORE_S,CORE_S,Le chercheurqui a écrit l'article clairement,was,were
+ParkerAn_41_CORE_S,CORE_S,Le chercheurqui a écrit l'article clairement,eétait,eétaient
+ParkerAn_41_OBLIQUE_P,OBLIQUE_P,The researcher  wrote about the articles clearly,was,were
+ParkerAn_41_OBLIQUE_P,OBLIQUE_P,The researcher  wrote about the articles clearly,eétait,eétaient
+ParkerAn_41_OBLIQUE_P,OBLIQUE_P,The researcher qui a écrit clairement sur les articles,was,were
+ParkerAn_41_OBLIQUE_P,OBLIQUE_P,The researcher qui a écrit clairement sur les articles,eétait,eétaient
+ParkerAn_41_OBLIQUE_P,OBLIQUE_P,Le chercheur wrote about the articles clearly,was,were
+ParkerAn_41_OBLIQUE_P,OBLIQUE_P,Le chercheur wrote about the articles clearly,eétait,eétaient
+ParkerAn_41_OBLIQUE_P,OBLIQUE_P,Le chercheurqui a écrit clairement sur les articles,was,were
+ParkerAn_41_OBLIQUE_P,OBLIQUE_P,Le chercheurqui a écrit clairement sur les articles,eétait,eétaient
+ParkerAn_41_CORE_P,CORE_P,The researcher  wrote  the articles clearly,was,were
+ParkerAn_41_CORE_P,CORE_P,The researcher  wrote  the articles clearly,eétait,eétaient
+ParkerAn_41_CORE_P,CORE_P,The researcher qui a écrit les articles clairement,was,were
+ParkerAn_41_CORE_P,CORE_P,The researcher qui a écrit les articles clairement,eétait,eétaient
+ParkerAn_41_CORE_P,CORE_P,Le chercheur wrote  the articles clearly,was,were
+ParkerAn_41_CORE_P,CORE_P,Le chercheur wrote  the articles clearly,eétait,eétaient
+ParkerAn_41_CORE_P,CORE_P,Le chercheurqui a écrit les articles clairement,was,were
+ParkerAn_41_CORE_P,CORE_P,Le chercheurqui a écrit les articles clairement,eétait,eétaient
+ParkerAn_42_OBLIQUE_S,OBLIQUE_S,The child  climbed on the tree naturally,was,were
+ParkerAn_42_OBLIQUE_S,OBLIQUE_S,The child  climbed on the tree naturally,eétait,eétaient
+ParkerAn_42_OBLIQUE_S,OBLIQUE_S,The child qui a grimpé naturellement sur l'arbre,was,were
+ParkerAn_42_OBLIQUE_S,OBLIQUE_S,The child qui a grimpé naturellement sur l'arbre,eétait,eétaient
+ParkerAn_42_OBLIQUE_S,OBLIQUE_S,L'enfant climbed on the tree naturally,was,were
+ParkerAn_42_OBLIQUE_S,OBLIQUE_S,L'enfant climbed on the tree naturally,eétait,eétaient
+ParkerAn_42_OBLIQUE_S,OBLIQUE_S,L'enfantqui a grimpé naturellement sur l'arbre,was,were
+ParkerAn_42_OBLIQUE_S,OBLIQUE_S,L'enfantqui a grimpé naturellement sur l'arbre,eétait,eétaient
+ParkerAn_42_CORE_S,CORE_S,The child  climbed  the tree naturally,was,were
+ParkerAn_42_CORE_S,CORE_S,The child  climbed  the tree naturally,eétait,eétaient
+ParkerAn_42_CORE_S,CORE_S,The child qui a grimpé naturellement dans l'arbre,was,were
+ParkerAn_42_CORE_S,CORE_S,The child qui a grimpé naturellement dans l'arbre,eétait,eétaient
+ParkerAn_42_CORE_S,CORE_S,L'enfant climbed  the tree naturally,was,were
+ParkerAn_42_CORE_S,CORE_S,L'enfant climbed  the tree naturally,eétait,eétaient
+ParkerAn_42_CORE_S,CORE_S,L'enfantqui a grimpé naturellement dans l'arbre,was,were
+ParkerAn_42_CORE_S,CORE_S,L'enfantqui a grimpé naturellement dans l'arbre,eétait,eétaient
+ParkerAn_42_OBLIQUE_P,OBLIQUE_P,The child  climbed on the trees naturally,was,were
+ParkerAn_42_OBLIQUE_P,OBLIQUE_P,The child  climbed on the trees naturally,eétait,eétaient
+ParkerAn_42_OBLIQUE_P,OBLIQUE_P,The child qui grimpait naturellement sur les arbres,was,were
+ParkerAn_42_OBLIQUE_P,OBLIQUE_P,The child qui grimpait naturellement sur les arbres,eétait,eétaient
+ParkerAn_42_OBLIQUE_P,OBLIQUE_P,L'enfant climbed on the trees naturally,was,were
+ParkerAn_42_OBLIQUE_P,OBLIQUE_P,L'enfant climbed on the trees naturally,eétait,eétaient
+ParkerAn_42_OBLIQUE_P,OBLIQUE_P,L'enfantqui grimpait naturellement sur les arbres,was,were
+ParkerAn_42_OBLIQUE_P,OBLIQUE_P,L'enfantqui grimpait naturellement sur les arbres,eétait,eétaient
+ParkerAn_42_CORE_P,CORE_P,The child  climbed  the trees naturally,was,were
+ParkerAn_42_CORE_P,CORE_P,The child  climbed  the trees naturally,eétait,eétaient
+ParkerAn_42_CORE_P,CORE_P,The child qui a grimpé aux arbres naturellement,was,were
+ParkerAn_42_CORE_P,CORE_P,The child qui a grimpé aux arbres naturellement,eétait,eétaient
+ParkerAn_42_CORE_P,CORE_P,L'enfant climbed  the trees naturally,was,were
+ParkerAn_42_CORE_P,CORE_P,L'enfant climbed  the trees naturally,eétait,eétaient
+ParkerAn_42_CORE_P,CORE_P,L'enfantqui a grimpé aux arbres naturellement,was,were
+ParkerAn_42_CORE_P,CORE_P,L'enfantqui a grimpé aux arbres naturellement,eétait,eétaient
+ParkerAn_43_OBLIQUE_S,OBLIQUE_S,The actor  read about the script apparently,was,were
+ParkerAn_43_OBLIQUE_S,OBLIQUE_S,The actor  read about the script apparently,eétait,eétaient
+ParkerAn_43_OBLIQUE_S,OBLIQUE_S,The actor qui a lu le script apparemment,was,were
+ParkerAn_43_OBLIQUE_S,OBLIQUE_S,The actor qui a lu le script apparemment,eétait,eétaient
+ParkerAn_43_OBLIQUE_S,OBLIQUE_S,L'acteur read about the script apparently,was,were
+ParkerAn_43_OBLIQUE_S,OBLIQUE_S,L'acteur read about the script apparently,eétait,eétaient
+ParkerAn_43_OBLIQUE_S,OBLIQUE_S,L'acteurqui a lu le script apparemment,was,were
+ParkerAn_43_OBLIQUE_S,OBLIQUE_S,L'acteurqui a lu le script apparemment,eétait,eétaient
+ParkerAn_43_CORE_S,CORE_S,The actor  read  the script apparently,was,were
+ParkerAn_43_CORE_S,CORE_S,The actor  read  the script apparently,eétait,eétaient
+ParkerAn_43_CORE_S,CORE_S,The actor qui a lu le script apparemment,was,were
+ParkerAn_43_CORE_S,CORE_S,The actor qui a lu le script apparemment,eétait,eétaient
+ParkerAn_43_CORE_S,CORE_S,L'acteur read  the script apparently,was,were
+ParkerAn_43_CORE_S,CORE_S,L'acteur read  the script apparently,eétait,eétaient
+ParkerAn_43_CORE_S,CORE_S,L'acteurqui a lu le script apparemment,was,were
+ParkerAn_43_CORE_S,CORE_S,L'acteurqui a lu le script apparemment,eétait,eétaient
+ParkerAn_43_OBLIQUE_P,OBLIQUE_P,The actor  read about the scripts apparently,was,were
+ParkerAn_43_OBLIQUE_P,OBLIQUE_P,The actor  read about the scripts apparently,eétait,eétaient
+ParkerAn_43_OBLIQUE_P,OBLIQUE_P,The actor qui a lu les scripts apparemment,was,were
+ParkerAn_43_OBLIQUE_P,OBLIQUE_P,The actor qui a lu les scripts apparemment,eétait,eétaient
+ParkerAn_43_OBLIQUE_P,OBLIQUE_P,L'acteur read about the scripts apparently,was,were
+ParkerAn_43_OBLIQUE_P,OBLIQUE_P,L'acteur read about the scripts apparently,eétait,eétaient
+ParkerAn_43_OBLIQUE_P,OBLIQUE_P,L'acteurqui a lu les scripts apparemment,was,were
+ParkerAn_43_OBLIQUE_P,OBLIQUE_P,L'acteurqui a lu les scripts apparemment,eétait,eétaient
+ParkerAn_43_CORE_P,CORE_P,The actor  read  the scripts apparently,was,were
+ParkerAn_43_CORE_P,CORE_P,The actor  read  the scripts apparently,eétait,eétaient
+ParkerAn_43_CORE_P,CORE_P,The actor qui a lu les scripts apparemment,was,were
+ParkerAn_43_CORE_P,CORE_P,The actor qui a lu les scripts apparemment,eétait,eétaient
+ParkerAn_43_CORE_P,CORE_P,L'acteur read  the scripts apparently,was,were
+ParkerAn_43_CORE_P,CORE_P,L'acteur read  the scripts apparently,eétait,eétaient
+ParkerAn_43_CORE_P,CORE_P,L'acteurqui a lu les scripts apparemment,was,were
+ParkerAn_43_CORE_P,CORE_P,L'acteurqui a lu les scripts apparemment,eétait,eétaient
+ParkerAn_44_OBLIQUE_S,OBLIQUE_S,The dancer  learned about the move clearly,was,were
+ParkerAn_44_OBLIQUE_S,OBLIQUE_S,The dancer  learned about the move clearly,eétait,eétaient
+ParkerAn_44_OBLIQUE_S,OBLIQUE_S,The dancer qui a appris clairement le déménagement,was,were
+ParkerAn_44_OBLIQUE_S,OBLIQUE_S,The dancer qui a appris clairement le déménagement,eétait,eétaient
+ParkerAn_44_OBLIQUE_S,OBLIQUE_S,Le danceur learned about the move clearly,was,were
+ParkerAn_44_OBLIQUE_S,OBLIQUE_S,Le danceur learned about the move clearly,eétait,eétaient
+ParkerAn_44_OBLIQUE_S,OBLIQUE_S,Le danceurqui a appris clairement le déménagement,was,were
+ParkerAn_44_OBLIQUE_S,OBLIQUE_S,Le danceurqui a appris clairement le déménagement,eétait,eétaient
+ParkerAn_44_CORE_S,CORE_S,The dancer  learned  the move clearly,was,were
+ParkerAn_44_CORE_S,CORE_S,The dancer  learned  the move clearly,eétait,eétaient
+ParkerAn_44_CORE_S,CORE_S,The dancer qui a appris le mouvement clairement,was,were
+ParkerAn_44_CORE_S,CORE_S,The dancer qui a appris le mouvement clairement,eétait,eétaient
+ParkerAn_44_CORE_S,CORE_S,Le danceur learned  the move clearly,was,were
+ParkerAn_44_CORE_S,CORE_S,Le danceur learned  the move clearly,eétait,eétaient
+ParkerAn_44_CORE_S,CORE_S,Le danceurqui a appris le mouvement clairement,was,were
+ParkerAn_44_CORE_S,CORE_S,Le danceurqui a appris le mouvement clairement,eétait,eétaient
+ParkerAn_44_OBLIQUE_P,OBLIQUE_P,The dancer  learned about the moves clearly,was,were
+ParkerAn_44_OBLIQUE_P,OBLIQUE_P,The dancer  learned about the moves clearly,eétait,eétaient
+ParkerAn_44_OBLIQUE_P,OBLIQUE_P,The dancer qui a appris clairement les mouvements,was,were
+ParkerAn_44_OBLIQUE_P,OBLIQUE_P,The dancer qui a appris clairement les mouvements,eétait,eétaient
+ParkerAn_44_OBLIQUE_P,OBLIQUE_P,Le danceur learned about the moves clearly,was,were
+ParkerAn_44_OBLIQUE_P,OBLIQUE_P,Le danceur learned about the moves clearly,eétait,eétaient
+ParkerAn_44_OBLIQUE_P,OBLIQUE_P,Le danceurqui a appris clairement les mouvements,was,were
+ParkerAn_44_OBLIQUE_P,OBLIQUE_P,Le danceurqui a appris clairement les mouvements,eétait,eétaient
+ParkerAn_44_CORE_P,CORE_P,The dancer  learned  the moves clearly,was,were
+ParkerAn_44_CORE_P,CORE_P,The dancer  learned  the moves clearly,eétait,eétaient
+ParkerAn_44_CORE_P,CORE_P,The dancer qui a appris les mouvements clairement,was,were
+ParkerAn_44_CORE_P,CORE_P,The dancer qui a appris les mouvements clairement,eétait,eétaient
+ParkerAn_44_CORE_P,CORE_P,Le danceur learned  the moves clearly,was,were
+ParkerAn_44_CORE_P,CORE_P,Le danceur learned  the moves clearly,eétait,eétaient
+ParkerAn_44_CORE_P,CORE_P,Le danceurqui a appris les mouvements clairement,was,were
+ParkerAn_44_CORE_P,CORE_P,Le danceurqui a appris les mouvements clairement,eétait,eétaient
+ParkerAn_45_OBLIQUE_S,OBLIQUE_S,The reporter  met with the candidate definitely,was,were
+ParkerAn_45_OBLIQUE_S,OBLIQUE_S,The reporter  met with the candidate definitely,eétait,eétaient
+ParkerAn_45_OBLIQUE_S,OBLIQUE_S,The reporter qui a rencontré le candidat définitivement,was,were
+ParkerAn_45_OBLIQUE_S,OBLIQUE_S,The reporter qui a rencontré le candidat définitivement,eétait,eétaient
+ParkerAn_45_OBLIQUE_S,OBLIQUE_S,Le journaliste met with the candidate definitely,was,were
+ParkerAn_45_OBLIQUE_S,OBLIQUE_S,Le journaliste met with the candidate definitely,eétait,eétaient
+ParkerAn_45_OBLIQUE_S,OBLIQUE_S,Le journalistequi a rencontré le candidat définitivement,was,were
+ParkerAn_45_OBLIQUE_S,OBLIQUE_S,Le journalistequi a rencontré le candidat définitivement,eétait,eétaient
+ParkerAn_45_CORE_S,CORE_S,The reporter  met  the candidate definitely,was,were
+ParkerAn_45_CORE_S,CORE_S,The reporter  met  the candidate definitely,eétait,eétaient
+ParkerAn_45_CORE_S,CORE_S,The reporter qui a rencontré le candidat définitivement,was,were
+ParkerAn_45_CORE_S,CORE_S,The reporter qui a rencontré le candidat définitivement,eétait,eétaient
+ParkerAn_45_CORE_S,CORE_S,Le journaliste met  the candidate definitely,was,were
+ParkerAn_45_CORE_S,CORE_S,Le journaliste met  the candidate definitely,eétait,eétaient
+ParkerAn_45_CORE_S,CORE_S,Le journalistequi a rencontré le candidat définitivement,was,were
+ParkerAn_45_CORE_S,CORE_S,Le journalistequi a rencontré le candidat définitivement,eétait,eétaient
+ParkerAn_45_OBLIQUE_P,OBLIQUE_P,The reporter  met with the candidates definitely,was,were
+ParkerAn_45_OBLIQUE_P,OBLIQUE_P,The reporter  met with the candidates definitely,eétait,eétaient
+ParkerAn_45_OBLIQUE_P,OBLIQUE_P,The reporter qui a rencontré les candidats définitivement,was,were
+ParkerAn_45_OBLIQUE_P,OBLIQUE_P,The reporter qui a rencontré les candidats définitivement,eétait,eétaient
+ParkerAn_45_OBLIQUE_P,OBLIQUE_P,Le journaliste met with the candidates definitely,was,were
+ParkerAn_45_OBLIQUE_P,OBLIQUE_P,Le journaliste met with the candidates definitely,eétait,eétaient
+ParkerAn_45_OBLIQUE_P,OBLIQUE_P,Le journalistequi a rencontré les candidats définitivement,was,were
+ParkerAn_45_OBLIQUE_P,OBLIQUE_P,Le journalistequi a rencontré les candidats définitivement,eétait,eétaient
+ParkerAn_45_CORE_P,CORE_P,The reporter  met  the candidates definitely,was,were
+ParkerAn_45_CORE_P,CORE_P,The reporter  met  the candidates definitely,eétait,eétaient
+ParkerAn_45_CORE_P,CORE_P,The reporter qui a rencontré les candidats définitivement,was,were
+ParkerAn_45_CORE_P,CORE_P,The reporter qui a rencontré les candidats définitivement,eétait,eétaient
+ParkerAn_45_CORE_P,CORE_P,Le journaliste met  the candidates definitely,was,were
+ParkerAn_45_CORE_P,CORE_P,Le journaliste met  the candidates definitely,eétait,eétaient
+ParkerAn_45_CORE_P,CORE_P,Le journalistequi a rencontré les candidats définitivement,was,were
+ParkerAn_45_CORE_P,CORE_P,Le journalistequi a rencontré les candidats définitivement,eétait,eétaient
+ParkerAn_46_OBLIQUE_S,OBLIQUE_S,The fan  met with the musician certainly,was,were
+ParkerAn_46_OBLIQUE_S,OBLIQUE_S,The fan  met with the musician certainly,eétait,eétaient
+ParkerAn_46_OBLIQUE_S,OBLIQUE_S,The fan qui a rencontré le musicien certainement,was,were
+ParkerAn_46_OBLIQUE_S,OBLIQUE_S,The fan qui a rencontré le musicien certainement,eétait,eétaient
+ParkerAn_46_OBLIQUE_S,OBLIQUE_S,Le fan met with the musician certainly,was,were
+ParkerAn_46_OBLIQUE_S,OBLIQUE_S,Le fan met with the musician certainly,eétait,eétaient
+ParkerAn_46_OBLIQUE_S,OBLIQUE_S,Le fanqui a rencontré le musicien certainement,was,were
+ParkerAn_46_OBLIQUE_S,OBLIQUE_S,Le fanqui a rencontré le musicien certainement,eétait,eétaient
+ParkerAn_46_CORE_S,CORE_S,The fan  met  the musician certainly,was,were
+ParkerAn_46_CORE_S,CORE_S,The fan  met  the musician certainly,eétait,eétaient
+ParkerAn_46_CORE_S,CORE_S,The fan qui a rencontré le musicien certainement,was,were
+ParkerAn_46_CORE_S,CORE_S,The fan qui a rencontré le musicien certainement,eétait,eétaient
+ParkerAn_46_CORE_S,CORE_S,Le fan met  the musician certainly,was,were
+ParkerAn_46_CORE_S,CORE_S,Le fan met  the musician certainly,eétait,eétaient
+ParkerAn_46_CORE_S,CORE_S,Le fanqui a rencontré le musicien certainement,was,were
+ParkerAn_46_CORE_S,CORE_S,Le fanqui a rencontré le musicien certainement,eétait,eétaient
+ParkerAn_46_OBLIQUE_P,OBLIQUE_P,The fan  met with the musicians certainly,was,were
+ParkerAn_46_OBLIQUE_P,OBLIQUE_P,The fan  met with the musicians certainly,eétait,eétaient
+ParkerAn_46_OBLIQUE_P,OBLIQUE_P,The fan qui a rencontré les musiciens certainement,was,were
+ParkerAn_46_OBLIQUE_P,OBLIQUE_P,The fan qui a rencontré les musiciens certainement,eétait,eétaient
+ParkerAn_46_OBLIQUE_P,OBLIQUE_P,Le fan met with the musicians certainly,was,were
+ParkerAn_46_OBLIQUE_P,OBLIQUE_P,Le fan met with the musicians certainly,eétait,eétaient
+ParkerAn_46_OBLIQUE_P,OBLIQUE_P,Le fanqui a rencontré les musiciens certainement,was,were
+ParkerAn_46_OBLIQUE_P,OBLIQUE_P,Le fanqui a rencontré les musiciens certainement,eétait,eétaient
+ParkerAn_46_CORE_P,CORE_P,The fan  met  the musicians certainly,was,were
+ParkerAn_46_CORE_P,CORE_P,The fan  met  the musicians certainly,eétait,eétaient
+ParkerAn_46_CORE_P,CORE_P,The fan qui a rencontré les musiciens certainement,was,were
+ParkerAn_46_CORE_P,CORE_P,The fan qui a rencontré les musiciens certainement,eétait,eétaient
+ParkerAn_46_CORE_P,CORE_P,Le fan met  the musicians certainly,was,were
+ParkerAn_46_CORE_P,CORE_P,Le fan met  the musicians certainly,eétait,eétaient
+ParkerAn_46_CORE_P,CORE_P,Le fanqui a rencontré les musiciens certainement,was,were
+ParkerAn_46_CORE_P,CORE_P,Le fanqui a rencontré les musiciens certainement,eétait,eétaient
+ParkerAn_47_OBLIQUE_S,OBLIQUE_S,The journalist  met with the diplomat undoubtedly,was,were
+ParkerAn_47_OBLIQUE_S,OBLIQUE_S,The journalist  met with the diplomat undoubtedly,eétait,eétaient
+ParkerAn_47_OBLIQUE_S,OBLIQUE_S,The journalist qui a rencontré le diplomate sans aucun doute,was,were
+ParkerAn_47_OBLIQUE_S,OBLIQUE_S,The journalist qui a rencontré le diplomate sans aucun doute,eétait,eétaient
+ParkerAn_47_OBLIQUE_S,OBLIQUE_S,La journaliste met with the diplomat undoubtedly,was,were
+ParkerAn_47_OBLIQUE_S,OBLIQUE_S,La journaliste met with the diplomat undoubtedly,eétait,eétaient
+ParkerAn_47_OBLIQUE_S,OBLIQUE_S,La journalistequi a rencontré le diplomate sans aucun doute,was,were
+ParkerAn_47_OBLIQUE_S,OBLIQUE_S,La journalistequi a rencontré le diplomate sans aucun doute,eétait,eétaient
+ParkerAn_47_CORE_S,CORE_S,The journalist  met  the diplomat undoubtedly,was,were
+ParkerAn_47_CORE_S,CORE_S,The journalist  met  the diplomat undoubtedly,eétait,eétaient
+ParkerAn_47_CORE_S,CORE_S,The journalist qui a rencontré le diplomate sans aucun doute,was,were
+ParkerAn_47_CORE_S,CORE_S,The journalist qui a rencontré le diplomate sans aucun doute,eétait,eétaient
+ParkerAn_47_CORE_S,CORE_S,La journaliste met  the diplomat undoubtedly,was,were
+ParkerAn_47_CORE_S,CORE_S,La journaliste met  the diplomat undoubtedly,eétait,eétaient
+ParkerAn_47_CORE_S,CORE_S,La journalistequi a rencontré le diplomate sans aucun doute,was,were
+ParkerAn_47_CORE_S,CORE_S,La journalistequi a rencontré le diplomate sans aucun doute,eétait,eétaient
+ParkerAn_47_OBLIQUE_P,OBLIQUE_P,The journalist  met with the diplomats undoubtedly,was,were
+ParkerAn_47_OBLIQUE_P,OBLIQUE_P,The journalist  met with the diplomats undoubtedly,eétait,eétaient
+ParkerAn_47_OBLIQUE_P,OBLIQUE_P,The journalist qui a rencontré les diplomates sans aucun doute,was,were
+ParkerAn_47_OBLIQUE_P,OBLIQUE_P,The journalist qui a rencontré les diplomates sans aucun doute,eétait,eétaient
+ParkerAn_47_OBLIQUE_P,OBLIQUE_P,La journaliste met with the diplomats undoubtedly,was,were
+ParkerAn_47_OBLIQUE_P,OBLIQUE_P,La journaliste met with the diplomats undoubtedly,eétait,eétaient
+ParkerAn_47_OBLIQUE_P,OBLIQUE_P,La journalistequi a rencontré les diplomates sans aucun doute,was,were
+ParkerAn_47_OBLIQUE_P,OBLIQUE_P,La journalistequi a rencontré les diplomates sans aucun doute,eétait,eétaient
+ParkerAn_47_CORE_P,CORE_P,The journalist  met  the diplomats undoubtedly,was,were
+ParkerAn_47_CORE_P,CORE_P,The journalist  met  the diplomats undoubtedly,eétait,eétaient
+ParkerAn_47_CORE_P,CORE_P,The journalist qui a rencontré les diplomates sans aucun doute,was,were
+ParkerAn_47_CORE_P,CORE_P,The journalist qui a rencontré les diplomates sans aucun doute,eétait,eétaient
+ParkerAn_47_CORE_P,CORE_P,La journaliste met  the diplomats undoubtedly,was,were
+ParkerAn_47_CORE_P,CORE_P,La journaliste met  the diplomats undoubtedly,eétait,eétaient
+ParkerAn_47_CORE_P,CORE_P,La journalistequi a rencontré les diplomates sans aucun doute,was,were
+ParkerAn_47_CORE_P,CORE_P,La journalistequi a rencontré les diplomates sans aucun doute,eétait,eétaient
