@@ -25,10 +25,16 @@ Questions:
 
 
 Pipeline:
-1. Get Wikipedia text - Linzen's colorless green rnn's repo
+1. Get Wikipedia text - FAIR's colorless green rnn's repo
 2. Get dependency parsing - Spacy/Stanford core NLP
 3. Get POS tagging - Spacy
 OR
 1. Get Linzen's RNNs as psycholinguistic subjects data
 
 4. Get translations - Inflect verbs using PyPi pluraliser
+
+References:
+1. https://github.com/SArehalli/NLMsCaptureSomeAgrAttr
+2. https://github.com/TalLinzen/rnn_agreement
+3. https://github.com/yoavg/bert-syntax
+4. https://github.com/facebookresearch/colorlessgreenRNNs/tree/4ffcabc991c866608aeed2ba35059a458ff2845f/data
