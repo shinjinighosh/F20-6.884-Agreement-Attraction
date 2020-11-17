@@ -7,18 +7,22 @@ import argparse
 import csv
 from googletrans import Translator
 import json
+import os
 
 parser = argparse.ArgumentParser(description='Translate sentences')
 parser.add_argument('--path', type=str, default=".", required=False)
-parser.add_argument('--input', '-i', type=str, default='items_ParkerAn18.csv', nargs='?', help='name of input file')
+parser.add_argument('--input', '-i', type=str, default=os.path.join('data', 'items_ParkerAn18.csv'), nargs='?',
+                    help='name of input file')
 parser.add_argument('--output', '-o', type=str, default='translated.json', nargs='?', help='name of output file')
 
 args = parser.parse_args()
 input_filename = args.input
-output_filename = input_filename[:-4] + "_trans.json"
+output_filename = os.path.join(input_filename[:-4] + "_trans.json")
 
 translator = Translator()
 translated_dict = {}
+
+print(input_filename, output_filename)
 
 with open(input_filename) as csvfile:
     reader = csv.DictReader(csvfile)
@@ -42,5 +46,3 @@ with open(input_filename) as csvfile:
 with open(output_filename, 'w') as output_file:
     json.dump(translated_dict, output_file)
     output_file.close()
-
-

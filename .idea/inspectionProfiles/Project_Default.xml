@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="h5py" />
+          <option value="tensorflow" />
+          <option value="numpy" />
+          <option value="scripts.evaluation_script.matplotlib" />
+          <option value="scripts.evaluation_script.tqdm" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
