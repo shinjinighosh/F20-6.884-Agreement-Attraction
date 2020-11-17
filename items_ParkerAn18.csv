@@ -1,0 +1,193 @@
+item,condition,sentence,target,alternative
+ParkerAn_0_OBLIQUE_S,OBLIQUE_S,The waitress who sat near the girl unsurprisingly,was,were
+ParkerAn_0_CORE_S,CORE_S,The waitress who sat  the girl unsurprisingly,was,were
+ParkerAn_0_OBLIQUE_P,OBLIQUE_P,The waitress who sat near the girls unsurprisingly,was,were
+ParkerAn_0_CORE_P,CORE_P,The waitress who sat  the girls unsurprisingly,was,were
+ParkerAn_1_OBLIQUE_S,OBLIQUE_S,The dog that dug in the hole unfortunately,was,were
+ParkerAn_1_CORE_S,CORE_S,The dog that dug  the hole unfortunately,was,were
+ParkerAn_1_OBLIQUE_P,OBLIQUE_P,The dog that dug in the holes unfortunately,was,were
+ParkerAn_1_CORE_P,CORE_P,The dog that dug  the holes unfortunately,was,were
+ParkerAn_2_OBLIQUE_S,OBLIQUE_S,The boy who played in the game apparently,was,were
+ParkerAn_2_CORE_S,CORE_S,The boy who played  the game apparently,was,were
+ParkerAn_2_OBLIQUE_P,OBLIQUE_P,The boy who played in the games apparently,was,were
+ParkerAn_2_CORE_P,CORE_P,The boy who played  the games apparently,was,were
+ParkerAn_3_OBLIQUE_S,OBLIQUE_S,The mom who drove with the kid unsurprisingly,was,were
+ParkerAn_3_CORE_S,CORE_S,The mom who drove  the kid unsurprisingly,was,were
+ParkerAn_3_OBLIQUE_P,OBLIQUE_P,The mom who drove with the kids unsurprisingly,was,were
+ParkerAn_3_CORE_P,CORE_P,The mom who drove  the kids unsurprisingly,was,were
+ParkerAn_4_OBLIQUE_S,OBLIQUE_S,The kid who hid behind the toy definitely,was,were
+ParkerAn_4_CORE_S,CORE_S,The kid who hid  the toy definitely,was,were
+ParkerAn_4_OBLIQUE_P,OBLIQUE_P,The kid who hid behind the toys definitely,was,were
+ParkerAn_4_CORE_P,CORE_P,The kid who hid  the toys definitely,was,were
+ParkerAn_5_OBLIQUE_S,OBLIQUE_S,The policeman who patrolled through the neighborhood evidently,was,were
+ParkerAn_5_CORE_S,CORE_S,The policeman who patrolled  the neighborhood evidently,was,were
+ParkerAn_5_OBLIQUE_P,OBLIQUE_P,The policeman who patrolled through the neighborhoods evidently,was,were
+ParkerAn_5_CORE_P,CORE_P,The policeman who patrolled  the neighborhoods evidently,was,were
+ParkerAn_6_OBLIQUE_S,OBLIQUE_S,The goat who ate from the can evidently,was,were
+ParkerAn_6_CORE_S,CORE_S,The goat who ate  the can evidently,was,were
+ParkerAn_6_OBLIQUE_P,OBLIQUE_P,The goat who ate from the cans evidently,was,were
+ParkerAn_6_CORE_P,CORE_P,The goat who ate  the cans evidently,was,were
+ParkerAn_7_OBLIQUE_S,OBLIQUE_S,The scientist who prepared for the experiment suddenly,was,were
+ParkerAn_7_CORE_S,CORE_S,The scientist who prepared  the experiment suddenly,was,were
+ParkerAn_7_OBLIQUE_P,OBLIQUE_P,The scientist who prepared for the experiments suddenly,was,were
+ParkerAn_7_CORE_P,CORE_P,The scientist who prepared  the experiments suddenly,was,were
+ParkerAn_8_OBLIQUE_S,OBLIQUE_S,The student who wrote to the professor likely,was,were
+ParkerAn_8_CORE_S,CORE_S,The student who wrote  the professor likely,was,were
+ParkerAn_8_OBLIQUE_P,OBLIQUE_P,The student who wrote to the professors likely,was,were
+ParkerAn_8_CORE_P,CORE_P,The student who wrote  the professors likely,was,were
+ParkerAn_9_OBLIQUE_S,OBLIQUE_S,The journalist who read about the report apparently,was,were
+ParkerAn_9_CORE_S,CORE_S,The journalist who read  the report apparently,was,were
+ParkerAn_9_OBLIQUE_P,OBLIQUE_P,The journalist who read about the reports apparently,was,were
+ParkerAn_9_CORE_P,CORE_P,The journalist who read  the reports apparently,was,were
+ParkerAn_10_OBLIQUE_S,OBLIQUE_S,The boy who walked toward the dog probably,was,were
+ParkerAn_10_CORE_S,CORE_S,The boy who walked  the dog probably,was,were
+ParkerAn_10_OBLIQUE_P,OBLIQUE_P,The boy who walked toward the dogs probably,was,were
+ParkerAn_10_CORE_P,CORE_P,The boy who walked  the dogs probably,was,were
+ParkerAn_11_OBLIQUE_S,OBLIQUE_S,The woman who walked by the dog clearly,was,were
+ParkerAn_11_CORE_S,CORE_S,The woman who walked  the dog clearly,was,were
+ParkerAn_11_OBLIQUE_P,OBLIQUE_P,The woman who walked by the dogs clearly,was,were
+ParkerAn_11_CORE_P,CORE_P,The woman who walked  the dogs clearly,was,were
+ParkerAn_12_OBLIQUE_S,OBLIQUE_S,The nurse who called for the doctor unsurprisingly,was,were
+ParkerAn_12_CORE_S,CORE_S,The nurse who called  the doctor unsurprisingly,was,were
+ParkerAn_12_OBLIQUE_P,OBLIQUE_P,The nurse who called for the doctors unsurprisingly,was,were
+ParkerAn_12_CORE_P,CORE_P,The nurse who called  the doctors unsurprisingly,was,were
+ParkerAn_13_OBLIQUE_S,OBLIQUE_S,The director who called for the assistant suddenly,was,were
+ParkerAn_13_CORE_S,CORE_S,The director who called  the assistant suddenly,was,were
+ParkerAn_13_OBLIQUE_P,OBLIQUE_P,The director who called for the assistants suddenly,was,were
+ParkerAn_13_CORE_P,CORE_P,The director who called  the assistants suddenly,was,were
+ParkerAn_14_OBLIQUE_S,OBLIQUE_S,The artist who painted by the house certainly,was,were
+ParkerAn_14_CORE_S,CORE_S,The artist who painted  the house certainly,was,were
+ParkerAn_14_OBLIQUE_P,OBLIQUE_P,The artist who painted by the houses certainly,was,were
+ParkerAn_14_CORE_P,CORE_P,The artist who painted  the houses certainly,was,were
+ParkerAn_15_OBLIQUE_S,OBLIQUE_S,The director who called for the actor certainly,was,were
+ParkerAn_15_CORE_S,CORE_S,The director who called  the actor certainly,was,were
+ParkerAn_15_OBLIQUE_P,OBLIQUE_P,The director who called for the actors certainly,was,were
+ParkerAn_15_CORE_P,CORE_P,The director who called  the actors certainly,was,were
+ParkerAn_16_OBLIQUE_S,OBLIQUE_S,The thief who stole from the box obviously,was,were
+ParkerAn_16_CORE_S,CORE_S,The thief who stole  the box obviously,was,were
+ParkerAn_16_OBLIQUE_P,OBLIQUE_P,The thief who stole from the boxes obviously,was,were
+ParkerAn_16_CORE_P,CORE_P,The thief who stole  the boxes obviously,was,were
+ParkerAn_17_OBLIQUE_S,OBLIQUE_S,The author who read about the book apparently,was,were
+ParkerAn_17_CORE_S,CORE_S,The author who read  the book apparently,was,were
+ParkerAn_17_OBLIQUE_P,OBLIQUE_P,The author who read about the books apparently,was,were
+ParkerAn_17_CORE_P,CORE_P,The author who read  the books apparently,was,were
+ParkerAn_18_OBLIQUE_S,OBLIQUE_S,The soldier who fought against the terrorist likely,was,were
+ParkerAn_18_CORE_S,CORE_S,The soldier who fought  the terrorist likely,was,were
+ParkerAn_18_OBLIQUE_P,OBLIQUE_P,The soldier who fought against the terrorists likely,was,were
+ParkerAn_18_CORE_P,CORE_P,The soldier who fought  the terrorists likely,was,were
+ParkerAn_19_OBLIQUE_S,OBLIQUE_S,The millionaire who drove past the car allegedly,was,were
+ParkerAn_19_CORE_S,CORE_S,The millionaire who drove  the car allegedly,was,were
+ParkerAn_19_OBLIQUE_P,OBLIQUE_P,The millionaire who drove past the cars allegedly,was,were
+ParkerAn_19_CORE_P,CORE_P,The millionaire who drove  the cars allegedly,was,were
+ParkerAn_20_OBLIQUE_S,OBLIQUE_S,The librarian who read about the book certainly,was,were
+ParkerAn_20_CORE_S,CORE_S,The librarian who read  the book certainly,was,were
+ParkerAn_20_OBLIQUE_P,OBLIQUE_P,The librarian who read about the books certainly,was,were
+ParkerAn_20_CORE_P,CORE_P,The librarian who read  the books certainly,was,were
+ParkerAn_21_OBLIQUE_S,OBLIQUE_S,The chef who prepared for the meal evidently,was,were
+ParkerAn_21_CORE_S,CORE_S,The chef who prepared  the meal evidently,was,were
+ParkerAn_21_OBLIQUE_P,OBLIQUE_P,The chef who prepared for the meals evidently,was,were
+ParkerAn_21_CORE_P,CORE_P,The chef who prepared  the meals evidently,was,were
+ParkerAn_22_OBLIQUE_S,OBLIQUE_S,The gardener who cut around the hedge financially,was,were
+ParkerAn_22_CORE_S,CORE_S,The gardener who cut  the hedge financially,was,were
+ParkerAn_22_OBLIQUE_P,OBLIQUE_P,The gardener who cut around the hedges financially,was,were
+ParkerAn_22_CORE_P,CORE_P,The gardener who cut  the hedges financially,was,were
+ParkerAn_23_OBLIQUE_S,OBLIQUE_S,The athlete who kicked near the referee obviously,was,were
+ParkerAn_23_CORE_S,CORE_S,The athlete who kicked  the referee obviously,was,were
+ParkerAn_23_OBLIQUE_P,OBLIQUE_P,The athlete who kicked near the referees obviously,was,were
+ParkerAn_23_CORE_P,CORE_P,The athlete who kicked  the referees obviously,was,were
+ParkerAn_24_OBLIQUE_S,OBLIQUE_S,The artist who painted in the garden apparently,was,were
+ParkerAn_24_CORE_S,CORE_S,The artist who painted  the garden apparently,was,were
+ParkerAn_24_OBLIQUE_P,OBLIQUE_P,The artist who painted in the gardens apparently,was,were
+ParkerAn_24_CORE_P,CORE_P,The artist who painted  the gardens apparently,was,were
+ParkerAn_25_OBLIQUE_S,OBLIQUE_S,The teacher who called for the student obviously,was,were
+ParkerAn_25_CORE_S,CORE_S,The teacher who called  the student obviously,was,were
+ParkerAn_25_OBLIQUE_P,OBLIQUE_P,The teacher who called for the students obviously,was,were
+ParkerAn_25_CORE_P,CORE_P,The teacher who called  the students obviously,was,were
+ParkerAn_26_OBLIQUE_S,OBLIQUE_S,The chef who cooked with the onion obviously,was,were
+ParkerAn_26_CORE_S,CORE_S,The chef who cooked  the onion obviously,was,were
+ParkerAn_26_OBLIQUE_P,OBLIQUE_P,The chef who cooked with the onions obviously,was,were
+ParkerAn_26_CORE_P,CORE_P,The chef who cooked  the onions obviously,was,were
+ParkerAn_27_OBLIQUE_S,OBLIQUE_S,The host who sat near the guest certainly,was,were
+ParkerAn_27_CORE_S,CORE_S,The host who sat  the guest certainly,was,were
+ParkerAn_27_OBLIQUE_P,OBLIQUE_P,The host who sat near the guests certainly,was,were
+ParkerAn_27_CORE_P,CORE_P,The host who sat  the guests certainly,was,were
+ParkerAn_28_OBLIQUE_S,OBLIQUE_S,The stewardess who sat behind the passenger certainly,was,were
+ParkerAn_28_CORE_S,CORE_S,The stewardess who sat  the passenger certainly,was,were
+ParkerAn_28_OBLIQUE_P,OBLIQUE_P,The stewardess who sat behind the passengers certainly,was,were
+ParkerAn_28_CORE_P,CORE_P,The stewardess who sat  the passengers certainly,was,were
+ParkerAn_29_OBLIQUE_S,OBLIQUE_S,The driver who crossed over the bridge luckily,was,were
+ParkerAn_29_CORE_S,CORE_S,The driver who crossed  the bridge luckily,was,were
+ParkerAn_29_OBLIQUE_P,OBLIQUE_P,The driver who crossed over the bridges luckily,was,were
+ParkerAn_29_CORE_P,CORE_P,The driver who crossed  the bridges luckily,was,were
+ParkerAn_30_OBLIQUE_S,OBLIQUE_S,The professor who wrote on the test certainly,was,were
+ParkerAn_30_CORE_S,CORE_S,The professor who wrote  the test certainly,was,were
+ParkerAn_30_OBLIQUE_P,OBLIQUE_P,The professor who wrote on the tests certainly,was,were
+ParkerAn_30_CORE_P,CORE_P,The professor who wrote  the tests certainly,was,were
+ParkerAn_31_OBLIQUE_S,OBLIQUE_S,The journalist who wrote about the article obviously,was,were
+ParkerAn_31_CORE_S,CORE_S,The journalist who wrote  the article obviously,was,were
+ParkerAn_31_OBLIQUE_P,OBLIQUE_P,The journalist who wrote about the articles obviously,was,were
+ParkerAn_31_CORE_P,CORE_P,The journalist who wrote  the articles obviously,was,were
+ParkerAn_32_OBLIQUE_S,OBLIQUE_S,The robber who broke into the drawer apparently,was,were
+ParkerAn_32_CORE_S,CORE_S,The robber who broke  the drawer apparently,was,were
+ParkerAn_32_OBLIQUE_P,OBLIQUE_P,The robber who broke into the drawers apparently,was,were
+ParkerAn_32_CORE_P,CORE_P,The robber who broke  the drawers apparently,was,were
+ParkerAn_33_OBLIQUE_S,OBLIQUE_S,The dog that chewed on the bone probably,was,were
+ParkerAn_33_CORE_S,CORE_S,The dog that chewed  the bone probably,was,were
+ParkerAn_33_OBLIQUE_P,OBLIQUE_P,The dog that chewed on the bones probably,was,were
+ParkerAn_33_CORE_P,CORE_P,The dog that chewed  the bones probably,was,were
+ParkerAn_34_OBLIQUE_S,OBLIQUE_S,The coach who trained with the athlete definitely,was,were
+ParkerAn_34_CORE_S,CORE_S,The coach who trained  the athlete definitely,was,were
+ParkerAn_34_OBLIQUE_P,OBLIQUE_P,The coach who trained with the athletes definitely,was,were
+ParkerAn_34_CORE_P,CORE_P,The coach who trained  the athletes definitely,was,were
+ParkerAn_35_OBLIQUE_S,OBLIQUE_S,The child who walked by the puppy clearly,was,were
+ParkerAn_35_CORE_S,CORE_S,The child who walked  the puppy clearly,was,were
+ParkerAn_35_OBLIQUE_P,OBLIQUE_P,The child who walked by the puppies clearly,was,were
+ParkerAn_35_CORE_P,CORE_P,The child who walked  the puppies clearly,was,were
+ParkerAn_36_OBLIQUE_S,OBLIQUE_S,The nurse who called for the doctor clearly,was,were
+ParkerAn_36_CORE_S,CORE_S,The nurse who called  the doctor clearly,was,were
+ParkerAn_36_OBLIQUE_P,OBLIQUE_P,The nurse who called for the doctors clearly,was,were
+ParkerAn_36_CORE_P,CORE_P,The nurse who called  the doctors clearly,was,were
+ParkerAn_37_OBLIQUE_S,OBLIQUE_S,The boy who walked by the dog suddenly,was,were
+ParkerAn_37_CORE_S,CORE_S,The boy who walked  the dog suddenly,was,were
+ParkerAn_37_OBLIQUE_P,OBLIQUE_P,The boy who walked by the dogs suddenly,was,were
+ParkerAn_37_CORE_P,CORE_P,The boy who walked  the dogs suddenly,was,were
+ParkerAn_38_OBLIQUE_S,OBLIQUE_S,The athlete who ran in the race unsurprisingly,was,were
+ParkerAn_38_CORE_S,CORE_S,The athlete who ran  the race unsurprisingly,was,were
+ParkerAn_38_OBLIQUE_P,OBLIQUE_P,The athlete who ran in the races unsurprisingly,was,were
+ParkerAn_38_CORE_P,CORE_P,The athlete who ran  the races unsurprisingly,was,were
+ParkerAn_39_OBLIQUE_S,OBLIQUE_S,The fighter pilot who flew toward the plane definitely,was,were
+ParkerAn_39_CORE_S,CORE_S,The fighter pilot who flew  the plane definitely,was,were
+ParkerAn_39_OBLIQUE_P,OBLIQUE_P,The fighter pilot who flew toward the planes definitely,was,were
+ParkerAn_39_CORE_P,CORE_P,The fighter pilot who flew  the planes definitely,was,were
+ParkerAn_40_OBLIQUE_S,OBLIQUE_S,The child who drew on the picture apparently,was,were
+ParkerAn_40_CORE_S,CORE_S,The child who drew  the picture apparently,was,were
+ParkerAn_40_OBLIQUE_P,OBLIQUE_P,The child who drew on the pictures apparently,was,were
+ParkerAn_40_CORE_P,CORE_P,The child who drew  the pictures apparently,was,were
+ParkerAn_41_OBLIQUE_S,OBLIQUE_S,The researcher who wrote about the article clearly,was,were
+ParkerAn_41_CORE_S,CORE_S,The researcher who wrote  the article clearly,was,were
+ParkerAn_41_OBLIQUE_P,OBLIQUE_P,The researcher who wrote about the articles clearly,was,were
+ParkerAn_41_CORE_P,CORE_P,The researcher who wrote  the articles clearly,was,were
+ParkerAn_42_OBLIQUE_S,OBLIQUE_S,The child who climbed on the tree naturally,was,were
+ParkerAn_42_CORE_S,CORE_S,The child who climbed  the tree naturally,was,were
+ParkerAn_42_OBLIQUE_P,OBLIQUE_P,The child who climbed on the trees naturally,was,were
+ParkerAn_42_CORE_P,CORE_P,The child who climbed  the trees naturally,was,were
+ParkerAn_43_OBLIQUE_S,OBLIQUE_S,The actor who read about the script apparently,was,were
+ParkerAn_43_CORE_S,CORE_S,The actor who read  the script apparently,was,were
+ParkerAn_43_OBLIQUE_P,OBLIQUE_P,The actor who read about the scripts apparently,was,were
+ParkerAn_43_CORE_P,CORE_P,The actor who read  the scripts apparently,was,were
+ParkerAn_44_OBLIQUE_S,OBLIQUE_S,The dancer who learned about the move clearly,was,were
+ParkerAn_44_CORE_S,CORE_S,The dancer who learned  the move clearly,was,were
+ParkerAn_44_OBLIQUE_P,OBLIQUE_P,The dancer who learned about the moves clearly,was,were
+ParkerAn_44_CORE_P,CORE_P,The dancer who learned  the moves clearly,was,were
+ParkerAn_45_OBLIQUE_S,OBLIQUE_S,The reporter who met with the candidate definitely,was,were
+ParkerAn_45_CORE_S,CORE_S,The reporter who met  the candidate definitely,was,were
+ParkerAn_45_OBLIQUE_P,OBLIQUE_P,The reporter who met with the candidates definitely,was,were
+ParkerAn_45_CORE_P,CORE_P,The reporter who met  the candidates definitely,was,were
+ParkerAn_46_OBLIQUE_S,OBLIQUE_S,The fan who met with the musician certainly,was,were
+ParkerAn_46_CORE_S,CORE_S,The fan who met  the musician certainly,was,were
+ParkerAn_46_OBLIQUE_P,OBLIQUE_P,The fan who met with the musicians certainly,was,were
+ParkerAn_46_CORE_P,CORE_P,The fan who met  the musicians certainly,was,were
+ParkerAn_47_OBLIQUE_S,OBLIQUE_S,The journalist who met with the diplomat undoubtedly,was,were
+ParkerAn_47_CORE_S,CORE_S,The journalist who met  the diplomat undoubtedly,was,were
+ParkerAn_47_OBLIQUE_P,OBLIQUE_P,The journalist who met with the diplomats undoubtedly,was,were
+ParkerAn_47_CORE_P,CORE_P,The journalist who met  the diplomats undoubtedly,was,were
