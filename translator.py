@@ -37,7 +37,7 @@ with open(input_filename) as csvfile:
         elif "that" in full_sentence:
             NP, TP = full_sentence.split("that")
             complementizer = "that"
-        CP = complementizer + " "+ TP
+        CP = complementizer + " " + TP
         print(NP, CP)
         if NP not in translated_dict:
             NP_translated = translator.translate(NP, dest='fr', src='en').text
