@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 from keras.utils import get_file
 from timeit import default_timer as timer
 import os
+import pandas as pd
+import matplotlib.pyplot as plt
 
 base_url = 'https://dumps.wikimedia.org/frwiki/'
 index = requests.get(base_url).text
@@ -50,3 +52,9 @@ for thing in sorted(file_info, key=lambda x: x[1], reverse=True)[:5]:
     print(thing)
 
 print(f'There are {len(file_info)} partitions.')
+
+file_df = pd.DataFrame(file_info, columns = ['file', 'size (MB)', 'articles']).set_index('file')
+file_df['size (MB)'].plot.bar(color = 'red', figsize = (12, 6))
+plt.show()
+
+print(f"The total size of files on disk is {file_df['size (MB)'].sum() / 1e3} GB")
