@@ -33,6 +33,13 @@ OR
 
 4. Get translations - Inflect verbs using PyPi pluraliser
 
+
+TODO for Wikipedia data:
+1. XML to MediaWiki
+2. MediaWiki through mwparserfromhell
+3. POS tagging
+4. count VBZ and VBP
+
 References:
 1. https://github.com/SArehalli/NLMsCaptureSomeAgrAttr
 2. https://github.com/TalLinzen/rnn_agreement
