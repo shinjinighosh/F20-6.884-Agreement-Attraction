@@ -9,7 +9,8 @@ import bz2
 import subprocess
 import xml.sax
 from WikiXml import WikiXmlHandler
-import wiki_dump_parser as parser
+import wiki_dump_parser
+import wikiextractor
 
 
 # get wikipedia files
@@ -79,8 +80,8 @@ data_path = data_paths[-1]
 #     lines.append(line)
 #     if i > 5e5:
 #         break
-
-# print(lines[-165:-109])
+#
+# print(lines[-165:-100])
 
 
 # Content handler for Wiki XML
@@ -96,4 +97,15 @@ data_path = data_paths[-1]
 
 # ALTERNATIVE
 xml_path = data_path[:-4]
+base_path = "/home/shinjini/.keras/datasets/"
+# xml_path = base_path + "frwiki-20201120-pages-articles-multistream6-p13574284p13718495.xml"
+# xml_path = base_path + "frwiki-20201120-pages-articles1-p1p306134.xml"
+# xml_path = base_path + "frwiki-20201120-pages-articles-multistream6-p9074284p10574283.xml"
+# xml_path = base_path + "frwiki-20201101-pages-meta-current1-p1p306134.xml"
+xml_path = base_path + "frwiki-20201101-pages-articles1-p1p306134.xml"
 print("XML to use is", xml_path)
+
+# wiki_dump_parser.xml_to_csv(xml_path)
+
+# ALTERNATIVE
+# python3 -m wikiextractor.WikiExtractor "/home/shinjini/.keras/datasets/frwiki-20201101-pages-articles1-p1p306134.xml"
